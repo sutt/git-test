@@ -29,3 +29,6 @@
       using the camera-board instead of usb webcam
           https://spacerazor.wordpress.com/2014/08/30/emgucv-with-the-raspberry-pi-camera-module/ 
   
+          https://www.youtube.com/watch?v=MWK55A0RH0U&feature=youtu.be
+          
+          https://github.com/neutmute/robidouille/tree/master/raspicam_cv
