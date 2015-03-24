@@ -32,3 +32,26 @@
           https://www.youtube.com/watch?v=MWK55A0RH0U&feature=youtu.be
           
           https://github.com/neutmute/robidouille/tree/master/raspicam_cv
+		  
+3.24
+
+
+ - Random Articles
+ 
+  Python 10 myths
+  https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/
+  https://news.ycombinator.com/item?id=9256082
+  
+  Python performance with Intel MathKit vs. Atlas for Linear Algebra
+  https://software.intel.com/en-us/articles/numpyscipy-with-intel-mkl
+  
+  PyCharm IDE
+  https://www.jetbrains.com/pycharm/
+  
+  Norvig Spell Checker
+  http://norvig.com/spell-correct.html
+  
+  Crowd sourcing dev help
+  http://crowdcrafting.org/
+  
+  
