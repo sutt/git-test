@@ -54,4 +54,6 @@
   Crowd sourcing dev help
   http://crowdcrafting.org/
   
+  Python Global Interpreter Lock
+  https://wiki.python.org/moin/GlobalInterpreterLock
   
