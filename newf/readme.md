@@ -63,4 +63,5 @@
   Rpi + OpenCV: look in comments for other ways to build, claims 32 fps for tracking
   http://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
   
-  
+  Git Tut from Recurse Center
+  https://codewords.recurse.com/issues/two/git-from-the-inside-out
