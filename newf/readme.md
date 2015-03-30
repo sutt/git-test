@@ -65,3 +65,35 @@
   
   Git Tut from Recurse Center
   https://codewords.recurse.com/issues/two/git-from-the-inside-out
+  
+ 3.27
+ 
+  HN Algo
+  http://amix.dk/blog/post/19574
+  
+  Rails is a Ghetto, Zed Shaw
+  http://harmful.cat-v.org/software/ruby/rails/is-a-ghetto
+  
+  Learn X in Y minutes, nice cheat sheet
+  http://learnxinyminutes.com/docs/python/
+  http://learnxinyminutes.com/docs/git/
+  
+  Parsing ls
+  http://mywiki.wooledge.org/ParsingLs
+  
+  cd to a directory #x with bash script
+  a=($(ls))
+  b=cd" "${a[x]}
+  $b
+  
+  finding ways to break on value change
+  http://stackoverflow.com/questions/160045/break-when-a-value-changes-using-the-visual-studio-debugger
+  
+  Visual Commander - 3rd party alternate to Macros in VisualStudios
+  https://vlasovstudio.com/visual-commander/
+  
+  sqlite plugin for VS
+  http://sqlcetoolbox.codeplex.com/documentation
+  http://sqlcetoolbox.codeplex.com/license
+  
+  
