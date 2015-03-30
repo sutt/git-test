@@ -96,4 +96,15 @@
   http://sqlcetoolbox.codeplex.com/documentation
   http://sqlcetoolbox.codeplex.com/license
   
+ 
+ 3.30
+ 
+   To use command window in VS, > Tools.shell /commandwindow c:/..../app.exe
+   https://msdn.microsoft.com/en-us/library/0xca6kdd.aspx
+ 
+   vb.net: To split file by lines
+   Dim split4 As String() = global_file.Split(New String() {Environment.NewLine}, StringSplitOptions.None)
+   
+ 
+  
   
