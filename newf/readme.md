@@ -105,6 +105,12 @@
    vb.net: To split file by lines
    Dim split4 As String() = global_file.Split(New String() {Environment.NewLine}, StringSplitOptions.None)
    
+   VB list structures
+   Imports System.Collections.ArrayList
+   Imports System.Collections.Generic
+  
+ 3.31
  
-  
-  
+    When VBA doesn't run anything for no reason, goto VBA IDE > View > ErrorList, fix errors, boom.
+	
+	
