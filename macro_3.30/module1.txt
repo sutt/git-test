@@ -1,0 +1,139 @@
+Imports System
+Imports EnvDTE
+Imports EnvDTE80
+Imports EnvDTE90
+Imports EnvDTE90a
+Imports EnvDTE100
+Imports System.Diagnostics
+Imports System.IO
+Imports System.Collections.ArrayList
+Imports System.Collections.Generic
+
+
+Public Class SR
+    Public ModuleName As String
+    Public LineNumber As Integer
+End Class
+
+
+
+Public Module Module1
+
+    Sub test()
+        'PrintLine(
+    End Sub
+
+    Sub enterdebug()
+        Sut1("bff", 4)
+    End Sub
+
+    Sub Sut1(Optional ByVal sSearchTerm As String = "", _
+             Optional ByVal iBreakValue As Integer = 4)
+
+        If Len(sSearchTerm) < 1 Then                                'Error Handling: needs an argument
+            MsgBox("must put in an argument to search")
+            Exit Sub
+        End If
+        
+        Dim wResult As Window = FRwindow()                          'Get Find Results Window 1/2
+        Dim sResult As String = search1(sSearchTerm, wResult)       'Return Search as string
+
+        Dim listSR As New List(Of SR)                               'build list of locations to break
+        parse1(sResult, listSR)
+        listSR.ForEach(Function(x) addBreak(x, sSearchTerm, 4))     'Add the breaks/and their conditions at each location
+
+
+    End Sub
+
+    Public Function FRwindow()
+
+        Dim allWins = DTE.Windows()
+
+        For Each w As Window In allWins
+            Dim sCaption As String = w.Caption()
+            If sCaption.IndexOf("Find Results") > -1 Then
+                Return w                                            'Exit function and return correct window
+            End If
+        Next
+        MsgBox("could not find OLE object for search results window")
+        'Return Nothing
+    End Function
+
+    Function addBreak(ByVal isr As SR, ByVal searchTerm As String, Optional ByVal VarValue As Integer = 4)
+
+        DTE.Debugger.Breakpoints.Add("", _
+                                    isr.ModuleName, _
+                                    isr.LineNumber, _
+                                    1, _
+                                    searchTerm & "=" & CStr(VarValue), _
+                                    EnvDTE.dbgBreakpointConditionType.dbgBreakpointConditionTypeWhenTrue)
+
+    End Function
+
+    Function search1(ByVal sSearchTerm, ByVal resultsWin)
+
+        DTE.Find.FindWhat = sSearchTerm
+
+        'DTE.Find.Target = vsFindTarget.vsFindTargetCurrentDocument                 'Search Options
+        DTE.Find.Target = vsFindTarget.vsFindTargetFiles
+        DTE.Find.SearchPath = "c:/users/wsutton/desktop/sut4/spell1/"
+
+        If (DTE.Find.Execute() = vsFindResult.vsFindResultNotFound) Then            'Execute Search
+            Throw New System.Exception("vsFindResultNotFound")
+        End If
+        DTE.Find.Execute()
+
+        'According to SO, DTE.Execute executes syncronously so we need to allow...
+        '... the SearchThread to return results before selecting them
+        'http://stackoverflow.com/questions/1000137/dte-executecommand-and-wait
+        System.Threading.Thread.Sleep(1000)
+
+        Dim sel As TextSelection = resultsWin.Selection
+        sel.SelectAll()
+        Dim sSearchResults As String = sel.Text
+
+        Return sSearchResults
+
+    End Function
+
+
+    Function parse1(ByVal sSearchResults As String, ByRef listSR As List(Of SR))
+
+        'Input:     string  
+        'Returns:   list    [ { SR.ModuleName (string), SR.LineNumber (int) }, ... ]
+
+
+        'First split lines: one-document-string -> array of lines
+        Dim arrSearchResults As String() = _
+            sSearchResults.Split(New String() {Environment.NewLine}, _
+                                  StringSplitOptions.None)
+
+
+        Dim seachStr As String = ".vb("                         'Rationale: Seach for .vb extension 
+        Dim lenSS As Integer = Len(seachStr)                                'to locate modulename/linenumber
+
+        For Each line As String In arrSearchResults
+            Dim iExt = line.IndexOf(seachStr)
+            If iExt > 0 Then
+
+                Dim iSR As New SR
+
+                Dim iCloseParan = line.IndexOf(")")
+                iSR.LineNumber = CInt(line.Substring(iExt + lenSS, iCloseParan - (iExt + lenSS)))
+
+                Dim rline = StrReverse(line.Substring(0, iExt))
+                Dim iSlash = rline.IndexOf("\")
+                iSR.ModuleName = line.Substring(0, iExt) & ".vb"
+
+                listSR.Add(iSR)
+
+            End If
+        Next
+    End Function
+
+
+
+
+
+End Module
+
