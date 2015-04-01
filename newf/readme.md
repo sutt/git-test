@@ -113,4 +113,25 @@
  
     When VBA doesn't run anything for no reason, goto VBA IDE > View > ErrorList, fix errors, boom.
 	
-	
+ 4.1
+
+   discussion of .net for opencv
+   http://stackoverflow.com/questions/85569/net-dotnet-wrappers-for-opencv
+   
+   sports analytics, basketball
+   http://www.secondspectrum.com/	
+   
+   I2C and SPI writeup
+   http://www.byteparadigm.com/applications/introduction-to-i2c-and-spi-protocols/
+   
+   Rpi to arduino
+   http://blog.oscarliang.net/raspberry-pi-arduino-connected-i2c/
+   http://www.instructables.com/id/Raspberry-Pi-I2C-Python/
+   
+   Interesting engineer's blog, doing IoT things, Heroku / Saleforce
+   http://reidcarlberg.com/
+   https://github.com/ReidCarlberg
+   
+   Rule #1: do what adafruit says
+   https://learn.adafruit.com/using-the-bmp085-with-raspberry-pi/configuring-the-pi-for-i2c 
+   
