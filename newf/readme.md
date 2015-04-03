@@ -86,6 +86,7 @@
   b=cd" "${a[x]}
   $b
   
+  
   finding ways to break on value change
   http://stackoverflow.com/questions/160045/break-when-a-value-changes-using-the-visual-studio-debugger
   
@@ -135,3 +136,36 @@
    Rule #1: do what adafruit says
    https://learn.adafruit.com/using-the-bmp085-with-raspberry-pi/configuring-the-pi-for-i2c 
    
+4.2		
+
+   ShortcutKey DB
+   http://www.veodin.com/keyrocket/shortcut-database/
+		for VS2012
+		http://www.veodin.com/keyrocket/visual-studio-2012-shortcuts/
+   
+   How non-developers can contribute to open-source projects discussion
+   https://news.ycombinator.com/item?id=9307255
+   
+   
+ 4.3
+ 
+   Functional Programming
+   
+      Described for python
+	  https://docs.python.org/2/howto/functional.html#passing-values-into-a-generator
+		
+		itertools
+		https://docs.python.org/2/library/itertools.html#module-itertools
+	  
+	  Examples for VB
+	  https://msdn.microsoft.com/en-us/library/orm-9780596518431-01-09.aspx
+	  
+	SeatGeek - tickets
+	http://blogs.wsj.com/venturecapital/2015/04/02/seatgeek-scores-62-million-for-its-ticket-selling-app/
+	https://news.ycombinator.com/item?id=9313898
+	
+	Freeman Dyson, Scientist as rebel	https://books.google.com/books?id=Jhr8AwAAQBAJ&lpg=PT15&ots=MreY2f8eEg&dq=scientist%20as%20a%20rebel&pg=PT15#v=onepage&q&f=falsehttps://books.google.com/books?id=Jhr8AwAAQBAJ&lpg=PT15&ots=MreY2f8eEg&dq=scientist%20as%20a%20rebel&pg=PT15#v=onepage&q&f=false
+	
+	Verizon headers
+	https://news.ycombinator.com/item?id=8500131
+	
