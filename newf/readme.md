@@ -169,3 +169,40 @@
 	Verizon headers
 	https://news.ycombinator.com/item?id=8500131
 	
+ 4.6
+ 
+   Get this: VS Aync CTP v3
+    http://www.microsoft.com/en-us/download/details.aspx?id=9983
+	
+  4.7
+  
+    Rpi GPIO for .net
+	https://pisharp.codeplex.com/
+	
+	Call Cpp with Csharp vis-avis CppSharp
+	https://github.com/mono/CppSharp
+	
+  4.8
+  
+     Micromanipulator / Dissector
+	 https://backyardbrains.com/products/micromanipulator
+	 
+	 Days of War
+	 http://www.crimethinc.com/books/days.html
+	 
+	 
+	 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
