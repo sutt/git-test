@@ -190,10 +190,23 @@
 	 Days of War
 	 http://www.crimethinc.com/books/days.html
 	 
+	 Info addiction book
+	 http://www.amazon.com/The-Distraction-Addiction-Information-Communication/dp/0316208264
+	 
+  4.10
+  
+     OpenSOurce .net Libraries
+	 http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier/
+	 https://news.ycombinator.com/item?id=9353668
+	 https://github.com/tallesl/.NET-libraries
+	 
+	 Another .net guy
+	 http://www.hanselman.com/blog/HowToRunBackgroundTasksInASPNET.aspx
+   
+     Helpful python import/loading modules question http://stackoverflow.com/questions/3061/calling-a-function-of-a-module-from-a-string-with-the-functions-name-in-python?rq=1
 	 
 	 
-   
-   
+     
    
    
    
