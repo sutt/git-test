@@ -205,6 +205,11 @@
    
      Helpful python import/loading modules question http://stackoverflow.com/questions/3061/calling-a-function-of-a-module-from-a-string-with-the-functions-name-in-python?rq=1
 	 
+	 python __del__()  / GC / teardown, etc
+	 http://stackoverflow.com/questions/1339293/python-memory-leak-debugging
+	 http://stackoverflow.com/questions/11891755/find-all-references-to-an-object-in-python/11891904#1189190http://stackoverflow.com/questions/11891755/find-all-references-to-an-object-in-python/11891904#11891904
+	 http://stackoverflow.com/questions/16686788/python-how-to-kill-a-class-instance-object
+	 http://nedbatchelder.com/blog/200809/a_server_memory_leak.html
 	 
      
    
