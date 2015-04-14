@@ -195,7 +195,7 @@
 	 
   4.10
   
-     OpenSOurce .net Libraries
+     OpenSource .net Libraries
 	 http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier/
 	 https://news.ycombinator.com/item?id=9353668
 	 https://github.com/tallesl/.NET-libraries
@@ -212,12 +212,47 @@
 	 http://nedbatchelder.com/blog/200809/a_server_memory_leak.html
 	 
      
+   4.14
    
+   C# Exceptions
+   http://www.volatileread.com/Wiki?id=1087
    
+   F# Discussion and Poll
+   https://news.ycombinator.com/item?id=9373269
    
+		Tutorial for F#
+		http://fsharp.org/about/learning.html
+		
+		MSTutorial - functional Prgoramming
+		https://msdn.microsoft.com/en-us/library/vstudio/hh314518%28v=vs.100%29.aspx
+		
+		Community Watercoolers
+		https://sergeytihon.wordpress.com/category/f-weekly/
+		http://blogs.msdn.com/b/fsharpteam/
+		http://www.tryfsharp.org/
    
+    
+	Python PIL - Imaging Factory
+	http://effbot.org/imagingbook/image.htm
+	
+	Pip for .Net
+	https://www.nuget.org/packages/NuGet.CommandLine/
    
+   Python exception handling
    
+	   import zmq
+	   http://zguide.zeromq.org/py:interrupt
+   
+		python frames
+		http://stackoverflow.com/questions/1140194/in-python-how-do-i-obtain-the-current-frame
+		
+		register a function atexit
+		https://docs.python.org/2/library/atexit.html#module-atexit
+		
+		python signal, for asnyc proc communication
+		https://docs.python.org/2/library/signal.html#example
+		
+		
    
    
    
