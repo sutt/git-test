@@ -253,6 +253,20 @@
 		https://docs.python.org/2/library/signal.html#example
 		
 		
+   4.15
+   
+   Self-Host Sci Journal with e-lens
+   https://medium.com/@_mql/self-host-a-scientific-journal-with-elife-lens-f420afb678aa
+   
+   4.16
+   
+   Serving Tiles in Go
+   https://http2.golang.org/gophertiles?latency=0
+   https://news.ycombinator.com/item?id=9388325
+   
+   Interesting blog
+   https://nydwracu.wordpress.com/
+   http://tendrilsofreality.tumblr.com/
    
    
    
