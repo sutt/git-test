@@ -268,7 +268,29 @@
    https://nydwracu.wordpress.com/
    http://tendrilsofreality.tumblr.com/
    
+   4.17
    
+   Prompts for programmers
+   http://kevinlawler.com/prompts
+   
+   4.21
+   
+   Regular Expressions for .Net
+   https://msdn.microsoft.com/en-us/library/2k3te2cs.aspx
+   
+   4.22
+   Python books - cools stuff
+   http://automatetheboringstuff.com/
+   http://inventwithpython.com/
+   
+   Enferno: A template for using Flask as lightweight swiss-army knife
+   http://enferno.io/
+		
+		a write-up blog
+		https://medium.com/project-enferno/create-your-first-minion-with-project-enferno-f7884aa95443
+   
+		the dude
+		https://news.ycombinator.com/user?id=level09, 
    
    
    
