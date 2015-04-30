@@ -164,7 +164,7 @@
 	http://blogs.wsj.com/venturecapital/2015/04/02/seatgeek-scores-62-million-for-its-ticket-selling-app/
 	https://news.ycombinator.com/item?id=9313898
 	
-	Freeman Dyson, Scientist as rebel	https://books.google.com/books?id=Jhr8AwAAQBAJ&lpg=PT15&ots=MreY2f8eEg&dq=scientist%20as%20a%20rebel&pg=PT15#v=onepage&q&f=falsehttps://books.google.com/books?id=Jhr8AwAAQBAJ&lpg=PT15&ots=MreY2f8eEg&dq=scientist%20as%20a%20rebel&pg=PT15#v=onepage&q&f=false
+	Freeman Dyson, Scientist as rebel	https://books. .com/books?id=Jhr8AwAAQBAJ&lpg=PT15&ots=MreY2f8eEg&dq=scientist%20as%20a%20rebel&pg=PT15#v=onepage&q&f=falsehttps://books.google.com/books?id=Jhr8AwAAQBAJ&lpg=PT15&ots=MreY2f8eEg&dq=scientist%20as%20a%20rebel&pg=PT15#v=onepage&q&f=false
 	
 	Verizon headers
 	https://news.ycombinator.com/item?id=8500131
@@ -287,11 +287,96 @@
    http://enferno.io/
 		
 		a write-up blog
-		https://medium.com/project-enferno/create-your-first-minion-with-project-enferno-f7884aa95443
+     	https://medium.com/project-enferno/create-your-first-minion-with-project-enferno-f7884aa95443
    
 		the dude
 		https://news.ycombinator.com/user?id=level09, 
    
    
+    4.23
+	
+	H/N Strat's 
+    http://antontarasenko.com/2015/04/23/best-time-to-post-its-irrelevant/	http://nbviewer.ipython.org/github/antontarasenko/blog-replication-files/blob/master/2015/hacker_news_timing/hn_posting_time.ipynb
+	http://minimaxir.com/2014/02/hacking-hacker-news/
    
+    C#7 RFC
+	https://github.com/dotnet/roslyn/issues/2136
+	
    
+    4.24
+	
+	OpenCV  report from 2010
+	http://codecapsule.com/2010/07/26/four-weeks-with-opencv/
+	
+	Periscope - SQL tool
+	https://www.periscope.io/blog
+	
+	
+	4.27
+	
+	https://docs.google.com/a/welis.com/spreadsheets/d/1swcl3PWGQHMyfdPG8k9uo05_oajGbXMin-Ou6VjZq14/edit#gid=0
+	
+	Prisoners Escape of chessboard / coins logic problem
+	http://datagenetics.com/blog/december12014/index.html
+	
+	4.29
+	
+	PAckageMAnagement Windows10
+	http://blogs.technet.com/b/packagemanagement/archive/2015/04/29/introducing-packagemanagement-in-windows-10.aspx
+	
+	Currently a good one
+	https://chocolatey.org/
+	
+	Comparing ML languages
+	http://thebreakfastpost.com/2015/04/22/four-mls-and-a-python/
+	
+	4.30
+	
+	MS goes off
+		MS launches .NET for linux/mac
+		https://news.ycombinator.com/item?id=9459513
+		
+		MS makes VisualStudios CrossPlatform
+		https://news.ycombinator.com/item?id=9459364
+		
+		open sourcing c++ debugger	http://blogs.msdn.com/b/vcblog/archive/2015/04/29/open-sourcing-visual-studio-s-gdb-lldb-debug-engine.aspx
+		
+	
+	postgres vs sqlserver
+	http://www.pg-versus-ms.com/
+	https://news.ycombinator.com/item?id=9464505
+	
+		CLR in SQLserver
+		https://msdn.microsoft.com/en-us/library/ms131102(v=sql.110).aspx
+	
+
+
+	Maps
+		serving tiles with postgres,apache,postgis, osm
+		https://switch2osm.org/serving-tiles/manually-building-a-tile-server-12-04/
+		
+		calvin's tile server, fractal map
+		http://catilinejs.com/website/leaflet-fractal/#500/-0.37/0.6/julia
+		
+		Wiki on Tile Servers
+		http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Tile_servers
+	
+	
+	Rpi measure/explore ebook, $0?
+	https://leanpub.com/b/theauthorbundle/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
