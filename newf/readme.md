@@ -361,6 +361,15 @@
 		Wiki on Tile Servers
 		http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Tile_servers
 	
+		Slippy Map
+		http://wiki.openstreetmap.org/wiki/Deploying_your_own_Slippy_Map
+		
+		C# (Client?) for slippy
+		https://github.com/BruTile/BruTile
+		
+		Tile Drawer
+		https://github.com/migurski/Tile-Drawer
+	
 	
 	Rpi measure/explore ebook, $0?
 	https://leanpub.com/b/theauthorbundle/
