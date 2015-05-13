@@ -375,6 +375,44 @@
 	https://leanpub.com/b/theauthorbundle/
 	
 	
+	5.1
+	
+	F# 4.0 Review
+	http://www.infoq.com/news/2015/04/FSharp-4
+	
+	LabMinds, solution prep robot. Boston based
+	 http://www.labminds.co/video/solution-preparation
+	 
+	
+	5.4
+	
+	GPU parsing of csv
+	https://github.com/antonmks/nvParse
+	 
+	VS regex
+	https://msdn.microsoft.com/en-us/library/2k3te2cs.aspx
+	 
+	5.6
+	
+	Baseball Model
+	http://footballcommentary.com/bbmodel.htm
+	
+	Money Mustache
+	http://www.mrmoneymustache.com/
+	
+	5.12
+	
+	Libertarian Climate
+	https://climateunplugged.com/blogpost/?postid=951
+	
+	5.13
+	
+	C# - wiki books
+	http://en.wikibooks.org/wiki/C_Sharp_Programming/The_.NET_Framework/Threading
+	
+	
+	
+	
 	
 	
 	
