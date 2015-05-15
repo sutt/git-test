@@ -410,9 +410,24 @@
 	C# - wiki books
 	http://en.wikibooks.org/wiki/C_Sharp_Programming/The_.NET_Framework/Threading
 	
+	5.14
 	
+	Image 2 Excel
+	https://github.com/Dobiasd/img2xls
 	
+	Plain Text for Diagrams
+	http://monodraw.helftone.com/
 	
+	5.15
+	
+	Breakthrough Institute - Return of Nature
+	http://thebreakthrough.org/index.php/journal/issue-5/the-return-of-nature
+	
+	REST vs RPC
+	http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/
+	
+	Code Projects - Canonical CS problems for any language
+	https://github.com/karan/Projects
 	
 	
 	
