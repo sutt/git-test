@@ -429,8 +429,44 @@
 	Code Projects - Canonical CS problems for any language
 	https://github.com/karan/Projects
 	
+	Insurance Essay by Nick Szabo
+	http://szabo.best.vwh.net/insurance.html
+	
+	5.20
+	
+	Async in Python
+	https://lwn.net/SubscriberLink/643786/9c0bd83dff0df3b8/
+	
+	WCF Windows Comm Open Source
+	http://www.dotnetfoundation.org/blog/wcf-is-open-source
+	
+	NuGET - PkgManager for .net
+	http://www.nuget.org/
+		VS > Tools > NuGet PAckage Manager Console
+		
+	Nancy - Flask for .net
+	http://nancyfx.org/
+	
+	5.21
+	
+	Hadoop BAshing + Stucchio's an interesting dude
+	https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html
+	
+	5.22
+	
+	Holy Grail CSS Layout with Flexbox
+	https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/
+		
+		flexbox demo - Bostock level designer
+		http://bennettfeely.com/flexplorer/
+		
+	
+	Front-End "Sandbox" / Github
+	http://codepen.io/
 	
 	
+		
+		
 	
 	
 	
