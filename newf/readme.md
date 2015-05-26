@@ -464,9 +464,15 @@
 	Front-End "Sandbox" / Github
 	http://codepen.io/
 	
+	5.26
 	
+	Macros for python
+	https://github.com/lihaoyi/macropy
 		
-		
+	Bio + Imaging Guy on HN
+	http://calculatedimages.blogspot.com/2015/04/light-years-of-dna.html
+	
+	
 	
 	
 	
