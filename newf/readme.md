@@ -473,9 +473,18 @@
 	http://calculatedimages.blogspot.com/2015/04/light-years-of-dna.html
 	
 	
+	5.28
 	
+	Tornado rail-esque starting guide by MIT bitcoin dev
+	https://github.com/JeremyRubin/tornado-trails
+		http://www.tornadoweb.org/en/stable/guide/intro.html
 	
+	https://medium.com/@moritzfelipe/why-bitcoin-should-replace-the-like-button-4fe1e1d38e7a
+		
+	5.29
 	
+	Github command line
+	https://github.com/ingydotnet/git-hub
 	
 	
 	
