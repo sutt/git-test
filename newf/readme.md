@@ -487,7 +487,18 @@
 	https://github.com/ingydotnet/git-hub
 	
 	
+	6.2
 	
+	Alias in git bash - add .bashrc and source it
+	http://superuser.com/questions/602872/how-do-i-modify-my-git-bash-profile-in-windows
+	
+	source command in bash
+	http://ss64.com/bash/source.html
+	
+	6.4
+	
+	Karpathy on building chrome extensions
+	http://karpathy.github.io/2013/11/23/chrome-extension-programming/
 	
 	
 	
