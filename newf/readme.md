@@ -501,6 +501,18 @@
 	http://karpathy.github.io/2013/11/23/chrome-extension-programming/
 	
 	
+	6.5
+	
+	Abby @MozillaScienceLabs
+	http://acabunoc.github.io/
 	
 	
+	python xml tut
+	http://pymotw.com/2/xml/etree/ElementTree/parse.html
+	http://pymotw.com/2/Queue/index.html#module-Queue
+	
+	6.8
+	
+	GUI for python
+	http://nucleic.github.io/enaml/docs/index.html
 	
