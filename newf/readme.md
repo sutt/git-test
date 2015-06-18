@@ -488,8 +488,8 @@
 	
 	
 	6.2
-	
 	Alias in git bash - add .bashrc and source it
+	
 	http://superuser.com/questions/602872/how-do-i-modify-my-git-bash-profile-in-windows
 	
 	source command in bash
@@ -515,4 +515,29 @@
 	
 	GUI for python
 	http://nucleic.github.io/enaml/docs/index.html
+	
+	6.9
+	
+	Ipython for emacs
+	https://github.com/gregsexton/ob-ipython
+	
+	Meetup for Gingko dude 6/24
+	http://www.meetup.com/Helbling-Visionary-Series/events/222825669/?eventId=222825669&action=detail 
+	
+	iGEM Meetup 6/19
+	http://2015.igem.org/Meetups/New_England_(NEGEM)
+	
+	6.15
+	
+	Molecular programming
+	http://molecular-programming.org/
+	https://news.ycombinator.com/item?id=9717039
+	
+	6.17
+	
+	Commandline help
+	https://github.com/jlevy/the-art-of-command-line
+	
+	"Datascience" command line
+	http://datascienceatthecommandline.com/
 	
