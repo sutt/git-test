@@ -541,3 +541,14 @@
 	"Datascience" command line
 	http://datascienceatthecommandline.com/
 	
+	6.22
+	
+	DotNet Site
+	http://www.dotnetrocks.com/
+	
+	KISS programming blog (21st century programming)
+	http://prog21.dadgum.com/177.html
+	
+	Free Code Camp - they hep NonProfits
+	http://www.wired.com/2015/06/can-real-world-work-free-coding-boot-camp/
+	
