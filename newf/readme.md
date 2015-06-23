@@ -552,3 +552,7 @@
 	Free Code Camp - they hep NonProfits
 	http://www.wired.com/2015/06/can-real-world-work-free-coding-boot-camp/
 	
+	In 1870, 70-80 percent of the US population was employed in agriculture.[15] As of 2008, less than 2 percent of the population is directly employed in agriculture.[16][17]
+	
+	
+	
