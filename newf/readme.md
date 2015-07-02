@@ -555,4 +555,32 @@
 	In 1870, 70-80 percent of the US population was employed in agriculture.[15] As of 2008, less than 2 percent of the population is directly employed in agriculture.[16][17]
 	
 	
+	6.24
+	
+	Kayak: Canton to Milton
+	http://bostonkayaker.com/cgi-bin/bkonekpage.cgi?pagekey=neponsetcanton
+	
+	
+	6.25
+	
+	OCR Open source discussion
+	https://news.ycombinator.com/item?id=9775753
+	https://ocr.a9t9.com/
+	
+	OCR / Robotics blog
+	http://blog.a9t9.com/
+	
+	6.30
+	
+	D3 Gallery of links
+	https://github.com/wbkd/awesome-d3
+	
+	GNU PIC: box and arrow diagram software
+	http://floppsie.comp.glam.ac.uk/Glamorgan/gaius/web/pic.html
+	
+	7.2
+	Python Tut
+	http://www.tutorialspoint.com/python/python_strings.htm
+	
+	
 	
