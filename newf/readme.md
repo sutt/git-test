@@ -582,5 +582,51 @@
 	Python Tut
 	http://www.tutorialspoint.com/python/python_strings.htm
 	
+	Ipython + soduku + Flask from IBM	https://www.ibm.com/developerworks/community/blogs/jfp/entry/using_ipython_notebooks_in_docker_containers_on_windows?lang=en
+	
+	no-sql toy in python
+	https://github.com/jeffknupp/nosql
+	
+	
+	7.6
+	
+	Googel Neural Network "Dreams" Images
+	http://gizmodo.com/googles-dream-robot-is-running-wild-across-the-internet-1715839224
+	
+	7.7
+	
+	Cindy Wu - on HN
+	https://news.ycombinator.com/threads?id=cindywu123
+		
+	OpenBiotech Article
+	http://sethbannon.com/biotech-in-the-garage
+	
+	Joan Didion - Self-Respect
+	http://www.vogue.com/3241115/joan-didion-self-respect-essay-1961/
+	
+	Uncle Bob: Craftsman vs Laborer
+	http://blog.8thlight.com/uncle-bob/2013/01/30/The-Craftsman-And-The-Laborer.html
+	
+	Explaining a Monad with F#
+	http://fsharpforfunandprofit.com/posts/recipe-part2/
+	
+	7.9
+	
+	11-million-to-1 gearbox: microscope?
+	http://makezine.com/2015/07/08/bet-cant-find-use-11-million-1-gearbox/
+	https://news.ycombinator.com/item?id=9857025
+	
+	7.14
+	
+	LAuren Holliday - "Millenial Marketer" / Freelanship promoter
+	https://www.linkedin.com/in/laurenaholliday
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
