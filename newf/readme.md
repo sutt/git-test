@@ -621,6 +621,69 @@
 	LAuren Holliday - "Millenial Marketer" / Freelanship promoter
 	https://www.linkedin.com/in/laurenaholliday
 	
+	7.15
+	
+	Chromecast Hacks
+	http://readwrite.com/2013/07/30/chromecast-tips-tricks-workarounds-hacks-advice
+	
+		Blacker: http://forum.xda-developers.com/showthread.php?t=2382541
+		
+		Forgive my possible ignorance, but couldn't you just run a web server on your smb box and give the URL of your local vid stash?
+		ie - pass http://192.168.1.10/public_html/vids/movie.mp4 to chromecast
+	
+		http://www.reddit.com/r/Chromecast/comments/1j8brm/hidden_settings_in_chromecasts_chrome_extension/cbcf5hy
+		
+	RPi - Media Center
+	http://lifehacker.com/5929913/build-a-xbmc-media-center-with-a-35-raspberry-pi
+	
+	Funny Dancing guy
+	https://www.facebook.com/LADbible/videos/2301572706556573/?fref=nf
+	
+	ImgProc Bio Guy
+		https://github.com/luispedro
+		http://luispedro.org/projects/datasets/
+		Class on Cell segmentation	https://github.com/luispedro/python-image-tutorial/blob/907c2f975be836681bfc391041e3820e38fbafcb/Segmenting%20cell%20images%20(fluorescent%20microscopy%29.ipynb
+	
+	
+	7.16
+	
+	VS2015 Release Event
+	https://www.visualstudio.com/visualstudio-release-event-vs
+	
+	Python Code Bases
+	https://news.ycombinator.com/item?id=9896369
+	
+	pip install from github
+	http://www.reddit.com/r/Python/comments/2crput/how_to_install_with_pip_directly_from_github/
+	
+	7.17
+	
+	SO questions to answer
+	https://stackoverflow.com/questions/26029592/insert-image-in-matplotlib-legend
+	
+	7.20
+	
+	Here's a bookmarklet you can use to enable zoom:	javascript:m=document.querySelector('meta%5Bname=viewport%5D');m.content=m.content.replace(/.*(width=%5B%5E,%5D+).*/,%22$1,maximum-scale=10,minimum-scale=0.1,user-scalable=1%22);
+	I found it on HN a while ago, I wish i knew where. To add it bookmark another page then go into bookmarks edit mode and change the URL to that.
+	
+	VS2015 available for download	
+	https://news.ycombinator.com/item?id=9916089	http://blogs.msdn.com/b/somasegar/archive/2015/07/20/visual-studio-2015-and-net-4-6-available-for-download.aspx
+	
+	Selenium implicits waits	http://stackoverflow.com/questions/31442119/mechanize-and-python-clicking-href-javascriptvoid0-links-and-getting-the
+	
+	VS Extensions blog
+	http://www.visualstudioextensibility.com/category/vs14/
+	
+	7.21
+	
+	Poker class at MIT	http://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/index.htm
+	
+	Docker for Ipython
+	https://github.com/jupyter/tmpnb
+	
+	
+	
+	
 	
 	
 	
