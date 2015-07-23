@@ -681,7 +681,10 @@
 	Docker for Ipython
 	https://github.com/jupyter/tmpnb
 	
-	
+    
+    7.22
+    
+    Ipython with .net https://github.com/ipython/ipython/wiki/Cookbook:-IPython-and-Python.NET
 	
 	
 	
