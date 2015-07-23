@@ -697,7 +697,10 @@
 	Rpi cluster
 	https://pocketcluster.wordpress.com/2015/07/23/raspberry-pi-2-cluster-case-pt2/
 	
-	
+    
+    7.22
+    
+    Ipython with .net https://github.com/ipython/ipython/wiki/Cookbook:-IPython-and-Python.NET
 	
 	
 	
