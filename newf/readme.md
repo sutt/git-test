@@ -680,6 +680,22 @@
 	
 	Docker for Ipython
 	https://github.com/jupyter/tmpnb
+
+	TempNB - Temporary IPython site, for active branch for Jupyter project	https://tmp34.tmpnb.org/user/cA1oY79a3pOo/notebooks/featured/pandas-cookbook/cookbook/Chapter%204%20-%20Find%20out%20on%20which%20weekday%20people%20bike%20the%20most%20with%20groupby%20and%20aggregate.ipynb
+	
+	7.22
+	
+	Algorithmia blog - post on vote collusion
+	http://blog.algorithmia.com/post/124542129914/mining-product-hunt-detecting-vote-rings
+	
+	Will write blog post on using Roslyn for CodeAnalysis
+	https://news.ycombinator.com/user?id=JamesBarney
+	
+	Dakota's startup
+	http://www.prospectiveresearch.com/
+	
+	Rpi cluster
+	https://pocketcluster.wordpress.com/2015/07/23/raspberry-pi-2-cluster-case-pt2/
 	
     
     7.22
