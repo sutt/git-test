@@ -702,13 +702,48 @@
     
     Ipython with .net https://github.com/ipython/ipython/wiki/Cookbook:-IPython-and-Python.NET
 	
+	7.26
+    
+   Visual Studio + Python
+
+   scripting .net with ironpython http://www.codeproject.com/Articles/602112/Scripting-NET-Applications-with-IronPython
+   
+   OldSchool attempt at compiling to c# clr
+   http://www.csscript.net/
+   
+   3 Minutes to using ironpython?
+   http://www.secretgeek.net/host_ironpython
+  
+   Pyc.py is command line compiler for ironpython?http://stackoverflow.com/questions/1578010/ironpython-2-6-py-exe?lq=1
+   
+        which links to this example
+        http://dbaportal.eu/2009/12/21/ironpython-how-to-compile-exe/
+   
+   
+  Another tutorial http://ironpython.codeplex.com/wikipage?title=Samples&ProjectName=ironpython
+   
+   Chapter 1 for Free of "IronPython in Action"
+   http://www.manning.com/foord/SampleChapter1.pdf
+   
+   VS is slow http://stackoverflow.com/questions/19617670/why-vs-2013-is-very-slow
 	
+   Simple StackO helloworld for .exe python
+    http://stackoverflow.com/questions/14726803/creating-standalone-executable-iron-python-file
 	
+	Simple program 
+    
+        blog
+        http://lifebeyondfife.com/79-ironpython-wpf-html/
+        
+        source
+        https://github.com/lifebeyondfife/IronPythonWPF
+        
+    Sweet, a pip install away from fucking compiling
+    https://pypi.python.org/pypi/ironpycompiler/0.9.0
 	
-	
-	
-	
-	
+	VS:OutputWindow > Log.txt, run app from vs console
+    
+    
 	
 	
 	
