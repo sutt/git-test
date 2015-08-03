@@ -744,6 +744,26 @@
 	VS:OutputWindow > Log.txt, run app from vs console
     
     
+	7.28
+	
+	Cool ML Researcher, did a ConvNet for Kaggle
+	http://ilyakavalerov.com/
+	https://news.ycombinator.com/user?id=ilzmastr
+	
+	
+	8.3
+	
+	Boston FabFest @Roxbury
+	http://www.fab11.org/fab-festival/boston-fab-festival/
+	
+	Python in VS
+	http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx
+	https://news.ycombinator.com/item?id=9998227
+	
+	
+	Ely Spears in Cambridge MA
+	https://careers.stackoverflow.com/ely
+	https://news.ycombinator.com/user?id=p4wnc6
 	
 	
 	
