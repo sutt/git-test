@@ -734,7 +734,7 @@
     
         blog
         http://lifebeyondfife.com/79-ironpython-wpf-html/
-        
+        x
         source
         https://github.com/lifebeyondfife/IronPythonWPF
         
@@ -760,10 +760,42 @@
 	http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx
 	https://news.ycombinator.com/item?id=9998227
 	
+		useful hint on python compilers
+		http://www.decalage.info/en/python/py2exe
 	
 	Ely Spears in Cambridge MA
 	https://careers.stackoverflow.com/ely
 	https://news.ycombinator.com/user?id=p4wnc6
+	
+	8.4
+	
+	Dr Zoidberg on HN, Python and ML pragmatist
+	https://news.ycombinator.com/threads?id=dr_zoidberg
+	
+	In support of Conda
+	http://technicaldiscovery.blogspot.sg/2013/12/why-i-promote-conda.html
+	
+		Recommended reading - Linkers & Loaders
+		http://www.iecc.com/linker/
+		
+	8.5
+	
+	DIYbio discussion on Hackaday
+	http://hackaday.com/2015/07/30/the-biohacking-movement-and-open-source-insulin/
+	
+	David from Germany, DIYbio
+	https://hackaday.io/dnhkng
+	
+	ImgProc GUI tool
+	http://imageplay.io/
+	
+	MS has interest in Synbio
+	http://research.microsoft.com/en-us/projects/gec/
+	
+	8.7
+	
+	Stanord robotics ping pong robot arm http://spectrum.ieee.org/view-from-the-valley/robotics/robotics-software/stanford-students-teach-robots-to-play-pingpong-land-a-drone
+	
 	
 	
 	
