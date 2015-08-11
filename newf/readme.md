@@ -795,7 +795,14 @@
 	8.7
 	
 	Stanord robotics ping pong robot arm http://spectrum.ieee.org/view-from-the-valley/robotics/robotics-software/stanford-students-teach-robots-to-play-pingpong-land-a-drone
+	 
+	8.10
+	Bradley Garrett in Explore Everything: Placehacking the City (2013)
 	
 	
+	8.11
+	
+	Open Driver implemenetation for Broadcom GPU on Rpi2
+	https://wiki.freedesktop.org/dri/VC4/
 	
 	
