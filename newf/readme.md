@@ -805,4 +805,32 @@
 	Open Driver implemenetation for Broadcom GPU on Rpi2
 	https://wiki.freedesktop.org/dri/VC4/
 	
+	8.12
 	
+	IPython -> Jupyter 4.0
+	http://blog.jupyter.org/2015/08/12/first-release-of-jupyter/
+	
+		The big split
+		https://blog.jupyter.org/2015/04/15/the-big-split/
+		
+	Kalman filter - with diagrams
+	http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+	
+		Kalmna filter Ipython class
+		https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+		
+		ODE solvers in Matlab/Python
+		http://sys-bio.org/wp-content/uploads/2015/01/introMatlabPythonODEs.pdf
+		
+			List of SynBio Software
+			http://sys-bio.org/downloads/
+			
+	"Computational Narratives" for IPython 	http://blog.jupyter.org/2015/07/07/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science/	
+	
+	GUIs for SMoothie
+	http://www.pronterface.com/
+	http://octoprint.org/
+		https://github.com/guysoft/OctoPi
+			mjpeg streamer 
+			http://sourceforge.net/projects/mjpg-streamer/
+			https://github.com/jacksonliam/mjpg-streamer
