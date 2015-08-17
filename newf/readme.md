@@ -834,3 +834,8 @@
 			mjpeg streamer 
 			http://sourceforge.net/projects/mjpg-streamer/
 			https://github.com/jacksonliam/mjpg-streamer
+			
+	8.17
+	
+	Science Toolbox
+	http://sciencetoolbox.org/
