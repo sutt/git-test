@@ -839,3 +839,48 @@
 	
 	Science Toolbox
 	http://sciencetoolbox.org/
+	
+	8.21
+	
+	Livecoding.tv
+	https://medium.com/backchannel/the-strange-appeal-of-watching-coders-code-5c677b2c34ec
+	
+	
+	8.24
+	Places to get prepared meals:  Blue Apron, Plated, Hello Fresh
+	
+	Good Tut for Command Line in unix
+	https://www.codecademy.com/articles/command-line-commands
+	
+	8.25
+	
+	Python / Protein guy - Sebastian Raschka
+	http://sebastianraschka.com/Articles/2015_why_python.html
+		https://github.com/rasbt
+		http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/publication.ipynb
+		
+	Discussion of Coursera
+	https://news.ycombinator.com/item?id=10116604
+	
+	8.26
+	
+	New face/barcode api for android
+	https://news.ycombinator.com/item?id=10120294
+	
+	
+	8.27
+	
+	D3 in Ipython
+	http://www.christianmoscardi.com/blog/2015/08/12/embedding-d3-in-ipython-notebook.html
+	
+	Nuitka - Python Compiler
+	http://nuitka.net/pages/overview.html
+	
+	8.28
+	
+	Russian "gave up on YC" entrepreneur - Danil Kozyatnikov
+	https://medium.com/@danilka
+	
+	Edward Perello @DesktopGeneomics - Talk @HackerNewsLondon
+	https://vimeo.com/137001197
+	
