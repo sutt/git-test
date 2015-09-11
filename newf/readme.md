@@ -884,3 +884,60 @@
 	Edward Perello @DesktopGeneomics - Talk @HackerNewsLondon
 	https://vimeo.com/137001197
 	
+	8.31
+	
+	Python command line tables
+	https://github.com/Leviathan1995/Pylsy
+		another one
+		https://pypi.python.org/pypi/tabulate
+	
+	JOVE in NewYorker
+	http://www.newyorker.com/tech/elements/how-methods-videos-are-making-science-smarter?intcid=mod
+	
+	RabbitMQ - messaging service
+	http://www.rabbitmq.com/tutorials/tutorial-one-python.html
+	
+	Python + .NET examples on CodeProject
+	http://www.codeproject.com/search.aspx?q=python&x=0&y=0&sbo=kw
+	
+	9.4
+	
+	ReScience - Computational Journal
+	https://news.ycombinator.com/item?id=10169421
+	https://github.com/ReScience/ReScience
+		http://sequoia.cs.byu.edu/lab/files/reser2010/proceedings/Gomez%20-%20Replication%20Reproduction.pdf
+		
+	OpenHour @ PublicLabs, Parts&Crafts 9/9
+	http://publiclab.org/openhour
+	https://groups.google.com/forum/#!topic/sprout-discuss/_OA4PbkNA3U
+	
+	FlyPi Fluoro Microscope
+	http://2015.igem.org/Team:Cambridge-JIC
+	https://twitter.com/jimhaseloff/status/625268933239656448
+	
+	
+	9.10
+	
+	EdX Hackathon
+	http://con.openedx.org/
+	
+	9.11
+	
+	AWS in english
+	https://www.expeditedssl.com/aws-in-plain-english
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
