@@ -926,6 +926,9 @@
 	AWS in english
 	https://www.expeditedssl.com/aws-in-plain-english
 	
+	9.14
+	http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
+	
 	
 	
 	
