@@ -916,21 +916,32 @@
 	https://twitter.com/jimhaseloff/status/625268933239656448
 	
 	
-	9.10
+  9.10
 	
 	EdX Hackathon
 	http://con.openedx.org/
 	
-	9.11
+  9.11
 	
 	AWS in english
 	https://www.expeditedssl.com/aws-in-plain-english
 	
-	9.14
+
+  9.14						
 	http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
 	
+	https://www.linkedin.com/pulse/cargo-cult-data-science-george-roumeliotis
 	
+9.15
+
+asyncio webscraper
+http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html
 	
+	9.17
+	
+	CytoSolve, 2011
+	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032229/
+	http://www.bostonmagazine.com/2012/05/shiva-ayyaduri-email-us-postal-service/
 	
 	
 	
