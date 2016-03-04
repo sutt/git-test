@@ -932,10 +932,11 @@
 	
 	https://www.linkedin.com/pulse/cargo-cult-data-science-george-roumeliotis
 	
-9.15
+    
+	9.15
 
-asyncio webscraper
-http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html
+    asyncio webscraper
+    http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html
 	
 	9.17
 	
@@ -943,15 +944,566 @@ http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html
 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032229/
 	http://www.bostonmagazine.com/2012/05/shiva-ayyaduri-email-us-postal-service/
 	
+	9.24
+	
+	SQLAlchemy wirteup + HN didscussion
+	https://news.ycombinator.com/item?id=10270605
+	http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html
 	
 	
+	Europe during Industrial REvolution - "opposite of crisis"
+	http://www.csun.edu/~jaa7021/hist531/Goldstone%20-%20Efflorescences%20and%20Economic%20Growth.pdf#
+	
+	9.25
+
+	RPi web cam interface
+`	https://github.com/silvanmelchior/RPi_Cam_Web_Interface	
+
+	OpenScope Repo, UCamb2015
+	https://github.com/sourtin/igem15-sw/
+	
+	UWash, NitroGenius 2015
+	http://2015.igem.org/Team:WashU_StLouis
+
+	10.2
+	
+	Insight Data Science Bootcamp
+	http://insighthealthdata.com/blog/blog1_EmergingField/blog1_emerging_field.html
+	
+	10.9
+	
+	IPython + Docker on Rackspace for Nature
+	https://developer.rackspace.com/blog/how-did-we-serve-more-than-20000-ipython-notebooks-for-nature/
+			
+			
+	10.14
+	Umasser now does programming for bio
+	https://news.ycombinator.com/user?id=acomjean
+		His lab
+		http://perrimon.med.harvard.edu/
+	
+	R vs Python
+	https://news.ycombinator.com/item?id=10386174
+	
+	10.15
+	DIYbio in Nature
+	http://www.nature.com/news/biohackers-gear-up-for-genome-editing-1.18236
 	
 	
+	11.2
+	Scott Alexander greatest hits
+	http://nothingismere.com/2015/09/12/library-of-scott-alexandria/
 	
 	
+	11.4
+	
+	Smoothie from OpenTrons M114
+	https://github.com/Opentrons/SmoothiewareOT
+	
+	11.5
+	ML in Jupyter
+	https://github.com/hangtwenty/dive-into-machine-learning
+		
+		Slide Img: GroundTruth >> Algo's
+		https://camo.githubusercontent.com/61e30cc7709455dfa780cc2b0bc4d104b52c7e3c/687474703a2f2f69313338312e70686f746f6275636b65742e636f6d2f616c62756d732f61683234302f68616e677477656e74792f53637265656e25323053686f74253230323031352d30332d3035253230617425323031302e30382e3130253230504d5f7a7073716e6c6a6b7174352e706e67
 	
 	
+		Cool Tricks with Ipython
+		http://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/?hn=2
+		
+	
+	11.6
+	
+	BioBus
+	http://biobus.org/
+	
+	11.22
+	
+	OpenInsulin Project
+	https://news.ycombinator.com/item?id=10592712
 	
 	
+	11.24
+	
+	Cheap Kinnect sensor for FlouroLifetime Img
+	http://news.mit.edu/2015/biomedical-imaging-lower-cost-1123
+		
+	Betzig's new lattice light microscope	http://motherboard.vice.com/read/new-microscope-can-see-inside-moving-cells-in-real-time-and-there-are-videos
+		
+		http://m.sciencemag.org/content/346/6208/1257998.figures-only
+		
+	Maps of Boston
+	http://bostonography.com/
+		
+		Andy Woodruff
+		https://twitter.com/awoodruff
+		
+		Axis Maps
+		https://twitter.com/axismaps
+		
+		http://maptimeboston.github.io/
+		https://twitter.com/maptimeBoston
+		
+	12.1
+	"Welcome, O life! I go to encounter for the millionth time the reality of experience and to forge in the smithy of my soul the uncreated conscience of my race.”
+	
+	12.8
+	
+	EMR / Epic rant, link to Phil G
+	https://news.ycombinator.com/item?id=10694295
 	
 	
+	The Joint Committee staff recognizes that in lieu of
+	including a tax expenditure estimate of the exclusion of investment income on life insurance and
+	annuity contracts it may be appropriate to include a tax expenditure estimate of the exclusion
+	from gross income of death benefits payable under a life insurance contract by reason of the
+	death of the insured. However, an estimate of the tax expenditure of this statutory exclusion is
+	not included in the present report. 
+	https://www.jct.gov/publications.html?func=startdown&id=4855
+	
+	
+	Google's AI language
+	https://www.tensorflow.org/
+	
+		review
+		http://www.technologyreview.com/news/544356/heres-what-developers-are-doing-with-googles-ai-brain/
+		
+	12.11
+	
+	OpenSource Cartesian Robot Kit
+	http://www.contraptor.org/
+	
+	12.16
+	
+	It follows that the Romans were rich not because technological progress temporarily exceeded population growth—as Malthusianists claim—but because Rome had a business-friendly legal system and an active market economy. Well-functioning courts and market-places boost industry more than they boost agriculture. Thus biasing production structure to luxury, they raised the average living standards of the whole society. Conversely, the Agricultural Revolution left an unfortunate legacy: the hunter-and-gatherer-turned peasants failed to achieve the level of leisure and nutrition their ancestors once enjoyed (Diamond, 1987). Growth was immiserizing because agriculture biased production structure to subsistence. The same tragedy recurred when potato dominated the Irish diet in the late 18th century. - See more at: http://marginalrevolution.com/#sthash.8RwZ6Q98.dpuf
+	
+	12.17
+	
+	Why Science is a 3rd world Economy
+	https://metarabbit.wordpress.com/2013/10/02/why-science-is-a-third-world-economy/
+	
+	
+	12.23
+	
+	"Folks! Which industries/professions give up their own free time to provide freeopen training to people wishing to enter the sector? Curious" - @koletiv
+	Answer:  only one: software development. You want to be a doctor? Go to medical school for seven years
+	
+	Jupyter notebook extensions
+	http://blog.rtwilson.com/an-easy-way-to-install-jupyter-notebook-extensions/
+	
+	The future of liberalism
+	http://www.the-american-interest.com/2012/01/24/the-once-and-future-liberalism/
+	
+	Seaborn - a python plotting framework
+	http://stanford.edu/~mwaskom/software/seaborn/examples/index.html
+	
+	
+	12.28
+	
+	Moss Viewing Girls (Japan)
+	http://ignition.co/398
+	
+	12.29
+	
+	Euler Method on MIT Mathlets
+	http://mathlets.org/mathlets/eulers-method/#
+	
+	1.4
+	
+	It would seem gauche to judge a potential fiance by his wealth or lack thereof. But we would expect him not to be judged on his ethnicity, but whether he had a job, a house etc... things that wealth signifies.
+	
+	1.6
+	
+	Filamentous Bacteria conduct electricity!
+	http://www.nature.com/nature/journal/v491/n7423/full/nature11586.html
+	
+	
+	1.7
+	
+	"DOTNET"
+	
+		CLI  -cmd line interface
+		https://github.com/dotnet/cli
+	
+		Info Page
+		http://dotnet.github.io/
+	
+		API index
+		http://dotnet.github.io/api/index.html
+	
+	
+	WCF tut
+	http://www.codeproject.com/Articles/406096/A-beginners-tutorial-for-understanding-Windows
+	
+	Exposition on CIL
+	https://en.wikipedia.org/wiki/Common_Intermediate_Language
+	
+	
+	1.11
+	
+	Kinnect + Arduinos
+	http://www.techbitar.com/kinect-controls-servos-using-human-motion.html
+	https://channel9.msdn.com/Series/KinectQuickstart/Setting-up-your-Development-Environment
+	
+	1.13
+	
+	Caffeine Bacteria	http://blogs.discovermagazine.com/seriouslyscience/2015/12/03/microbiologists-discover-caffeine-adapted-bacteria-living-in-the-sludge-in-their-office-coffee-machine/#.VpZ97vkrJhE
+	
+	
+	Dan Wang, tech blogger
+	http://danwang.co/my-2015/
+	
+	Dotnet Thoery
+	
+		Notes:
+		
+		
+		CIL - "Common Infrastructure Language" is the language accepted as input in CLR / CLI
+		
+		CLI - "Common Language Infrastructure" is the actual Infrastructure used to execute the program in CIL, it includes JIT compile to machine code and execution. The CLI is the open standards name for an implementation of the "VM" that will run the program. So Mono and .net are both implementations.
+		
+		How does the core of the virtualized runtime get distributed with the software? Does it come with a new version of the CLR and GAC it? it doesn't appear to be in the Ascent /bin...Would you need to download a new "JRE"?
+		
+		JIT for CLR
+		http://www.telerik.com/blogs/understanding-net-just-in-time-compilation
+		https://msdn.microsoft.com/en-us/library/ht8ecch6(v=vs.90).aspx
+		
+			Ngen (for VS command line) - native image
+			https://msdn.microsoft.com/en-us/library/6t9t5wcf(v=vs.100).aspx
+			
+			CLR is one of these Virtualization software
+			https://en.wikipedia.org/wiki/Comparison_of_application_virtualization_software#cite_note-1
+			
+			
+			https://en.wikipedia.org/wiki/Comparison_of_application_virtualization_software#cite_note-1
+			
+	
+	1.19
+	
+	
+	http://togelius.blogspot.com/2016/01/why-video-games-are-essential-for.html
+	
+	pacman AI contest (UC Berkley)
+	http://ai.berkeley.edu/contest.html
+	
+	Adrian/OpenCV - how to use threading for Object-Tracking
+	http://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/
+	
+	
+	webcam:should have support for v4L2
+	
+	1.20
+	
+	Robert Gordon - end of American Growth
+	http://press.princeton.edu/titles/10544.html
+	
+		response, Joel Mokyr
+		http://www.voxeu.org/article/technological-progress-thing-past
+		
+		
+	1.21
+	
+	Krugman, comparative advantage
+	http://web.mit.edu/krugman/www/ricardo.htm
+	
+	Why I'm not an objectivist
+	http://www.owl232.net/rand.htm
+	
+	
+	1.22
+	
+	Google DeepLearning course on udacity
+	https://www.udacity.com/course/deep-learning--ud730
+		
+		discussion on HN
+		https://news.ycombinator.com/item?id=10951276
+		
+			recommended other course
+			http://neuralnetworksanddeeplearning.com/chap2.html
+		
+		
+	“Each man takes care that his neighbor shall not cheat him. But a day comes when he begins to care that he does not cheat his neighbor. Then all goes well - he has changed his market-cart into a chariot of the sun.”  -Emerson
+	
+	1.25
+	
+	Robot Sailboat
+	http://blog.kragniz.eu/
+	
+	Blog of ArtDeco, the commenter on MR
+	http://wwrtc.blogspot.com/
+	
+	junk, or?
+	https://databricks.com/
+	
+	MS neural nets on Azure	http://blogs.microsoft.com/next/2016/01/25/microsoft-releases-cntk-its-open-source-deep-learning-toolkit-on-github/
+	
+	
+	Bio-Talk
+	https://news.ycombinator.com/item?id=10964118
+	
+	
+	1.26
+	
+	Deep Learning Frameworks on GSheet	https://docs.google.com/spreadsheets/d/1XvGfi3TxWm7kuQ0DUqYrO6cxva196UJDxKTxccFqb9U/edit#gid=0
+	
+	MediaLab Synbio for the Masses essay	https://medium.com/mit-media-lab/synbio-for-the-masses-a-media-lab-grad-s-deploy-or-die-story-dc712311079a#.z2rpcjtq2
+	
+	1.27
+	
+	Patchable VideoGame
+	http://www.illucia.com/
+	
+	Molecular Machinery
+	http://mm.rcsb.org/
+	
+	
+	CRSIPR spreadsheet from Addgene	http://blog.addgene.org/the-crispr-software-matchmaker-a-new-tool-for-choosing-the-best-crispr-software-for-your-needs?utm_campaign=CRISPR-Cas9&utm_content=28333312&utm_medium=social&utm_source=twitter	
+		https://docs.google.com/spreadsheets/d/1ik3GWCoRVS74x7lDt2tPjWg9pVFEtaTPCd-LEzBoMUE/edit#gid=1285541112
+	
+	
+	reconstructing-position-from-depth	https://mynameismjp.wordpress.com/2009/03/10/reconstructing-position-from-depth/
+	
+	
+	http://dotnet.github.io/api/System.Array.html
+	https://msdn.microsoft.com/en-us/library/yw84x8be(v=vs.110).aspx?cs-save-lang=1&cs-lang=vb#code-snippet-1
+	
+	
+	1.28
+	
+	Human/Robot UX	http://humanrobotinteraction.org/2015/program-2/proceedings-table-of-contents/
+
+		Direction for flyers	http://delivery.acm.org/10.1145/2700000/2696475/p19-szafir.pdf?ip=71.174.214.162&id=2696475&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&CFID=748498233&CFTOKEN=97784456&__acm__=1454002657_8fada89da483de7d76c6754b8215ea0d
+	
+	
+	Keith Hennessy, CBO
+	http://keithhennessey.com/
+	
+	Argonaut project for FHIR, EHR interop
+	http://hl7.org/fhir/2015Jan/argonauts.html
+	
+	
+		Interop advocate for EHR's	http://www.forbes.com/sites/davidshaywitz/2016/01/18/the-last-best-chance-to-achieve-interoperability/2/#1c0cda164509
+		
+		https://open.epic.com/AppExchange/Sandbox
+	
+		Fire, Fire on the mountain
+		https://fhir.catalyze.io/
+	
+	
+	Ping Pong Drone!
+	http://mentalfloss.com/article/71607/ibm-researchers-built-drone-can-play-ping-pong
+	
+		YT url
+		https://youtu.be/YvbHXz3lccc
+		
+		them boys
+		http://researcher.watson.ibm.com/researcher/view_group.php?id=1403
+	
+		RPi drone
+		https://youtu.be/LWwkB6hGD4M
+		
+		Engineering team blog, Pool openCV, 2012
+		https://gocardless.com/blog/hacking-on-side-projects-the-pool-ball-tracker/
+	
+	
+	BioDesign Challenge
+	http://biodesignchallenge.org/
+	
+	
+	Adrian, OpenCV dude
+	
+		imutils, for use with opencv
+		https://github.com/jrosebr1/imutils
+			https://pypi.python.org/pypi/imutils/0.3.4
+			
+		supported webcams for Rpi
+		http://elinux.org/RPi_USB_Webcams
+		
+		Increase FPS with Threading, on PC-USBWebcam
+		http://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/
+		
+	Logitech c920
+	
+		- Full HD 1080p video calling (up to 1920 x 1080 pixels) with the latest version of Skype for Windows
+		- 720p HD video calling (up to 1280 x 720 pixels) with supported clients
+		- Full HD video recording (up to 1920 x 1080 pixels) 
+		- H.264 video compression
+		- Built-in dual stereo mics with automatic noise reduction
+		- Automatic low-light correction
+		- Tripod-ready universal clip fits laptops, LCD or monitors
+	
+	
+		software
+		http://support.logitech.com/en_us/product/hd-pro-webcam-c920
+		
+		docs
+		http://www.logitech.com/assets/45920/hd-pro-webcam-c920-quick-start-guide.pdf
+		
+		Others have slow frame rate, do 4:3 ratio, as metro ratio is killing it
+		http://answers.microsoft.com/en-us/windows/forum/windows8_1-winapps/in-windows-81-the-camera-app-sometimes-lags-or-is/aa16f265-c38f-40aa-ba2f-21f26dfc9941?db=5&auth=1
+	
+	
+			Kinovea, Sports CV - by Joan Charmant
+			http://www.kinovea.org/
+			
+				blog -> measuring angles in perspective
+				
+				http://stackoverflow.com/users/867395/joan-charmant
+
+	2.3 
+
+		CV2 / Camera research
+		
+			FPS, other issues
+			http://forums.logitech.com/t5/Webcams/H264-c920-api/td-p/861862
+			
+			
+			USB branches
+			http://www.uwe-sieber.de/usbtreeview_e.html
+			
+			
+			DirectShow, .net api for video streams and video devices
+			https://msdn.microsoft.com/en-us/library/windows/desktop/dd375454(v=vs.85).aspx
+			
+			Logitech c920 support forum:
+			I think you need to switch to a different capture pin. I believe there are three. The first for video which you seem to have used. The second for still capture and the third which captures video in H264 only. I have used this capture pin with graphedit and connected it to the ffdshow filter and can confirm it works.
+			
+			no 60fps :(
+			https://obsproject.com/forum/threads/logitech-c920-60fps.8407/#post-73983
+			
+			no 60fps? - but still, turn off "right light"
+			https://www.reddit.com/r/Twitch/comments/2r3jjh/c920_60_fps/
+			
+			Application needs to handle H264 cenoded stream for max-thruput http://stackoverflow.com/questions/13113560/processing-c920-logitech-capture-frame-rate-video-discourse
+			
+			How to set camera from CV2	http://stackoverflow.com/questions/16092802/capturing-1080p-at-30fps-from-logitech-c920-with-opencv-2-4-3?rq=1
+		
+				OpenCVs APIs	http://stackoverflow.com/questions/14187866/opencv-on-mac-is-not-opening-usb-web-camera/14188280#14188280
+		
+	2.4
+	
+		Idea DEBT!
+		http://jessicaabel.com/2016/01/27/idea-debt/
+		
+		"The new wave of science communicators"
+		http://crastina.se/
+		
+		Lucy two laptops gif
+		http://pandawhale.com/post/58011/scarlett-johansson-hacking-on-two-laptops-gif
+		
+		Synechocystis as eyeball	http://www.theatlantic.com/science/archive/2016/02/this-bacterium-acts-like-a-one-cell-eyeball/460500/
+		
+		
+	2.10
+		
+		Chip MicroDrone $14	http://www.gearbest.com/rc-quadcopters/pp_230472.html?utm_source=Criteo&utm_medium=CPCUS&utm_campaign=Displayads&vip=87199
+		
+		RoboMicro for Malaria
+		https://www.technologyreview.com/s/600779/artificial-intelligence-offers-a-better-way-to-diagnose-malaria/
+		
+		
+	2.12
+	
+		Microsoft Dance Party
+		https://www.facebook.com/thenextweb/videos/10153895531388523/
+		
+		
+	2.16
+	
+		Teacher?https://educationrealist.wordpress.com/2016/01/31/note-from-a-trump-supporter-its-the-immigration-stupid/
+		
+		Beyond MVC, new patterns
+		http://www.infoq.com/articles/no-more-mvc-frameworks
+		
+		Drone flight simulator! (but linux only (?) :/ )
+		https://github.com/motet/baldr
+		
+			could use blender for 3d rendering
+			https://www.blender.org/about/
+			
+			or use "morse"
+			https://www.openrobots.org/wiki/morse/
+			
+		Dark was the night, Cold was the Ground
+		https://www.youtube.com/watch?v=qePHCNoEtqQ
+		
+	2.17
+	
+		“The impediment to action advances
+		action. What stands in the way becomes
+		the way.” ― Marcus Aurelius
+
+	2.18
+	
+		Tax Visuzaliztion, only remnant still available (?)
+		http://www.datavizchallenge.org/viz/71
+		
+			statically here too
+			http://www.two-n.com/projects/taxmapper
+			
+			it works on wayback machine
+			https://web.archive.org/web/20110415083303/http://stockmapper.com/taxMapper.html
+			
+		
+		Engineer @Formlabs, MechE who did cool project to get job
+		http://shane.engineer/
+		
+		9600 bps and 115200 bps
+		
+	2.22
+	
+		Matt's Kickstarter for tuition
+		https://www.generosity.com/education-fundraising/hive-or-bust-matthew-s-tuition
+		
+		
+	2.24
+	
+		Math & Programming
+		http://jeremykun.com/
+		
+	2.25
+		
+		Driving Bot
+		http://matpalm.com/blog/drivebot/
+		
+			other interesting stuff- using theano with GPUs
+			http://matpalm.com/blog/2015/02/22/the_curse_of_gpufromhost/
+		
+		Jupyter Days	https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979?cmp=mp-mh-na-na-reg-ug-11855_343_pc
+		
+		C# on edX
+		https://www.edx.org/course/programming-c-microsoft-dev204x-1
+		
+	3.2
+	
+		Jeff Pincus
+		https://www.linkedin.com/in/jeffry-pincus-518b393a
+		
+	3.3
+		“I have observed that not the man who hopes when others despair, but the man who despairs when others hope, is admired by a large class of persons as a sage.”
+		-JS Mill wrt K Marx (from B Gates)
+		
+		
+	3.4
+	
+		Robots and Vision Textbook online
+		http://www.petercorke.com/RVC/top/toc/toc.pdf
+		
+		Robo-simulator
+		http://www.robotvirtualworlds.com/
+		
+		PLOS talks DIYbio hardware http://blogs.plos.org/synbio/2016/03/01/open-source-hardware-is-an-opportunity-for-synthetic-biology-research-the-docubricks-approach-by-tobias-wenzel/
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
