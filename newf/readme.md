@@ -1496,10 +1496,176 @@
 		
 		
 		
+	3.18
+		
+		GPU for life insurance. Yay!
+		also RungeKutta ODE's
+		https://devblogs.nvidia.com/parallelforall/gpus-dsls-life-insurance-modeling/
+		
+			GPU's for .net
+			https://devblogs.nvidia.com/parallelforall/accelerate-net-applications-alea-gpu/
+		
+		Travis Pittman, Epic Integration for Genospace "HL7 messages"
+		https://www.linkedin.com/in/travis-pittman-88b1a620?trk=pub-pbmap
 		
 		
+	3.21
+	
+		The revolutionary mentality, an enemy to the human spirit
+		http://www.olavodecarvalho.org/english/articles/070813dc_en.html
+		
+	3.23
+	
+		"Voters are better at signaling dissatisfaction than thinking clearly about solutions."
+		- Holman Jenkins
+		
+	3.24
+
+		YC W2016
+		https://startups.watch/yc-w16-startups/
+
+	3.29
+	
+		Audre Lorded, on the Erotic's connection to everyday modern life
+		http://www.metahistory.org/guidelines/EroticUses.php
+		
+			"Our erotic knowledge empowers us, becomes a lens through which we scrutinize all aspects of our existence, forcing us to evaluate those aspects honestly in terms of their relative meaning within our lives."
+
+	3.30
+	
+		Feather, R & Python Dataframes in external storage
+		http://blog.rstudio.org/2016/03/29/feather/
+		
+			https://github.com/wesm/feather
+			
+			built by Wes McKinney, interesting BI/dev guy
+			http://wesmckinney.com/
+			https://github.com/wesm
+			
+	
+	3.31
+	
+		DNA Lecture
+		https://www.statnews.com/2016/03/31/dna-shape-double-helix-dekker/
+	
+		VisualStudio + Xamarin for Free
+		https://news.ycombinator.com/item?id=11398033
+		
+		CivII game mired in stalemate
+		http://kernelmag.dailydot.com/issue-sections/headline-story/16223/james-moore-eternal-war-a-decade-of-civilization/
+			
+			
+	4.1
+	
+		Natvis: customize your windows in VS, promising!
+		https://msdn.microsoft.com/en-us/library/jj620914(v=vs.110).aspx#BKMK_ArrayItems_expansion
+			
+			
+			https://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx
+			
+			
+			http://stackoverflow.com/questions/8348869/visualstudio-debug-array-tooltip-class-value
+			
+			http://stackoverflow.com/questions/369192/is-there-a-way-to-customize-the-tool-tip-of-a-custom-object-in-the-vs-debugger
+			
+			http://stackoverflow.com/questions/23993284/is-there-a-way-to-tell-visual-studio-to-show-certain-member-values-by-default-wh?rq=1
+			
+			Fix DataTips for parameterized property access... #3897
+			https://github.com/dotnet/roslyn/pull/3897
+			
+			
+			https://github.com/dotnet/roslyn/issues/2602
+			
+			<DebuggerDisplay("HOVA")>
+			 Public Class .....
+			 
+				<DebuggerBrowsable(DebuggerBrowsableState.Collapsed)> _
+				public arr() as integer
+		
+		Google Sheets ODBC for VisualStudio
+		http://www.cdata.com/drivers/gsheets/odbc/
+			
+	4.4
+	
+		Mac, back at it
+		https://news.ycombinator.com/threads?id=100ideas
+			
+		Cello!
+			writeup: http://phys.org/news/2016-03-language-cells.html
+			paper: http://science.sciencemag.org/content/352/6281/aac7341
+			site: http://www.cellocad.org/index.html
+			discussion: https://news.ycombinator.com/item?id=11417689
+			repo: https://github.com/CIDARLAB/cello
+			nielsen2016: https://sci-hub.io/download/c7c5/nielsen2016.pdf
+			cidar @bu: http://cidarlab.org/cello/
+			
+			
+		The Xamarin thing, here
+		https://www.xamarin.com/download
+		
+	4.5
+	
+		Lily Cua, benefits entrepreneur
+		http://aspire.is/
+		http://www.nytimes.com/2016/04/10/education/edlife/will-you-sprint-stroll-or-stumble-into-a-career.html
 		
 		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
 		
 		
 		
