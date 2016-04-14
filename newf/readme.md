@@ -1609,10 +1609,59 @@
 		http://aspire.is/
 		http://www.nytimes.com/2016/04/10/education/edlife/will-you-sprint-stroll-or-stumble-into-a-career.html
 		
+	4.6
+	
+		“Donna and most nurses are very open-minded,” he said. “They’ve seen it all—death, disease, pain, disorders of every kind—and it takes a lot to shock a nurse.” -G Talese
+			
+		“Man cannot see too much of human nature.” 
 		
+	4.11
+	
+		Trevor Murphy, independant student actuary, did Data Science bootcamp
+		https://www.linkedin.com/in/trevor-murphy-49ba1421
+			http://signaldatascience.com/projects/
 			
+		
+	4.12
+	
+		The Life of Cell Watchers
+		http://www.amazon.com/Lives-Cell-Notes-Biology-Watcher/dp/0140047433
+		
+	4.13
+	
+		Didn't blank out the black guy's face  https://www.google.com/maps/@42.3554941,-71.055546,3a,35.1y,339.94h,78.11t/data=!3m6!1e1!3m4!1szqrwu_pz_YyTC7zz6he2Jg!2e0!7i13312!8i6656
+		
+		
+		Cambridge Science Festival:
+		http://www.cambridgesciencefestival.org/2016Festival/EventIndex.aspx
+		
+		4/20  (also Saturday 4/23, same time)
+		1:00pm - 4:00pm
+		Sailing Science: Robotic Sailing & Environmental Science at Community Boating, Inc.
+		Community Boating Boathouse, 21 David G Mugar Way, Boston
+		
+		4/21	
+		6:30pm - 8:00pm
+		Science Pint Night
+		Rattlesnake Bar and Grill, 384 Boylston St, Boston
+		Come enjoy a pint while hearing from our scientist panel representing various labs from MGH and Tufts University, who will be showcasing their own cutting-edge work!  It will be an evening of 4-minute info-packed talks about current hot topics at the forefront of different scientific fields.  Make sure you stick around after the session for an opportunity to mingle! 
 			
+	4.14
+	
+		Xamarin + Emgu -> Android OpenCV !!
+		http://file.emgu.com/forum/viewtopic.php?t=8132
 			
+			 but you need licenses? http://www.emgu.com/wiki/index.php/Commercial_License_Purchase#Commercial_License_3.0_for_Windows
+			
+			HowTo for Android
+			http://www.emgu.com/wiki/index.php/Emgu_CV_for_Android
+			
+				my question on forum
+				http://www.emgu.com/forum/viewtopic.php?f=7&t=7999&p=16520#p16520
+				
+			
+			Regan's app http://file.emgu.com/wiki/files/3.0.0-rc1/document/html/7683e464-4f6e-4221-573f-b3338ded37ad.htm
+			http://www.masslottery.com/games/lottery/winning-keno-numbers.html
 			
 			
 			
