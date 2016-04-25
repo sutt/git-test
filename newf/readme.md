@@ -1663,16 +1663,50 @@
 			Regan's app http://file.emgu.com/wiki/files/3.0.0-rc1/document/html/7683e464-4f6e-4221-573f-b3338ded37ad.htm
 			http://www.masslottery.com/games/lottery/winning-keno-numbers.html
 			
+	4.19
+	
+		How guy got into electronics Hacking - How a diode changed my life
+		http://onurcelebi.com/blog/how-a-diode-changed-my-life/
+			
+		
+		Get actualized quick scheme
+		http://www.onescientist.com/
+		
+	4.24
+	
+		Rex St. John on Makers, son of the saint
+		http://rexstjohn.com/meet-the-inventors-the-accelerators-of-the-maker-movement/
+		
+		
+		Survivalist stuff
+			http://www.rapidtrends.com/surving-argentinas-economic-collapse-part-1-3/
+			http://www.amazon.com/Modern-Survival-Manual-Surviving-Economic/dp/9870563457/
+			
+		SouthShoreScience, in Quincy
+		http://southshorescience.org/
+			
+	4.25
+		
+		DroneSmith, motherfucker. An Intel platform/hardware as a service company
+		http://www.dronesmith.io/about/
+		
+			slack channel
+			http://community.dronesmith.io/
+				
+			Read the docs!
+			https://dronesmith.readme.io/docs
+			
+			A Python API to the Flightcore?
+			http://python.dronekit.io/about/overview.html
+
+			Formerly Skyworks Aerial Systems, $1M funding, based in vegas
+				https://www.crunchbase.com/organization/skyworks-aerial-systems#/entity
+				
+				https://angel.co/dronesmithtech
 			
 			
-			
-			
-			
-			
-			
-			
-			
-			
+		Discussion on edX
+		https://news.ycombinator.com/item?id=11562468
 			
 			
 			
