@@ -1709,12 +1709,23 @@
 		https://news.ycombinator.com/item?id=11562468
 			
 			
+	4.26
+	
+		Dylan breaks it down
+		https://www.youtube.com/watch?v=SfPSCDu6NQ4
+		
+			upbeat and jamming
+			https://www.youtube.com/watch?v=uVFy2YEkoLo
 			
+		"The physics of software is not algorithms, data structures, languages and abstractions. These are just tools we make, use, throw away. The real physics of software is the physics of people—specifically, our limitations when it comes to complexity, and our desire to work together to solve large problems in pieces. This is the science of programming: make building blocks that people can understand and use easily, and people will work together to solve the very largest problems."
+			-http://zguide.zeromq.org/py:all
 			
+		
+		Perfect for Logging in Python
+		http://zguide.zeromq.org/py:all	
 			
-			
-			
-			
+		Dying dude of ZMQ
+		https://www.youtube.com/watch?v=O8CbzKREAj4
 			
 			
 			
