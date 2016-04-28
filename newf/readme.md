@@ -1692,6 +1692,7 @@
 		
 			slack channel
 			http://community.dronesmith.io/
+			https://dronesmith-community.slack.com/messages/general/
 				
 			Read the docs!
 			https://dronesmith.readme.io/docs
@@ -1728,16 +1729,43 @@
 		https://www.youtube.com/watch?v=O8CbzKREAj4
 			
 			
-			
-			
-			
-			
-			
-			
-			
-			
+	4.27
 	
+		Throwing rocks at the Google Bus
+		http://www.amazon.com/Throwing-Rocks-Google-Bus-Prosperity/dp/1617230170
+		
+		Xamarain Andorid Repo
+		https://github.com/xamarin/xamarin-android
 			
+	4.28
+	
+		OpenAI Gym
+		https://gym.openai.com/
+		
+			Discussion on HN
+			https://news.ycombinator.com/item?id=11582345
+		
+			Wrtie-up on OpenAI Gym for robot reinforcement learning	https://www.technologyreview.com/s/601349/good-robot-elon-musks-ai-nonprofit-shows-where-ai-is-going/
+			
+			
+			Reinforcement learning write-up			https://www.technologyreview.com/s/544521/a-master-algorithm-lets-robots-teach-themselves-to-perform-complex-tasks/
+		
+			
+		Kaggles Repo of Jupyter Notebooks
+		https://www.kaggle.com/scripts?sortBy=votes&language=Python&outputType=Notebook
+			
+			Ben Hamner, now CTO
+			https://news.ycombinator.com/user?id=benhamner
+			
+			
+		Controlling Mini-drone form the internets
+		https://www.hackster.io/virgilvox/iot-drone-swarm-22f36a
+			
+			And with hand gestures	https://www.hackster.io/andrewstein/control-your-drone-swarm-with-hand-gestures-2fd3cd?ref=similar&ref_id=15927&offset=4
+			
+		
+	
+			f
 			
 			
 			
