@@ -1757,15 +1757,38 @@
 			Ben Hamner, now CTO
 			https://news.ycombinator.com/user?id=benhamner
 			
+		Udacity course on Algos
+		https://www.udacity.com/course/viewer#!/c-cs215/l-48723544/m-48723447
+		
+		
+		Controlling mini drone with an arduino	https://www.hackster.io/geekphysical/controlling-toy-quadcopter-s-with-arduino-6b4dcf?ref=list&ref_id=3056&offset=16
 			
-		Controlling Mini-drone form the internets
-		https://www.hackster.io/virgilvox/iot-drone-swarm-22f36a
+			Controlling Mini-drone form the internets
+			https://www.hackster.io/virgilvox/iot-drone-swarm-22f36a
+		
+			"parrot rolling spider drone"
+			https://github.com/octoblu/meshblu-rolling-spider#readme
+			https://www.hackster.io/parrot/products/travis-airborne-cargo-drone
 			
 			And with hand gestures	https://www.hackster.io/andrewstein/control-your-drone-swarm-with-hand-gestures-2fd3cd?ref=similar&ref_id=15927&offset=4
 			
 		
-	
-			f
+		Kickstarter for co-drone, the learn to code, and programmable drone
+		https://www.kickstarter.com/projects/728836843/codrone-learn-to-code-with-programmable-drone
+		
+			
+		Hod Lipson, Roboticist, Dennis' Boss
+		http://www.hodlipson.com/
+		
+		http://www.ted.com/speakers/hod_lipson
+		
+			Model(step = s) -> "Most-controversial" Predictions  -> Execute and Evaluate -> ...
+		
+			Roboevents for kids
+			http://www.robotevents.com/index.php
+			
+			
+			
 			
 			
 			
