@@ -1789,10 +1789,41 @@
 			
 			
 			
+	5.1
+	
+		Airware (drone) blog
+		https://makers.airware.com/
+		
+	5.3
+	
+		Drink Botulism Thought experiment: 
+		Say your eating something and a scientist is like "Hey, there's probably Botulism in that"
+		You could be like "Doubt it, we'll see though and if I start getting the symptoms, I'll stop eating it."
+		Symptoms occur 18-36 hours. You'll be done eating the food in 15 minutes.
 			
 			
+	5.6
+	
+		AI Kaggle
+		http://theaigames.com/
+		
+		Jobs at OpenAI
+		https://jobs.lever.co/openai
+		
+		
+		XKCD matplotlib style
+		http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/
+		
+			Video in IPython
+			from IPython.display import HTML
+			url = 'http://jakevdp.github.io/downloads/videos/double_pendulum_xkcd.mp4'
+			HTML('<video controls alt="animation" src="{0}">'.format(url))
 			
-			
+		
+		Machine Intelligence Landscape, Shivon Zilis (partner at OpenAI)
+		https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-2-0
+		
+		
 			
 			
 			
