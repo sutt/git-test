@@ -1823,13 +1823,101 @@
 		Machine Intelligence Landscape, Shivon Zilis (partner at OpenAI)
 		https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-2-0
 		
+	5.10
+	
+		Chinese Scholar, 1999: Unrestricted Warfare
+		http://www.cryptome.org/cuw.htm
+			
+	5.12
+	
+		 "While I think that many of the architectural criticisms are valid, Rails demonstrates the primacy of ecosystem and strong conventions over language design and cs theory." 
+		  
+	     "think people overestimate the importance of understanding a line in isolation and underestimate the importance of understanding a whole component or system. A one-screen class where you have to spend a couple of seconds understanding each line feels harder to read than a three-screen class where each line is simple, but (IME) ends up being more maintainable."
+		 
+		 "Rails's original popularity came from developers fleeing the excessive ceremony and boilerplate code of enterprise Java – and .NET to some extent."
+		 
+		 -HN comments
+		 
+		Philosophy startup? 
+		 https://www.mailpoet.com/author/keiferszurszewski-after-plato/
+		 
 		
+		Here's how I did it.
+		I emailed any technical contact I could find at all the interesting companies in my city. I was following up all these emails with phone calls when I could get a number.
+		I found a blog article interviewing one of the researchers (call him Bob) at "Company A".
+		I sent this email that eventually led to my job:
+		Hello Bob, I've been researching [Company A] and came across this article from [BLOG SITE] that featured some of your work. I'm quite impressed with your assessment of the need for better data analysis tools in the [AREA OF RESEARCH], and the work you get to do in that area interests me. I found from your linkedin profile that part of your current research with the Company A Research Group is on [technical area I talk about below].
+		My recent PhD work at [University] involved a number of overlaps with your current work, both in technology ([short example]) and modeling physical processes ([short example]).
+		I am now looking for industry jobs in [City]. The Company A Research Group may be a good fit, but first I would like to learn more about what you do. Can you meet for coffee to discuss?
+		Best regards, -[my name]
+		He responded and asked for a resume. After further conversations, it turned out they didn't have room in their group (headcount freeze in their department) but we found another group at the company that needed someone with my skills. I was then "the guy Bob knows" during the interviews (which helped) and landed the job.
+			
+		
+	5.13
+	
+		Drone for $130
+		http://uav-rc.com/products/zmr-250-arf-quadcopter-cc3d-kit
+		
+		
+	5.16
+	
+		HN who's a actuary -> software dev
+		https://news.ycombinator.com/user?id=thedevil
+		
+		Letters from A Young Biologist, CoryTobin DIYbio nitrogen fixing (via Mac)
+		https://medium.com/@davidtlang/letters-from-a-young-biologist-f0374851dbc4#.mmnkg4gd8
+		
+		David Lang, From Zero to Maker, openROV guy, citizen sci enthusiast
+		https://medium.com/openexplorer-journal
+			
+			https://medium.com/ted-fellows/how-my-10-000th-day-in-the-world-changed-my-life-b9fd976a1373#.5anfeermi
+			
+	5.17
+	
+		Websupergoo help page
+		http://www.websupergoo.com/helppdfnet/source/3-concepts/b-htmlstyles.htm?q=stylerun
+	
+		PingPong Robot - "TrainerBot" - Pitching machine
+		Alex & Harrison @HAX
+		
+			http://www.trainerbot.com/
+		
+			https://www.kickstarter.com/projects/1743882979/trainerbot-smart-ping-pong-robot
+			
+			https://www.facebook.com/trainerbot/?fref=photo
+		
+			http://www.theverge.com/circuitbreaker/2016/5/17/11690268/trainerbot-robot-ping-pong-hands-on
+		
+		
+		Deep Mind writeup, 2015
+		http://www.wired.com/2015/12/teaching-ai-to-play-atari-will-help-robots-make-sense-of-our-world/
+		
+			Skymind, Adam Gibson '14
+			http://www.wired.com/2014/06/skymind-deep-learning/
+			
+		Zipfianacademy, become a data scientist, now Galvanize
+			deprecated: http://www.zipfianacademy.com/
+			
+			http://www.galvanize.com/courses/
+			
+		
+	5.18
+		
+		Richard Sutton, Reinforcement Learning 1998
+		http://webdocs.cs.ualberta.ca/~sutton/book/ebook/node7.html
+		
+		
+		CS 188 UC Berkley
 			
 			
+			Reinforcment II
+			https://www.youtube.com/watch?v=yNeSFbE1jdY
 			
-			
-			
-			
+		Python Cartpole by Jeremy Stober @DepthFirstSearch.net
+		https://github.com/stober/cartpole/blob/master/src/__init__.py
+		
+		Cartpole solved by pyBrain.RungeKujtta method
+		http://pydoc.net/Python/PyBrain/0.2.1/pybrain.rl.environments.cartpole.cartpole/
 			
 			
 			
