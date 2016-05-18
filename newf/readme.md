@@ -1918,10 +1918,10 @@
 		
 		Cartpole solved by pyBrain.RungeKujtta method
 		http://pydoc.net/Python/PyBrain/0.2.1/pybrain.rl.environments.cartpole.cartpole/
+			http://pybrain.org/
 			
 			
-			
-			
+		
 			
 			
 			
