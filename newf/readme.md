@@ -1921,12 +1921,34 @@
 			http://pybrain.org/
 			
 			
+		Nick Lane on Gates Notes
+		https://www.gatesnotes.com/Books/The-Vital-Question
+			
+			
+	5.23
+	
+		Ipython notebook for criminal sentencing, probulica expose
+		https://github.com/propublica/compas-analysis/blob/master/Compas%20Analysis.ipynb
 		
+	5.24
+	
+		Former MS Exec, fucked over .net devs
+		https://blog.learningbyshipping.com/
+		
+			https://twitter.com/stevesi
+		
+			article calling him out
+			https://news.ycombinator.com/item?id=11761437
 			
+	5.27
+	
+		Voight video
+		https://www.youtube.com/watch?v=lNttxYdGHs4&feature=youtu.be
 			
-			
-			
-			
+		Aegis! - Defend yourself against microsoft
+		https://github.com/th3power/aegis-voat
+		
+		
 			
 		
 	
