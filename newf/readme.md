@@ -1909,7 +1909,6 @@
 		
 		CS 188 UC Berkley
 			
-			
 			Reinforcment II
 			https://www.youtube.com/watch?v=yNeSFbE1jdY
 			
@@ -1948,14 +1947,25 @@
 		Aegis! - Defend yourself against microsoft
 		https://github.com/th3power/aegis-voat
 		
-		
+	6.1
+	
+		AI stuck at local min: http://kennethfriedman.org/projects/escaping-local-min/
+	
+		Karpathy, RL writeup
+		http://karpathy.github.io/2016/05/31/rl/
 			
+			karpathy github https://github.com/karpathy
+			@stanford: http://cs.stanford.edu/people/karpathy/
 		
 	
+		Learn Docker by building a sample node app
+		http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
 		
+		CodePlex - MS's github, mostly C# stuff
+		https://www.codeplex.com/
 		
-		
-		
+		Visual Studio Extension tutorial
+		http://www.codeproject.com/Articles/324611/Extending-Visual-Studio-Part-Creating-Addins
 		
 		
 		
