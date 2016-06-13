@@ -1964,8 +1964,37 @@
 		CodePlex - MS's github, mostly C# stuff
 		https://www.codeplex.com/
 		
-		Visual Studio Extension tutorial
+		Visual Studio Extension tutoriala
 		http://www.codeproject.com/Articles/324611/Extending-Visual-Studio-Part-Creating-Addins
+		
+		Dan Luria, director of engineering @societyofgrownups
+		http://www.meetup.com/Boston-Young-Creatives/members/9250589/
+		https://news.ycombinator.com/threads?id=whichdan
+		
+		Chaitin incompletness theory sketch
+		http://math.ucr.edu/home/baez/surprises.html
+		
+		Demo of NN http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.18822&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false
+		
+		
+	6.10
+	
+		Async RL + OpenAI gym
+		https://github.com/coreylynch/async-rl
+		
+		Paxos consensus algo
+		https://en.wikipedia.org/wiki/Paxos_(computer_science)
+		
+		
+	6.13
+	
+		Cambridge Coding - recommender systems in python	http://online.cambridgecoding.com/notebooks/eWReNYcAfB/implementing-your-own-recommender-systems-in-python-2
+		
+		Queue in C++ for event driven programs
+		http://ithare.com/implementing-queues-for-event-driven-programs/
+		
+		Curated Recommender for Films
+		https://www.film-fish.com/
 		
 		
 		
