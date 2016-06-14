@@ -1996,5 +1996,16 @@
 		Curated Recommender for Films
 		https://www.film-fish.com/
 		
+		Zuck bro http://thenextweb.com/facebook/2016/04/18/check-old-zuckerberg-interview-facebook-solo-cups-keg-stands/
+		
+		Now to the Neolithic - lecture by history of sci teacher
+		http://derekdesollaprice.org/
+		
+		HN user, Jason Huggins, does robot that plays angry birds
+		https://news.ycombinator.com/user?id=hugs
+		http://www.tapster.io/
+		
+		Example Tindie item
+		https://www.tindie.com/products/2bluesc/cleanhawk-250-quadcopter-power-distribution-board/
 		
 		
