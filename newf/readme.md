@@ -2008,4 +2008,23 @@
 		Example Tindie item
 		https://www.tindie.com/products/2bluesc/cleanhawk-250-quadcopter-power-distribution-board/
 		
+	6.15
+	
+		Dirge without Music, Edna St Vincent Millay
+		http://www.poetryfoundation.org/poems-and-poets/poems/detail/52773
 		
+			I am not resigned to the shutting away of loving hearts in the hard ground.
+			
+	6.21
+	
+		FTL primer
+		http://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/FTL.html
+		
+		IOT list of good software and hardware
+		https://github.com/HQarroum/awesome-iot
+			
+		Trojan Records YT channel
+		https://www.youtube.com/channel/UCSREcFC7aALeaDd9Z7zWffw
+			
+		Gun control proposal from Ars Technica founder
+		https://github.com/jonstokes/shootercontrol
