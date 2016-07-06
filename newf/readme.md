@@ -2071,8 +2071,11 @@
 		
 	7.6
 	
+		Literate Testing
 		https://web.archive.org/web/20110227092515/http://www.arrenbrecht.ch/testing/index.htm
 		
+			doctest
+			https://docs.python.org/2.7/library/doctest.html
 		
 		
 		
