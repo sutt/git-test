@@ -2028,3 +2028,62 @@
 			
 		Gun control proposal from Ars Technica founder
 		https://github.com/jonstokes/shootercontrol
+		
+		10 rules of robot ops
+		http://robotops.com/
+		
+		.net arduino dev for robot
+		https://www.youtube.com/watch?v=-Jsvg6u9CYI
+		
+	6.23
+	
+		CodeDOM in .net ~ useful?
+		https://msdn.microsoft.com/en-us/library/system.codedom(v=vs.110).aspx
+			proly not, it only creates code, doesn't interpret it
+			
+		Xamarin notebooks
+		https://developer.xamarin.com/guides/cross-platform/workbooks/
+		
+		Opening up Makers to robots, via Intel Edison
+		http://motherboard.vice.com/blog/opening-up-the-world-of-robotics
+	
+			talking about: http://hybridgroup.com/
+			
+		Roslyn walk-thru
+		https://roslyn.codeplex.com/wikipage?title=Samples%20and%20Walkthroughs&referringTitle=Home
+		
+		Q-learning in openAI
+		http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/Q-Learning%20&%20OpenAI%20gym.ipynb?utm_content=buffer2e35d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+		
+		
+		Vision guy at google
+		https://github.com/patrickmineault
+		
+		
+		How to show openAI games in Ipython notebook
+		http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/Render%20OpenAI%20gym%20as%20GIF.ipynb
+		
+	6.30
+	
+		"I imagine a project where individual voters go out and find a friend who plans to vote for the other candidate. And then have “the friendly chat that the media is trying to stop us from having”. Not a debate, not another grassroots campaign, just a chat across bubbles. What does my candidate look like to you? Here are three things I like about your candidate. What do you like about your candidate? Can you name three things you like about mine? What parts of the picture do you think I’m missing?"
+			-Daniel Bottger http://www.scottaaronson.com/blog/?p=2777
+		
+		
+	7.6
+	
+		https://web.archive.org/web/20110227092515/http://www.arrenbrecht.ch/testing/index.htm
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
