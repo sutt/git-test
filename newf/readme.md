@@ -2157,3 +2157,4 @@
 			https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.debuggervisualizers.idialogvisualizerservice.aspx
 			https://blogs.msdn.microsoft.com/visualstudio/2016/03/30/visual-studio-2015-update-2-rtm/
 			https://blogs.msdn.microsoft.com/visualstudio/2016/02/10/visual-studio-2015-update-2-ctp/
+			https://www.visualstudio.com/news/vs2015-update2-vs
