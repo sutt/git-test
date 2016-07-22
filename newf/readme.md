@@ -2078,15 +2078,82 @@
 			https://docs.python.org/2.7/library/doctest.html
 		
 		
+	7.7
+	
+		Literate Programming write-up	http://www.johndcook.com/blog/2016/07/06/literate-programming-presenting-code-in-human-order/#.V32uxZvDTmQ.hackernews
+		
+			book by Knuth	https://www.amazon.com/Literate-Programming-Center-Language-Information/dp/0937073806/ref=as_li_ss_tl?ie=UTF8&qid=1467815523&sr=8-1&keywords=literate+programming&linkCode=sl1&tag=theende-20&linkId=8ac40296b143696473fcb8472cab99e3
 		
 		
+	7.12
+	
+		New Visualizations for Molecular Biology
+		http://www.nature.com/news/the-visualizations-transforming-biology-1.20201
 		
 		
+		Optogenetics Open Hardware
+		http://web.stanford.edu/group/dlab/optogenetics/hardware.html
 		
 		
+		Caution for DIY brain stimulations tDCS
+		https://news.ycombinator.com/item?id=12078895
+		
+	7.15
+	
+		Jupyter, next step
+		https://news.ycombinator.com/item?id=12098180
+		
+	7.19
+	
+		DataTips Galore
+
 		
 		
+		Motivating StackOverflow complaint				http://stackoverflow.com/questions/30113725/missing-intellisence-data-tip-for-a-datarow-item-in-vs-2012-and-beyond
+			https://github.com/dotnet/roslyn/issues/2602
+		
+		The docs on this
+		https://msdn.microsoft.com/en-us/library/ea46xwzd(v=vs.140).aspx
+		
+		https://msdn.microsoft.com/en-us/library/zayyhzts.aspx
+		
+		DebuggerDisplay
+		https://msdn.microsoft.com/en-us/library/x810d419.aspx
+		
+		Custom views of Managed Objects
+		https://msdn.microsoft.com/en-us/library/zf0e8s14.aspx
+		
+		Enhanced Views
+		https://msdn.microsoft.com/en-us/library/ms228992.aspx
+		
+		RootHidden
+		https://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerbrowsablestate.aspx
+		
+		AttributeDisplay
+		https://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx
 		
 		
+		<DebuggerDisplay("HOVA")>
+			 Public Class .....
+			 
+				<DebuggerBrowsable(DebuggerBrowsableState.Collapsed)> _
+				public arr() as integer
+				
+				
+	7.20
+	
+		Windows 10 Developer Mode
+		http://www.hanselman.com/blog/Windows10DeveloperMode.aspx
 		
 		
+		How to write a VS visualizer
+		https://msdn.microsoft.com/en-us/library/e2zc529c.aspx
+		
+			OpenTabs
+			https://msdn.microsoft.com/en-us/library/ea46xwzd.aspx
+			https://msdn.microsoft.com/en-us/library/zayyhzts.aspx
+			https://msdn.microsoft.com/en-us/library/e2zc529c.aspx
+			https://msdn.microsoft.com/en-us/library/ms164759.aspx
+			https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.debuggervisualizers.idialogvisualizerservice.aspx
+			https://blogs.msdn.microsoft.com/visualstudio/2016/03/30/visual-studio-2015-update-2-rtm/
+			https://blogs.msdn.microsoft.com/visualstudio/2016/02/10/visual-studio-2015-update-2-ctp/
