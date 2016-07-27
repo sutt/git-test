@@ -2174,3 +2174,17 @@
 	
 		Quantopian PR
 		http://www.wsj.com/articles/steven-a-cohens-newest-bet-do-it-yourself-computer-traders-1469592001
+		
+		AXA_Bug
+		
+		Find IIS on Windows Server
+		https://technet.microsoft.com/en-us/library/jj635847(v=ws.11).aspx
+		
+		Tutorial - deploy asp.net to azure via VS2015
+		https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-started/
+		
+		Doesn't work on Azure?
+		https://sourceforge.net/p/btnet/discussion/226938/thread/9d18e189/
+		
+		Installation guide
+		http://ifdefined.com/README.html#installation
