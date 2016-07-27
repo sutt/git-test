@@ -2158,3 +2158,19 @@
 			https://blogs.msdn.microsoft.com/visualstudio/2016/03/30/visual-studio-2015-update-2-rtm/
 			https://blogs.msdn.microsoft.com/visualstudio/2016/02/10/visual-studio-2015-update-2-ctp/
 			https://www.visualstudio.com/news/vs2015-update2-vs
+			
+	7.25
+	
+		Americas Greatest Makers casting call
+		http://venertainment.com/America-s-Greatest-Makers/
+		
+		In the beginning, there was the command line
+		http://cristal.inria.fr/~weis/info/commandline.html
+		
+		Ask Polly: do what you love
+		http://nymag.com/thecut/2014/09/ask-polly-i-hate-my-job-what-should-i-do.html
+		
+	7.27
+	
+		Quantopian PR
+		http://www.wsj.com/articles/steven-a-cohens-newest-bet-do-it-yourself-computer-traders-1469592001
