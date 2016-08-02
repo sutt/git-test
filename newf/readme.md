@@ -2188,3 +2188,50 @@
 		
 		Installation guide
 		http://ifdefined.com/README.html#installation
+		
+	7.28
+		
+		http://www.avclub.com/article/best-films-2016-so-far-v-clubs-catch-guide-239983
+	
+		Scott Tobias - Kiss Kiss Bang Bang
+		http://www.avclub.com/article/the-new-cult-canon-ikiss-kiss-bang-bangi-2300
+		
+	7.29
+	
+		Blogosphere is best for studying subjects
+		http://www.ft.com/cms/s/0/e460ba78-5379-11e6-9664-e0bdc13c3bef.html#axzz4FoZQQcXq
+		
+	8.1
+	
+		Numpy whitepapaer
+		https://hal.inria.fr/inria-00564007/document
+		
+		Neumitra - origins story
+		http://ilp.mit.edu/newsstory.jsp?id=21222
+		
+		Abe Connelly on HN
+		https://news.ycombinator.com/threads?id=abetusk
+		
+			His Repo of learning
+			https://github.com/abetusk/papers
+		
+		OpenAI Special Projects
+		https://news.ycombinator.com/item?id=12181881
+		
+		Drone Hints
+			http://www.firstquadcopter.com/quadcopter-news/inside-syma-x5c-remote-controller/
+			https://en.wikibooks.org/wiki/RC_Airplane/RCAP
+			http://www.symatoystore.com/Syma-Wholesale
+			https://www.youtube.com/watch?v=EQbRnQsHLHA&feature=youtu.be
+			http://hackaday.com/2015/09/20/hacking-2-4ghz-radio-control/
+			http://hackaday.com/2014/12/10/reverse-engineering-the-proto-x-quadcopter-radio/
+			
+			
+		Ceiling Fan Hacking
+		http://hackaday.com/2016/07/04/emulating-a-remote-control-ceiling-fan-transmitter-in-an-fpga/
+		
+	8.2
+		https://www.openhardware.io/
+		
+		
+		
