@@ -2211,7 +2211,7 @@
 		
 		Abe Connelly on HN
 		https://news.ycombinator.com/threads?id=abetusk
-		
+		c
 			His Repo of learning
 			https://github.com/abetusk/papers
 		
@@ -2233,5 +2233,12 @@
 	8.2
 		https://www.openhardware.io/
 		
+		BosLab Crowdfunding
+		https://www.generosity.com/community-fundraising/molecule-for-treating-age-related-diseases--2
 		
 		
+		Capitalism slides	https://docs.google.com/presentation/d/1zQG585cbuoMAn482hxR1GZtLKa16Qy_3QltIotXkSKg/edit#slide=id.g15e44de12f_0_258
+		
+		
+		GIFs in matplotlib
+		http://eli.thegreenplace.net/2016/drawing-animated-gifs-with-matplotlib/
