@@ -2242,3 +2242,45 @@
 		
 		GIFs in matplotlib
 		http://eli.thegreenplace.net/2016/drawing-animated-gifs-with-matplotlib/
+		
+		
+	8.8
+	
+		Great example IPython notebooks
+		https://github.com/minimaxir/movie-gender/blob/master/movie_gender.ipynb
+		https://github.com/minimaxir/stack-overflow-survey/blob/master/stack_overflow_dev_survey.ipynb
+		
+		Wonks at Hudson Institute, discuss secular stagnation
+		http://www.hudson.org/events/1356-are-plutocrats-drowning-our-republic-72016
+		
+	8.9
+	
+		Packet transmission for Syma X11
+		https://github.com/goebish/nrf24_multipro
+		
+			RF24
+			http://playground.arduino.cc/InterfacingWithHardware/Nrf24L01
+			
+			explained a lot better
+			https://github.com/bradquick/bradwii
+			
+				https://github.com/search?utf8=%E2%9C%93&q=Multi-Wii
+		
+		
+		Nice! Drone page
+		https://altax.net/
+		
+			the dude
+			https://github.com/alduxvm
+			
+			Drone in the Lab
+			https://youtu.be/k6tswW7M_-8
+		
+			Low latency Rpi
+			https://altax.net/blog/low-latency-raspberry-pi-video-transmission/
+			
+		Multi-Wii: based off componenets in a Wii
+		http://www.multiwii.com/
+		
+		Open source, join or die
+		https://opensource.com/business/16/8/building-career-open-source
