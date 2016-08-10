@@ -2284,3 +2284,10 @@
 		
 		Open source, join or die
 		https://opensource.com/business/16/8/building-career-open-source
+		
+	8.10
+	
+		Brain Chu, insightful UC Berkley CS student
+		"Deep learning has succeeded tremendously with perception in domains that tolerate lots of noise (audio/visual). Will those successes continue with perception in domains that are not noisy (language) and inference/control, which the article touches on? ..." - https://news.ycombinator.com/item?id=12254801
+		
+		http://www.brianchu.com/
