@@ -2291,3 +2291,24 @@
 		"Deep learning has succeeded tremendously with perception in domains that tolerate lots of noise (audio/visual). Will those successes continue with perception in domains that are not noisy (language) and inference/control, which the article touches on? ..." - https://news.ycombinator.com/item?id=12254801
 		
 		http://www.brianchu.com/
+		
+	8.16
+	
+		ML guy with 8-part python tutorial
+		http://www.johnwittenauer.net/tensorflow-openai-and-the-state-of-open-source-ml/
+		
+	8.19
+	
+		 "One’s horror at appeals for interaction is clearly the consequence of the hundreds of preceding interactions rather than anything specific to the latecomer. "
+		 
+	 8.23
+	 
+		New Freddies?
+			http://freethoughtblogs.com/hetpat/
+			Will Shetterly blog
+			
+		Hot Hand review of the Lit: Now with positive findings
+			http://nymag.com/scienceofus/2016/08/how-researchers-discovered-the-basketball-hot-hand.html		
+		
+			
+			 
