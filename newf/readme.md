@@ -2306,9 +2306,42 @@
 		New Freddies?
 			http://freethoughtblogs.com/hetpat/
 			Will Shetterly blog
+			Kevin Drum at Mother Jones
 			
 		Hot Hand review of the Lit: Now with positive findings
 			http://nymag.com/scienceofus/2016/08/how-researchers-discovered-the-basketball-hot-hand.html		
+		Drone innovators on tech review
 		
+			skydio, adam bry: https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/adam-bry/
 			
-			 
+			airware, jonathan downey
+			https://www.technologyreview.com/lists/innovators-under-35/2016/visionary/jonathan-downey/
+			
+			
+			
+		 Drop-Seq, transcriptome for each cell
+		 http://mccarrolllab.com/dropseq/
+		 
+		 
+		 Richard Mueller MWP / Soon and Balinaus vs MBH in TechReview
+		 http://muller.lbl.gov/TRessays/23-MedievalGlobalWarming.html
+		 
+		 Nibiru, Nemesis, and Planet Nine
+		 https://en.wikipedia.org/wiki/Nibiru_cataclysm
+		 
+	 8.25
+	 
+		 Ralph Peters - Constant Conflict. Army College Quarterly, 1997
+		 Information assymetry and its role in clash of civilizations
+		 http://strategicstudiesinstitute.army.mil/pubs/parameters/articles/97summer/peters.htm
+		 
+			American culture is criticized for its impermanence, its "disposable" products. But therein lies its strength. All previous cultures sought ideal achievement which, once reached, might endure in static perfection. American culture is not about the end, but the means, the dynamic process ... All previous cultures, general and military, have sought to achieve an ideal form of life and then fix it in cement. Americans, in and out of uniform, have always embraced change (though many individuals have not, and their conservatism has acted as a healthy brake on our national excesses). American culture is the culture of the unafraid.
+			
+			next up - Fighting for the Future: Will America Triumph?
+		 
+		 
+		 
+		 
+		 
+		 
+		 
