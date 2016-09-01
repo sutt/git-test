@@ -2338,6 +2338,30 @@
 			American culture is criticized for its impermanence, its "disposable" products. But therein lies its strength. All previous cultures sought ideal achievement which, once reached, might endure in static perfection. American culture is not about the end, but the means, the dynamic process ... All previous cultures, general and military, have sought to achieve an ideal form of life and then fix it in cement. Americans, in and out of uniform, have always embraced change (though many individuals have not, and their conservatism has acted as a healthy brake on our national excesses). American culture is the culture of the unafraid.
 			
 			next up - Fighting for the Future: Will America Triumph?
+			
+	8.29
+	
+		For ages now, I've been telling people that the best best code, produced by the most experienced people, tends to look like novice code that happens to work --- no unnecessary abstractions, limited anticipated extensibility points, encapsulation only where it makes sense. "Best practices", blindly applied, need to die.
+			https://news.ycombinator.com/item?id=12377385
+			
+		"It took me four years to paint like Raphael, but a lifetime to paint like a child." - Picasso
+		
+		
+		http://tranquilmonkey.com/hunter-s-thompsons-extraordinary-letter-on-finding-your-purpose/
+		
+		The man in the saloon steamer has seen all the races of men, and he is thinking of the things that divide men — diet, dress, decorum, rings in the nose as in Africa, or in the ears as in Europe, blue paint among the ancients, or red paint among the modern Britons. The man in the cabbage field has seen nothing at all; but he is thinking of the things that unite men — hunger and babies, and the beauty of women, and the promise or menace of the sky. -Chesterton
+		
+	9.1
+	
+		Literate Programming, critique
+		http://johnwshipman.blogspot.com/2016/02/is-literate-programming-harmful.html
+		
+	9.2
+	
+		This is what an artist's site looks like
+		http://www.ltengy.com/dailyhoney/
+		
+		
 		 
 		 
 		 
