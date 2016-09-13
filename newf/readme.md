@@ -2361,10 +2361,36 @@
 		This is what an artist's site looks like
 		http://www.ltengy.com/dailyhoney/
 		
+		Argues well on HN
+		https://news.ycombinator.com/threads?id=massysett
+		 
+	9.12
+	
+		Iranian(?) but writes like Moldbug
+		https://news.ycombinator.com/threads?id=eternalban 
 		
-		 
-		 
-		 
+		Dan Luu, learning to program, other links at the bottom
+		http://danluu.com/learning-to-program/
+		
+	9.13
+	
+		If you're like me, your impersonations are more than just bad. They're like alter someone's opinion of you permanently for the worse type bad[2]. "That guy has poor judgement" might be spoken confidently by a witness, even if moments before they had been a longtime neutral aquaintance. And not in the sense of politically distateful or even a socially ill-timed jest, simply the poorest execution in emulating the accent, cadence, body-language or any meaningful characteristic of the desired target.
+
+		And so, if you're like me, you know the secret adulation that hides behind your chuckles while listening to a naturally gifted impressionist hold court. And we're not talking about celebrity impressions, just that friend of yours that can caricature your other friends so well, that teacher you both had in 10th grade, his Portugese grandmother - who you've never met but feel like you know at least as well your own based on her catch phrases. 
+
+		At first it's the tightrope walker's amazement: look at him up there avoiding the natural inclination to move his mouth the safe and predictable way we've all been taught to move it[0]. Now he's going to try another sentence, will he finally stumble? But no, he does not, and even if he were to, it's becoming increasing clear there are larger reasons than that he belongs up there and you belong down here - with the chucklers.
+
+		You start to wonder about those reasons - what is it that he *sees* differently up there? Is the world more vivid, is the social landscape more explicitly laid out in an auditory color you're blind to? And what type of stains do you carry on yourself, if he were to turn the blacklight on you.
+
+		And finally and most devastatingly you start to fantasize: If you could do that Mick Jagger as well as him, would you not... go with it, or at least keep it on for a night. Sure change it so it's not a blaringly obvious celebrity, but if you can be anybody why not take advantage sometimes? But he doesn't overdo it like you would, showing his complete modesty and comfortability in his own skin, even under [1] temptation.
+
+		And the final tally: He's not only the one that has the artist's hands, and the artist's eye, but completely lacks the artist's frustration and restlessness. In fact he has now transferred that creative lust onto you, with your impotence to be anybody except what a life of blind habits and anxieties has molded you into.
+
+
+		[0]:accustomed
+		[1]: severe, manifest
+		[2]: acts of cowardice
+
 		 
 		 
 		 
