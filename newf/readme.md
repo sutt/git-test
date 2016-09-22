@@ -2391,7 +2391,53 @@
 		[1]: severe, manifest
 		[2]: acts of cowardice
 
+	 9.14
+		Thoreau's last paragrpah
+		http://thoreau.eserver.org/thelast.html
+		
+			he needed to find a way to bring his book to an end without arriving at any final conclusion, needed to find a way to leave the inquiry not only tentative but also open-ended and continuing...essential to Transcendentalism, which was, very briefly, the insistence always on leaving off with matters still very open-ended and unclosed. 
+			
+			
+		“If you want to build a ship, don’t drum up people together to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.” - Antoine de Saint-Exupéry
+		 
+		 The Fall Classic
+		 https://en.wikipedia.org/wiki/Ten_Cent_Beer_Night
+		 https://www.youtube.com/watch?v=LzWVDyqTolI
 		 
 		 
-		 
-		 
+	 9.19
+	 
+		Joel on Camrbirdge in Springtime, a lament for P Greenspun's 90's website
+		http://www.joelonsoftware.com/articles/fog0000000021.html
+		
+	9.20
+	
+		Reasonable right-center Commenter, Craig
+		https://www.allthink.com/craggbragg
+		
+		What I remember most about September 11th was for looking to others for a response. What would the grown-ups do? What pores would temporarily flare open in the authority structures and would we see the secret M.O. inside it?
+		
+		First week of high school, low man on the totem pole, but also the most hopeful and wide eyed.
+		
+		Canada rape case
+		https://www.allthink.com/1531958
+		
+		James Miller's (econ @Smith) podcast
+		https://soundcloud.com/user-519115521
+		
+		GKC - essays
+		http://essays.quotidiana.org/chesterton/lying_in_bed/
+		http://essays.quotidiana.org/chesterton/running_after_ones_hat/
+		
+	9.21
+	
+		SnowCrash thought - converted office parks to residential like the Walter Baker chocolate factory. But who would want that?
+		
+	9.22
+	
+		Ping Pong bowling trick shots
+		https://www.facebook.com/9gag/videos/10154971329201840/
+		
+		
+		John Novak, recreational (graphics) programmer
+		http://blog.johnnovak.net/about/
