@@ -2417,7 +2417,7 @@
 		
 		What I remember most about September 11th was for looking to others for a response. What would the grown-ups do? What pores would temporarily flare open in the authority structures and would we see the secret M.O. inside it?
 		
-		First week of high school, low man on the totem pole, but also the most hopeful and wide eyed.
+		First week fof high school, low man on the totem pole, but also the most hopeful and wide eyed.
 		
 		Canada rape case
 		https://www.allthink.com/1531958
@@ -2441,3 +2441,41 @@
 		
 		John Novak, recreational (graphics) programmer
 		http://blog.johnnovak.net/about/
+		
+		
+		Indico, Hello MNist
+		https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part3/
+		https://news.ycombinator.com/item?id=12557212
+		
+		Robot + ImgProc HelloWorld by Oreilly
+		https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow?twitter=@bigdata
+		
+		https://www.hotjar.com/blog/the-passion-fallacy
+		
+			If you want to succeed – you essentially want a 1% lifestyle. You want to live a life that only 1% of the population can afford to live. That means you need to work harder and smarter than the 99% – who are aspiring to do the same thing.
+			
+			
+		One Second After, EMP scenario fiction
+		https://www.amazon.com/Second-After-John-Matherson-Novel/dp/0765356864
+		
+		
+	9.26
+	
+		Stroke at 26, HN discusses how to chill the fuck out
+		http://www.nytimes.com/2016/09/25/jobs/what-i-learned-from-a-stroke-at-26-make-time-to-untangle.html
+		https://news.ycombinator.com/item?id=12577685
+		
+			Hustle, a biz self help book
+			http://www.goodreads.com/book/show/31376178-hustle
+		
+		Victor Ho, Managment/Career advice	http://www.nytimes.com/2016/09/25/business/victor-ho-of-fivestars-take-management-advice-from-interns.html
+		
+		HN discussion of FIRE vs Mainstreet economic model
+		https://news.ycombinator.com/item?id=12577005
+		
+		dotnet standard
+		https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
+		
+		IBM swift sandbox
+		https://swiftlang.ng.bluemix.net/#/repl
+		
