@@ -2479,3 +2479,23 @@
 		IBM swift sandbox
 		https://swiftlang.ng.bluemix.net/#/repl
 		
+	9.28
+	
+		HAckerRank, tutorials: python and ai
+		https://www.hackerrank.com/domains?h_r=logo
+		
+			https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
+			
+		Open AIs
+		https://openai.com/blog/team-plus-plus/
+		
+		
+	10.3
+	
+		Five minutes to Live (Sermon)
+		https://rabbiedbernstein.files.wordpress.com/2016/10/five-minutes-to-live-rabbi-kenneth-berger-z22l-yom-kippur-sermon-sept-1986.pdf
+		
+		Four steps to epiphany
+		http://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf
+		
+		3,2,1
