@@ -2499,3 +2499,92 @@
 		http://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf
 		
 		3,2,1
+		
+	10.4 
+	
+		Psychopath Code, Hitjens
+		
+		It was in Culture & Empire that I began writing on psychology. My expertise, and what fascinates me, is social psychology. That is, how groups work, and how people work within groups. It is the core of my work in open source community building. Software is all about people, it turns out.
+		
+		
+		Social Architecture, Hitjens
+		TIP: One free contributor is worth 10 paid contributors.
+
+		
+	10.5
+	
+		Goodhart's Law: "When a measure becomes a target, it ceases to be a good measure."
+		
+		Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
+		
+		Goodhart's original 1975 formulation:
+			A risk model breaks down when used for regulatory purposes.
+			
+			
+		Book of 20th centruy American Inventors
+		http://www.wsj.com/articles/kevin-baker-america-the-ingenious-1475614748
+		
+		Data Exchange
+		
+		http://www.dataexchangellc.com/
+		
+		http://www.buzzfile.com/business/Data-Exchange-LLC-908-342-1633_no:15189919
+		
+			Also in Rochester, NY
+			http://www.buzzfile.com/business/Data-Exchange-LLC-585-750-7572
+			
+			Got like 6 followers
+			https://twitter.com/RethnkIT
+			
+				
+			
+				Chris Dutra
+				https://github.com/dutronlabs
+				
+				
+				https://apprenda.com/
+					https://twitter.com/Apprenda   12K followers
+					https://www.linkedin.com/in/dutrachr
+		
+		The Pulse Network
+		http://www.tpni.com/
+		
+		TEDx Springfield @massmutual (2015)
+		http://www.masslive.com/news/index.ssf/2015/10/tedxspringfield_brings_ideas_l.html
+		
+	10.11
+	
+		RPi Home automation blog
+		https://jacklew.is/raspberry-pi-door-opener/
+		
+		
+		Dennett, these words don't actually exist
+		https://ase.tufts.edu/cogstud/dennett/papers/Chapter_5.pdf
+		
+	10.12
+	
+		
+		
+		Discussion on sqlserver express image
+		https://news.ycombinator.com/item?id=12690853
+		
+			CALS
+			https://www.microsoft.com/en-us/licensing/product-licensing/client-access-license.aspx
+			
+			enterpriseDB, redhat for postgres			
+			http://forums.enterprisedb.com/posts/list/1678.page
+		
+		
+		Using the rpi as a microcontroller
+		https://ultibo.org/make/
+		
+	
+		The sacred, and how religious entrepreneurs create it	https://theviewfromhellyes.wordpress.com/2014/11/27/sacredness-as-practiced-by-religious-entrepreneurs-rape-riots-and-economic-efficiency/?utm_content=bufferb2e62&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+		
+			old: http://theviewfromhell.blogspot.com/2011/03/russian-dolls.html
+		
+		AWS open guide
+		https://github.com/open-guides/og-aws#aws-data-transfer-costs
+		
+		Deep Learning school
+		https://www.youtube.com/watch?v=eyovmAtoUx0
