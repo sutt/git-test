@@ -2588,3 +2588,51 @@
 		
 		Deep Learning school
 		https://www.youtube.com/watch?v=eyovmAtoUx0
+		
+		
+	10.13
+	
+		Tube Talk - get londoner to talk on subway	http://www.wsj.com/articles/londons-most-persistent-american-will-not-quit-until-tube-riders-talk-to-each-other-1476364466
+		
+		Deep Mind uses structured knowledge in AI
+		https://deepmind.com/blog/differentiable-neural-computers/
+		
+		
+	10.17
+	
+		Hello, I'm Peter Thiel, and I'm a libertarian
+		https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian
+		
+		
+		AvenueIngres, SSC-esque
+		https://news.ycombinator.com/threads?id=AvenueIngres
+		
+		Another informed commenter
+		https://news.ycombinator.com/threads?id=Turing_Machine
+		
+		Doing .Net on Linux
+		http://piotrgankiewicz.com/2016/10/17/net-on-linux-bye-windows-10/
+		
+		
+		David Wong books, hes editor of cracked.com
+			https://www.amazon.com/Brief-History-Vice-Behavior-Civilization/dp/0147517605
+			https://www.amazon.com/Futuristic-Violence-Fancy-Suits-David/dp/1250040191
+			
+		Ana Liu, Media Lab
+		http://ani-liu.com/hello
+		
+	10.19
+	
+		Waitstaff webcomic
+		http://bigbigtruck.deviantart.com/art/A-Year-In-Waiting-8-118699878
+		
+		Jose, PHP dev, big on github
+		http://josediazgonzalez.com/2016/01/26/open-source-is-hard/
+		
+		On TDD:
+		The conversation around TDD is tired, and the conclusion is always the same: "it depends." It depends on the person writing the code, the type of problem they're tackling, the language they're using, the needs of the business, etc.
+		This study doesn't bring anything new to the table except: "in this manufactured environment we found a single point of data that equates to noise."
+		
+		Finance to Dev
+		http://ericdykstra.me/blog/intro
+		http://ericatdbc.tumblr.com/archive
