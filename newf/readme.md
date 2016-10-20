@@ -2636,3 +2636,25 @@
 		Finance to Dev
 		http://ericdykstra.me/blog/intro
 		http://ericatdbc.tumblr.com/archive
+		
+		
+	10.20
+	
+		Learn VBA	https://mva.microsoft.com/en-US/training-courses/visual-basic-fundamentals-for-absolute-beginners-16507?l=b9HXBTKbC_6706218965
+		
+		.suo files explained
+		https://github.com/ParticularLabs/SetStartupProjects
+		
+			Open MCDF - to manipulate .suo files
+			http://openmcdf.sourceforge.net/
+			
+		Ye Olde VS - Macros and breakpoints	http://stackoverflow.com/questions/841782/programmatically-apply-deactivate-breakpoints-in-visual-studio?rq=1
+		
+		Debug.Assert   - interesting
+		https://msdn.microsoft.com/en-us/library/system.diagnostics.debug.assert.aspx
+		
+			The System.Diagnostics.Debug Class
+			https://msdn.microsoft.com/en-us/library/system.diagnostics.debug(v=vs.110).aspx
+			
+		Taxonomy of NN
+		http://www.asimovinstitute.org/neural-network-zoo/#
