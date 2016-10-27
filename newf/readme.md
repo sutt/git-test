@@ -2658,3 +2658,50 @@
 			
 		Taxonomy of NN
 		http://www.asimovinstitute.org/neural-network-zoo/#
+		
+		.net core tooling
+		https://news.ycombinator.com/item?id=12750068
+		
+		
+	10.21
+	
+		GAC - explanation
+		https://msdn.microsoft.com/en-us/library/yf1d93sz.aspx
+		
+		Troubleshooting
+			http://stackoverflow.com/questions/810203/the-following-module-was-built-either-with-optimizations-enabled-or-without-debu
+			https://forums.asp.net/t/996830.aspx?The+following+module+was+built+either+with+optimizations+enabled+or+without+debug+information
+			
+	10.24
+	
+		Gender in policy making
+		https://lawfareblog.com/beyond-grabbing-gender-conflict-and-national-security-establishment
+			illutrates the problem with "the conversation on gender" as it used today: it is used for showmanship to sell policymakers / policy but refuses to acknowledge the reality that gender plays in policy outcomes
+		
+		Example of a technichally correct, but actually it should be the opposite:
+			Now that Tesla is making cars with all the hardware to self-drive, but don't have the software yet, it could be technichally said that the software is the thing that we haven't been able to develop. But if you look at 2005, we had the hardware already - lidar and digital cameras, the big question was could anyone build software like that. Now we know we can which is the true breakthru although the hardware team could say they delivered first.
+			
+		Ed Woo Policing DIYbio	https://www.technologyreview.com/s/602643/on-patrol-with-americas-top-bioterror-cop/?utm_campaign=content-distribution&utm_source=dlvr.it&utm_medium=twitter
+		
+		List of games on github
+		https://github.com/leereilly/games
+		
+		MSDN, using AZure for EHR's
+		https://msdn.microsoft.com/en-us/healthvault/dn783322
+		
+		Reality is broken, games make us better
+		https://www.goodreads.com/book/show/7821348-reality-is-broken
+		
+	10.27
+	
+		Git primers
+		https://codewords.recurse.com/issues/two/git-from-the-inside-out
+		
+			http://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git#927386
+			
+			https://github.com/tj/git-extras
+			
+			https://jwiegley.github.io/git-from-the-bottom-up/
+			
+		
+		Job Search Spreadsheet	http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html
