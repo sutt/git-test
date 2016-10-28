@@ -2705,3 +2705,19 @@
 			
 		
 		Job Search Spreadsheet	http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html
+		
+		Holly Woodland's crowd paper
+		http://www.nature.com/articles/ncomms12846
+		
+		
+		Cool! Python Word2Vec sourceCode recommender systems
+		https://gab41.lab41.org/python2vec-word-embeddings-for-source-code-3d14d030fe8f#.l41lsb7fb
+		
+		Recommender systems datasets
+		https://github.com/lab41/hermes
+		
+		How to learn about ML / AI
+		https://news.ycombinator.com/item?id=12817426
+		
+		comma ai
+		https://github.com/commaai/research
