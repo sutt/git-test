@@ -2750,8 +2750,11 @@
 		Aaron Hoffman, MS open source guy
 		https://github.com/stonefinch/
 		
-	
+			Azure intro
+			https://github.com/Stonefinch/AzureIntro
 		
-		
-		
+		I would say 3 options to be able to bareboat charter: 1) take ASA or US Sailing courses up to bareboat cruising 2) go with someone who owns or can charter a boat 3) Crew boats and sail smaller boats and work your way up. I went the first route, I have the US Sailing certifications up to Bareboat cruising
+
+		C# / Product Manager job
+		http://stackoverflow.com/jobs/126169/freeform-product-engineering-manager-3d-systems-inc
 		
