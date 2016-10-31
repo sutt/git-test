@@ -2706,6 +2706,8 @@
 		
 		Job Search Spreadsheet	http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html
 		
+	10.28
+	
 		Holly Woodland's crowd paper
 		http://www.nature.com/articles/ncomms12846
 		
@@ -2721,3 +2723,35 @@
 		
 		comma ai
 		https://github.com/commaai/research
+		
+		Kyle Russell, would prolly like the PPD
+		https://twitter.com/kylebrussell
+		
+		Build AI algos?
+		http://www.vicarious.com/
+		
+		Tyson Chandler, bullying
+		http://www.theplayerstribune.com/bullying-awareness-tyson-chandler/
+		
+	10.31
+	
+		Python AsyncIO writeup
+		https://news.ycombinator.com/item?id=12829759
+		
+		SLides on Entrepreneurship
+		https://news.ycombinator.com/item?id=12834804
+		
+		HackerNews Dataset
+		http://aaron-hoffman.blogspot.com/2016/10/hacker-news-dataset-october-2016.html
+		
+		Drone in the picture is the one to get
+		https://www.technologyreview.com/lists/innovators-under-35/2016/visionary/nora-ayanian
+		
+		Aaron Hoffman, MS open source guy
+		https://github.com/stonefinch/
+		
+	
+		
+		
+		
+		
