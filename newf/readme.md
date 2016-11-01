@@ -2758,3 +2758,61 @@
 		C# / Product Manager job
 		http://stackoverflow.com/jobs/126169/freeform-product-engineering-manager-3d-systems-inc
 		
+		
+	11.1
+	
+		WP on AWS, breif guide on scaling to 2 vm's
+		https://cloudonaut.io/wordpress-on-aws-smooth-and-pain-free/
+		
+		Stupid Drone as a ball kickstarter
+		https://www.kickstarter.com/projects/zyro/zyrotm-droneball
+		
+		Parrot-mini can carry a pingpong ball	http://www.theaustralian.com.au/life/personal-technology/parrot-mambo-ferries-letters-swing-is-half-drone-half-plane/news-story/49109fd45dd2a3439811f8377ddc17db
+		
+		Writeup of PPD
+		http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=6569
+		
+		WindowTypes for VS Extensions
+		https://msdn.microsoft.com/en-us/library/envdte.vswindowtype.aspx
+		
+		PubPub - Sci publishing 2.0
+		https://www.pubpub.org/pub/hello
+		
+		Music for Programming
+		https://www.brain.fm/app#!/player/35
+		
+			https://news.ycombinator.com/item?id=12844434
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
