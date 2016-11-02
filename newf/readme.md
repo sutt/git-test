@@ -2783,15 +2783,32 @@
 		
 			https://news.ycombinator.com/item?id=12844434
 		
+	11.2
+	
+		Jaeger @WPI, does robotics, looking for job
+		https://news.ycombinator.com/user?id=amjaeger
+			https://news.ycombinator.com/item?id=12846711
+			http://users.wpi.edu/~amjaeger/
 		
 		
+		Visual SLAM person
+		https://news.ycombinator.com/user?id=devin_lane
+			https://news.ycombinator.com/item?id=12849381
+			
+			nice c++ example for CV
+			https://shiftedbits.org/2011/01/30/cubic-spline-interpolation/
 		
 		
+		Dockwa app for marina reservation, 
+		https://dockwa.com/
 		
+			they are hiring
+			https://news.ycombinator.com/reply?id=12847326
 		
+		You described your guantanamo fever dreams, I say it's already happening	https://www.washingtonpost.com/opinions/global-opinions/venezuela-is-holding-our-son-hostage-and-the-us-doesnt-seem-to-care/2016/11/02/a8624224-9a34-11e6-9980-50913d68eacb_story.html
 		
-		
-		
+		debug an rpi in visualstudio - visualgdb
+		http://raspberrypi.stackexchange.com/questions/47972/remote-debugging-with-visual-studio-2015
 		
 		
 		
