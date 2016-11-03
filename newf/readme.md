@@ -2810,16 +2810,24 @@
 		debug an rpi in visualstudio - visualgdb
 		http://raspberrypi.stackexchange.com/questions/47972/remote-debugging-with-visual-studio-2015
 		
+	11.3
+	
+		"If you’re bootstrapped and have an email list of 1,000 people and want to grow that list, you don’t need a full-time email marketing manager, a writer, a designer and a junior marketer to execute on a content marketing strategy for you...You need a motivated, scrappy content marketer who can do all of those jobs at once."
 		
+		Visual Studio Code
+		https://code.visualstudio.com/docs/runtimes/office
 		
+		Salaries of Cal Employees
+		http://transparentcalifornia.com/salaries/search/?q=firefighter&y=
 		
+		Why functional programming
+		http://transparentcalifornia.com/salaries/search/?q=firefighter&y=
 		
+		The source for VS code
+		https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run-from-source
 		
-		
-		
-		
-		
-		
+		opencv docs
+		http://stackoverflow.com/documentation/opencv/topics
 		
 		
 		
