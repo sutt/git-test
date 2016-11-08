@@ -2939,6 +2939,41 @@
 		https://www.youtube.com/watch?v=p65XPP53rLo
 			https://github.com/karfly/balanceball
 			
+			PID math lecture
+			https://www.youtube.com/watch?v=0vqWyramGy8
+			
+			Tune a loop, math lecture
+			https://www.youtube.com/watch?v=3viD5ij60EI
 			
 		http://www.emgu.com/forum/viewtopic.php?t=4690
 		focus. If you find that you are not hitting 30 FPS, it may be the camera's auto adjustment system responding to a low light situation. In this case you can disable RightLight using Logitech camera controller software.
+		
+		probably is windows 8 vs 8.1 
+		or x64 vs x86?
+		could be python instead of c++
+		might not have numpy linear algebra libraries?
+		V4L2?
+		Try just recording using software
+		
+		Quadcopter flown by computer, very similiar to my attempts
+		https://www.youtube.com/watch?v=_LIBB9qlJoU
+		
+		Object Tracking, no color, compare img1 to img2
+		https://www.youtube.com/watch?v=X6rPdRZzgjg
+		
+		Quad Test Suite
+		http://www.miniquadtestbench.com/
+		
+		PiZero via USB only!
+		http://blog.gbaman.info/?p=791
+		
+		
+		DirectShow with Webcam demo project
+		http://www.codeproject.com/Articles/18511/Webcam-using-DirectShow-NET
+		
+		
+		OpenCV3 Blueprints
+		https://books.google.com/books?id=tfOoCwAAQBAJ&printsec=frontcover#v=onepage&q&f=false
+		
+		ScreentoGIF
+		http://screentogif.codeplex.com/
