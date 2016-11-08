@@ -2829,15 +2829,116 @@
 		opencv docs
 		http://stackoverflow.com/documentation/opencv/topics
 		
+	11.7
+	
+		New Face Detector, Rosenbrock's on-board
+		http://blog.dlib.net/2016/10/easily-create-high-quality-object.html
+		
+		Conversation by Adiran on Py-enabled Drones
+		https://twitter.com/PyImageSearch/status/781519330618073089
+		
+			eg GoPiGo2
+			http://www.dexterindustries.com/shop/gopigo-starter-kit-2/
+			
+			
+		
+		Rosenbrock repo
+		https://github.com/jrosebr1
+		
+		https://www.bitcraze.io/crazyflie-2/
+		
+			$180
+			https://www.seeedstudio.com/Crazyflie-20-p-2103.html#
+		
+			oh shit, positioning system
+			https://www.bitcraze.io/2016/10/loco-positioning-system-update-kalman-controller-and-tdma/
+				
+				so its radio triangulation
+				$150 per node
+				
+			using the flie in univ research
+			https://www.bitcraze.io/2016/06/loco-positioning-in-lth-math-department/
+			
+			adding tiny camera FPV: 1g camera + 2g transmitter + battery
+			https://www.hackster.io/fredg/crazyflie-2-0-fpv-setup-d2fc25
+			
+			Mechanichal stuff
+			https://www.bitcraze.io/category/crazyflie/cf-mechanic/
+			
+			And the code stuff
+			https://bitbucket.org/omwdunkley/crazyflie-pc-client-camera
+			
+			Demo of these, theyre the small ones at the end swarming	https://www.ted.com/talks/raffaello_d_andrea_meet_the_dazzling_flying_machines_of_the_future?language=en
+			
+			
+		Drone purchase
+		
+			$4 per controller
+			http://www.ebay.com/itm/like/281983356256?lpid=82&chn=ps&ul_noapp=true
+				
+			$19 D63, ebay expires in 3 days	http://www.ebay.com/itm/SYMA-Sky-Thunder-RC-D63-Drone-Runner-2-4-GHZ/232134728279?_trksid=p2141725.c100338.m3726&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D20150313114020%26meid%3Db4df9459f8934863887116202b54a403%26pid%3D100338%26rk%3D5%26rkt%3D15%26sd%3D281983356256
+				
+		Desktop wind tunnel
+		https://twitter.com/desk_breeze
+	
+		Robotic Arm
+		https://www.hackster.io/Ricky/syncing-robotic-arm-tutorial-a273ab
+		
+		SuperCam for pingpong		http://www.i-programmer.info/news/192-photography-a-imaging/4630-camera-fast-enough-to-track-ping-pong-balls.html
+		
+			http://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-eyes-track-ping-pong-balls
+		
+		Humanoid Robot plays ping pong. 2011, China
+		http://www.i-programmer.info/news/169-robotics/3223-ping-pong-robots.html
 		
 		
+		Research Grade robot arm, research project to teach it (2012)
+		https://www.youtube.com/watch?v=SH3bADiB7uQ
+		
+		Web tech in python
+		https://realpython.com/
 		
 		
+	11.8
+	
+		Cool list of live updates on revenue for small software companies
+		http://www.transparentstartups.com/
+		
+		Many (not all) "art" games tend to end up being kitschy because they're designed to signal and appeal to an elite in-group's values rather than being a true expression of ideas of their own. I think a piece has more artistic merit if it reflects ideas and truths the artist discovered for themselves, - overgard  https://news.ycombinator.com/threads?id=overgard
+		
+		How to prod security
+		https://breaker101.com/
+		
+		Roomba for bedbugs, etc... co2 emissions + heat, vaccuum collection
+		
+		Christopher Doyle
+		https://twitter.com/MrDataScience
 		
 		
+		Excel-DNA, build C# into Excel
+		https://excel-dna.net/
 		
 		
+		from 2013, xamarin + opencv (2.4.4)
 		
+		yeah, i had solution for this.
+		I use OpenCV 2.4.4 on native and write Objective-C static library work with OpenCV. Then, binding this library from C#, you can research with http://docs.xamarin.com/guides/ios/advanced_topics/binding_objective-c_libraries
+
+		When built static library from Objective-C, you will get a .a file, like libSmartImage.a .You also must add OpenCV to binding project from C#, rename file opencv2 in opencv2.framework/Version to opencv2.a
+
+		Overall, you must add two files libName.a and opencv2.a to Binding project of Xamarin.iOS.
+		And with opencv2.a file binding, use must add to link file: 
+		LinkWith ("opencv2.a", LinkTarget.ArmV7 | LinkTarget.Simulator, ForceLoad = true, IsCxx = true, LinkerFlags = "-ObjC -lz -licucore -lc++", Frameworks="QuartzCore AVFoundation CoreVideo AssetsLibrary CoreGraphics CoreMedia")]
+
+		https://components.xamarin.com/gettingstarted/xpand.opencvbinding
 		
+		Drone Tracking with optical flow
+		https://www.youtube.com/watch?v=C95bngCOv9Q
 		
-		
+		Ping pong ball balancing
+		https://www.youtube.com/watch?v=p65XPP53rLo
+			https://github.com/karfly/balanceball
+			
+			
+		http://www.emgu.com/forum/viewtopic.php?t=4690
+		focus. If you find that you are not hitting 30 FPS, it may be the camera's auto adjustment system responding to a low light situation. In this case you can disable RightLight using Logitech camera controller software.
