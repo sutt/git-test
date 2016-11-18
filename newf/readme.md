@@ -2977,3 +2977,72 @@
 		
 		ScreentoGIF
 		http://screentogif.codeplex.com/
+		
+		
+	11.9
+	
+		Sailboat office guy
+		http://www.wsj.com/articles/office-hostage-escapes-to-sail-the-seas-re-creates-office-1478536723
+		
+		"Ugly, but True" - Nesly on DJT
+		
+		Gene Wolf, The Book of the New Sun
+		https://news.ycombinator.com/item?id=12884413
+		
+	11.10
+	
+		CloudRail - put files up to any cloud
+		https://cloudrail.com/enterprise-cloud-storage-interface/
+		
+		Xamarin testomonials - the good and the bad
+		https://news.ycombinator.com/item?id=12948611
+		
+		
+	11.15
+	
+		C++ history, adoption by Bjarne	https://channel9.msdn.com/Events/CPP/CppCon-2016/CppCon-2016-Bjarne-Stroustrup-The-Evolution-of-C-Past-Present-and-Future
+		
+		DIYbio links
+		http://citizensciences.net/biofabbing/
+		
+		
+		SelfDriving Course
+		https://www.udacity.com/self-driving-car
+		
+			https://www.wired.com/2016/09/udacity-self-driving-car-engineer-nanodegree-program-thrun/
+		
+			Challenge2 - steering angle	https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.lzkjkj5ju
+		
+		Teach the computer to do physics experiments via Reinforcement learning
+		https://arxiv.org/pdf/1611.01843v1.pdf
+		
+	11.16
+	
+		https://aiexperiments.withgoogle.com/
+		
+			Draw for the neural nets
+			https://quickdraw.withgoogle.com/
+		
+			NN Viz, for Artists
+			http://ml4a.github.io/
+			
+			
+		Retro sci-fi, mostly spaceships
+		http://imgur.com/gallery/RbV0Q
+		
+		
+		Ping pong ball mouth video
+		https://twitter.com/ZooMass/status/798959203784282112
+		
+		Nice little DataScience blog
+		http://techfiction.xyz/
+		
+		
+	11.18
+	
+		Sabbaday, what a day
+		http://www.alltrails.com/explore/trail/us/new-hampshire/sabbaday-brook-trail
+		
+		
+		
+		
