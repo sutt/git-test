@@ -3043,6 +3043,65 @@
 		Sabbaday, what a day
 		http://www.alltrails.com/explore/trail/us/new-hampshire/sabbaday-brook-trail
 		
+			The fool killer	http://www.conwaydailysun.com/outdoors/hiking/128-outdoors/other-hikes/107862-parsons-hiking-for-6-29-13
+		
+		bonhomie vs anomie
+		
+	11.21
+	
+		Brian Eno once said that the Velvet Underground’s debut album only sold a few thousand copies, but everyone who bought it started a band. 
+		
+		You can get an Rpi image from pyimagesearch with openCV already installed
+		
+		Robot, to teach the kids
+		http://www.olin.edu/the-wire/2016/one-little-robot-big-hopes-digital-literacy/
+		
+		To study for programming interviews
+		https://www.interviewcake.com/
 		
 		
+		It's cool, with the kids
+		https://chat.meatspac.es/
 		
+		
+		Olin girl, playing ping pong
+		https://www.facebook.com/alison.wu?fref=nf
+		
+		
+	11.28
+	
+		mm-scale indoor position tracking repo
+		https://news.ycombinator.com/item?id=13053182
+		https://github.com/ashtuchkin/vive-diy-position-sensor
+		
+			vive lighthouse video https://www.youtube.com/watch?v=oqPaaMR4kY4
+				thread:
+				https://www.reddit.com/r/Vive/comments/40877n/vive_lighthouse_explained/
+				blog:
+				http://doc-ok.org/?p=1478
+				writeup
+				http://gizmodo.com/this-is-how-valve-s-amazing-lighthouse-tracking-technol-1705356768
+				
+			Players in VR:
+			
+				ValveSoftware: https://github.com/ValveSoftware
+				Etc: http://store.steampowered.com/
+				
+		
+		Teach the kids to code with Instagram and Snapchat
+		http://www.vidcode.io/
+				
+				
+		Drones fly hard and accurate
+		https://www.youtube.com/watch?v=MvRTALJp8DM		
+		
+		More from the ibm group
+		http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=6569
+		
+		Once again, heres the most research you can get from ibm's ping pong drone
+		http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=6569
+			it has a link to nall the press ocverage - good resource
+			
+			
+		Guy at Imaging meetup tomorrow
+		http://www.firstshotlogic.com/
