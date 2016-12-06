@@ -3105,3 +3105,70 @@
 			
 		Guy at Imaging meetup tomorrow
 		http://www.firstshotlogic.com/
+		
+		
+		The old pitch theme
+		https://wordpress.org/themes/pitch/
+		
+	
+	11.30
+	
+		"I wonder about it all" Anti-Communist in Cuba	http://www.dailymail.co.uk/news/article-3984170/KATIE-HOPKINS-came-Cuba-commie-hater-ready-bury-Castro-ended-praising-dictator-people-ways-freer-are.html
+		
+		
+		Beirut on the Wall
+		https://www.facebook.com/OchePong/
+		
+		Interesting guy
+		https://news.ycombinator.com/threads?id=throwanem
+		
+	12.2
+		
+		How a Video becomes a virus
+		https://googleprojectzero.blogspot.com/2016/06/how-to-compromise-enterprise-endpoint.html
+		
+		Linux on Windows how to guide
+		https://nickjanetakis.com/blog/create-an-awesome-linux-development-environment-in-windows-with-vmware
+		
+		
+	12.5
+	
+		Siraj, makes YT vids for hacker news, laundry folding robot?
+		https://news.ycombinator.com/user?id=llSourcell
+		https://www.youtube.com/watch?v=mGYU5t8MO7s
+		
+		OpenAI Universe
+		https://news.ycombinator.com/item?id=13103742
+		\https://universe.openai.com/
+		
+			How to add your own game as an environment
+			https://news.ycombinator.com/item?id=13105834
+		
+		
+		Conservative Canadian Journal
+		http://www.c2cjournal.ca/2016/12/the-new-campus-rebels-c2c-journals-winter-2016-edition/
+		
+		
+		MediaWiki A Wiki Template
+		https://www.mediawiki.org/wiki/MediaWiki
+	
+	
+	12.6
+	
+		NPR Best Books
+		https://apps.npr.org/best-books-2016/#/_
+		
+		Bill Gates Best Books
+		https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2016?linkId=31806383
+		
+		
+		Drone Software guy
+		https://news.ycombinator.com/threads?id=nzjrs
+		
+		
+		
+		
+		
+		
+		
+		
