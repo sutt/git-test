@@ -3165,10 +3165,75 @@
 		Drone Software guy
 		https://news.ycombinator.com/threads?id=nzjrs
 		
+		DIY hardware thread
+		https://news.ycombinator.com/item?id=13108432
+		
+	12.7
+	
+		VBA tools, 
+		https://github.com/VBA-tools
+		
+			JSON parser - also a well written VBA workspace
+			https://github.com/VBA-tools/VBA-JSON
+			
+			Made by Tim hall, a plastics engineer
+			http://timhall.github.io/
+			https://www.linkedin.com/in/timhallengr
+			
+				His day job, d3-ing
+				e.g. http://csnw.github.io/d3.compose/examples/#/lines-and-bars
+				
+		
+		20 Most Creative People in LifeInsurance
+		http://www.lifehealthpro.com/2015/07/29/the-20-most-creative-people-in-insurance?t=life-insurance
+		
+			http://lifetrends.com/
+			Flirting with Welis, Karen Joyner, David Lear. Based in Austin.
+
+			Buy term with UW questions
+			https://www.policygenius.com/life-insurance/comparison
+				
+				Team of millenials
+				https://www.policygenius.com/about/team
+			
+					Brooklyn man works in insurance
+					https://github.com/PepperTeasdale
+					
+				Timeline, 2013 - present
+				https://www.policygenius.com/careers
+				
+				
+			HavenLife an MM direct sale
+			https://havenlife.com/#quickquote
+			
+			Compare HealthInsurance reimburments
+			https://www.healthpocket.com/
+			
+			"past results do not predict future performance"
+			
+			Maria Umbach is now Maria Ferrante-Schepis
+			
+			NFP
+			http://nfp.com/
+			https://www.linkedin.com/company/wearenfp
+	
+		
+		Free code camp produces a million medium blogs
+		https://medium.freecodecamp.com/about
+		
+		SALTO, jumping robot
+		http://spectrum.ieee.org/automaton/robotics/robotics-hardware/uc-berkeley-salto-is-the-most-agile-jumping-robot-ever
+		
+		Robot foosball
+		http://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-robo-foosball-fetch-snackbot-and-europa-submarine
+		
+		Lego drone kit - the Wrong borthers
+		http://spectrum.ieee.org/automaton/robotics/robotics-hardware/lego-drones-robots-in-the-desert-pepper-new-tricks
 		
 		
+		Product Hunt
+		https://www.producthunt.com/
 		
 		
-		
-		
-		
+		Java for pythonista
+		http://interactivepython.org/courselib/static/java4python/Java4Python.html
