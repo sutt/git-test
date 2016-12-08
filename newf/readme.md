@@ -3217,7 +3217,7 @@
 			http://nfp.com/
 			https://www.linkedin.com/company/wearenfp
 	
-		
+
 		Free code camp produces a million medium blogs
 		https://medium.freecodecamp.com/about
 		
@@ -3237,3 +3237,23 @@
 		
 		Java for pythonista
 		http://interactivepython.org/courselib/static/java4python/Java4Python.html
+		
+		
+	12.8
+	
+		"Have you ever known anybody to turn away from anything they found compulsively engaging? We don’t decide about life; we’re captured by life. In the major spheres, decision-making, when it happens at all, is downstream from curiosity and engagement. If we really want to understand and shape behavior, maybe we should look less at decision-making and more at curiosity." -D Brooks
+		
+			-> Jobs and Education reform
+			
+		https://istacee.wordpress.com/
+		C# dev blog
+		
+		
+		ToggleBoggle, a mensch
+		http://togglesbloggle.tumblr.com/
+		
+			Getting into poetry
+			http://togglesbloggle.tumblr.com/post/153154511758/nihilsupernum-i-am-interested-in-getting-into
+			
+		Turing's the chemical basis of morphogenesis
+		http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf
