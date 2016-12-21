@@ -3257,3 +3257,88 @@
 			
 		Turing's the chemical basis of morphogenesis
 		http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf
+		
+		
+	12.9
+		http://stackoverflow.com/questions/16744863/connect-to-amazon-ec2-file-directory-using-filezilla-and-sftp
+		
+	12.12
+	
+		Excel for Python
+		http://docs.python-tablib.org/en/latest/
+		
+	12.13
+	
+		HN dicusees the purpose of evolution
+		https://news.ycombinator.com/item?id=13161587
+		
+		Surpirse, python recommendation
+		https://news.ycombinator.com/item?id=13131149
+		
+		
+		Actuaries in healthcare
+		https://www.statnews.com/2016/12/13/actuaries-health-care-precision-medicine/
+		
+	12.15
+	
+		Insurance in the news	http://www.nytimes.com/2016/12/09/your-money/combine-long-term-care-with-life-insurance-do-the-numbers-first.html	http://www.nytimes.com/2016/12/09/business/dealbook/wells-fargo-accusations-sham-insurance-policies.html?mabReward=A5&recp=1
+		
+		Statistics show crime is most often committed by men of a certain age; old enough to break the rules but too inexperienced to appreciate the consequences.
+		
+		
+	12.19
+	
+	
+		What now, 2001 responses to 9/11
+		https://www.edge.org/responses/what-now-
+		
+			idiotic - airplane tech
+			most cogent - https://www.edge.org/response-detail/11267
+				get u.s. out of s.a., allows islamist take over of s.a., oil money buys nukes, nukes reset both side to mideivel level of tech and society
+				
+	12.20
+		
+		Adverserial Models GAN, an ML technique
+		http://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html
+		
+		People tweeting about robots, but its just a scam
+		https://twitter.com/hashtag/MyCustomizedRobot
+		
+		Rocket Scientist know-it-all
+		https://www.youtube.com/watch?v=c0a7eR8Wi4Y
+		
+		
+		Jeremy Howard's 6pt kaggle/aws based deep learning class
+		http://course.fast.ai/
+		
+			HN: https://news.ycombinator.com/item?id=13224588
+				jeremy: https://news.ycombinator.com/user?id=jph00
+				
+			Their blog:http://www.fast.ai/2016/10/08/teaching-philosophy/
+				
+			repo: https://github.com/fastai/courses/tree/master/deeplearning1/nbs
+		
+			Student examples:
+				radio signal denoising https://arxiv.org/pdf/1602.04105.pdf
+				
+			lectures:
+				lesson1:https://www.youtube.com/watch?v=Th_ckFbc6bI&feature=youtu.be
+				lesson0:
+				setup aws:https://www.youtube.com/watch?v=8rjRfW4JM2I
+				
+				
+				
+			Related:
+				you should know the math opinion: http://www.inference.vc/deep-learning-is-easy/
+				another course for beginners to apply: https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
+				hes "2nd" in the udacity self driving car course: https://news.ycombinator.com/user?id=cr0sh
+				plankton kaggle winner explains: http://benanne.github.io/2015/03/17/plankton.html
+				
+				
+		Women inventor of wireless power, uBeam
+		http://mobile.nytimes.com/2013/08/18/technology/an-inventor-wants-one-less-wire-to-worry-about.html
+				
+		
+		A Learning and Development engineering consultants for software defined radio
+		http://corganlabs.com/
+		
