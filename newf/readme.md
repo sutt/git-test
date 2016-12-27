@@ -3342,3 +3342,9 @@
 		A Learning and Development engineering consultants for software defined radio
 		http://corganlabs.com/
 		
+		 “good fences make good neighbors,” and one of the virtues of the Westphalian approach to state sovereignty is that it established clear boundaries and made infractions easier to spot. These features didn’t make war impossible, of course, but they made it easier to identify clear acts of aggression and made it less likely that states would stumble into war because they had crossed some unknown tripwire by accident. As norms of sovereignty have eroded and the tools for interfering in other states have become more numerous and sophisticated, states have more reason to fear that others will tamper with their internal politics and the danger of mutually reinforcing, tit-for-tat spirals goes up. 
+	 
+	 12.27
+		 
+		 https://news.ycombinator.com/item?id=13259429
+		
