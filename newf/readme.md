@@ -3348,3 +3348,53 @@
 		 
 		 https://news.ycombinator.com/item?id=13259429
 		
+		Deep Learning guide
+		http://yerevann.com/a-guide-to-deep-learning/
+		
+		
+	1.3
+	
+		Mensch
+		http://davidauerba.ch/
+		http://www.waggish.org/
+		
+		Yes but labor rights is a poor substitute for a system that allows and encourages small business. I'm not talking about "Entrepreneurs" in the new sense of the term, I'm talking about the sense that the first 200 years of America fostered, where basically after apprenticeship any tradesman started their own firm and became their own boss.
+		Labor rights are a bad consolation prize for a system that should be encouraging self determination.
+		
+	1.4
+		
+		VideoGame with AI
+		https://github.com/kevinhughes27/TensorKart
+		http://kevinhughes.ca/blog/tensor-kart
+		
+		side proj advice
+		https://dev.to/liquidise/side-projects---avoiding-failures-to-launch
+		
+		Fleye, worlds safest drone, on kickstarter
+		
+	1.6
+		
+		Deep work, no distractions
+		https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM?tag=leavethegreat-20
+		
+		Let the kids work
+		https://fee.org/articles/let-the-kids-work/
+		
+		Poker AI
+		http://www.cmu.edu/news/stories/archives/2017/january/poker-pros-vs-AI.html
+		
+		Cool numpy primer
+		http://www.labri.fr/perso/nrougier/from-python-to-numpy/
+			
+			github publishing tools here:
+			https://github.com/rougier/from-python-to-numpy
+		
+		Good opinion piece on bigdata, ai, and how to use blockchain. reminds me of me
+		https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984#.mmlt0xy3n
+		
+		Sodoku solver, approach by two programmers, TDD vs Genius
+		http://ravimohan.blogspot.in/2007/04/learning-from-sudoku-solvers.html
+		
+			https://en.wikipedia.org/wiki/Constraint_satisfaction
+		
+		
