@@ -3397,4 +3397,27 @@
 		
 			https://en.wikipedia.org/wiki/Constraint_satisfaction
 		
+	1.9
+	
+		Ira glass on the beginners curse
+		https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish
+	
+	1.11
+	
+		MIT online course for self driving and deeplearning
+		http://selfdrivingcars.mit.edu/
 		
+		Guy who understands science, quiets the sensationalism
+		https://news.ycombinator.com/threads?id=jcranmer
+		
+			recommended, mol bio blog http://blogs.sciencemag.org/pipeline/
+			
+			
+		9 hours of excel scrolling
+		http://9gag.com/tv/p/a3Opzo/over-9-hours-bottom-of-excel?ref=fbl9
+		
+		Drone day, May 6th Boston. Drydock
+		http://dronedayboston.com/
+		
+		Drone store
+		http://www.modelaircraft.org/
