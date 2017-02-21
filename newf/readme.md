@@ -3421,3 +3421,110 @@
 		
 		Drone store
 		http://www.modelaircraft.org/
+		
+	1.12
+	
+		DotNet dev blog
+		http://miniml.ist/dotnet/explaining-dotnet-standard-like-im-five/
+		
+			http://miniml.ist/dotnet/2016-year-in-review/
+			
+	1.13
+	
+		cough sci-hub.cc cough
+		
+		
+		https://www.kaggle.com/c/data-science-bowl-2017
+		
+		
+		
+		Old Kaggle firends
+			https://www.kaggle.com/chipmonkey
+			http://happytechnologist.com/
+			
+		Crazy tech youtube guy, Q learning
+		https://www.youtube.com/watch?v=A5eihauRQvo&feature=share
+		
+		
+		Biology + AI article	http://www.economist.com/news/science-and-technology/21713828-silicon-valley-has-squidgy-worlds-biology-and-disease-its-sights-will
+		
+			Niven Narain of BERG Health, an AI and biotechnology firm in Framingham, Massachusetts
+			
+			
+		Recommended thinker by James Miller: https://dominiccummings.wordpress.com/
+			
+			Much of politics involves very similar tragi-comic scenes re-created by some of the basic atoms of human nature – fear, self-interest and vanity. The years, characters, and contexts change, the atoms shuffle, but the stories are the same year after year, century after century. Delusions and vanity dominate ‘rationality’ and ‘public service’
+		
+	1.19
+	
+		Deep Learning Diagrams
+		https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47#.te3q20zb3
+		
+		
+		https://simonpenner.tumblr.com/post/155662231436/on-unconstrained-use-of-social-power-and-the
+		
+		Flourp protein viz
+		http://www.fpvis.org/
+		
+		The guy doing python2.8 is awesome
+		https://www.naftaliharris.com/blog/2x-speedup-with-one-line-of-code/
+		
+		
+		diy self driving remote control car
+		???
+		
+		neontaster-esque commenter
+		https://news.ycombinator.com/threads?id=fdschoeneman
+		
+		
+	1.29
+		
+		Denoisers not discriminators, gradient diagrams	http://www.inference.vc/variational-inference-using-implicit-models-part-iv-denoisers-instead-of-discriminators/
+		
+		
+	2.1
+	
+		RL in robotics primer	https://vmayoral.github.io/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/07/06/rl-intro/#rrlchallenges
+		
+		
+		AI poker thread
+		https://news.ycombinator.com/item?id=13534778
+		
+		
+		Intex, fixed income software on 128
+		http://www.intex.com/main/company_careers.php
+		
+		Morse robotics, a local firm
+		http://www.morse-corp.com/jobs.html
+		
+		FDA seeks to regulate DIYbio
+		http://gizmodo.com/the-fda-is-cracking-down-on-rogue-genetic-engineers-1791760888
+		
+		nuTonomy internship in cambridge
+		http://nutonomy.com/jobs.html?gh_jid=472603&gh_src=f75mb21
+		
+		
+		2.13
+		
+		China drone swarm
+		https://www.suasnews.com/2017/02/chinese-one-thousand-drone-swarm-smashes-intel-record/
+		
+		autodidact analysis of middle east circa2003
+		http://russilwvong.com/future/mideast.html
+		
+		.net 15th anniversary thread
+		https://news.ycombinator.com/item?id=13641386
+		
+		ID-ing browsers	https://arstechnica.co.uk/security/2017/02/now-sites-can-fingerprint-you-online-even-when-you-use-multiple-browsers/
+		
+		Tickets
+		https://news.ycombinator.com/item?id=13643045
+		https://motherboard.vice.com/en_us/article/the-man-who-broke-ticketmaster
+		
+			Why wiseguys werent illegal
+			https://www.scribd.com/document/338935972/Wiseguy-Hearing
+			
+		Rosenbrocks kickstarter	https://www.kickstarter.com/projects/adrianrosebrock/deep-learning-for-computer-vision-with-python-eboo
+		
+		DIYRoboCars
+		https://www.meetup.com/DIYRobocars/events/237116510/
