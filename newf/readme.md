@@ -3528,3 +3528,14 @@
 		
 		DIYRoboCars
 		https://www.meetup.com/DIYRobocars/events/237116510/
+		
+		
+		TheJerf, HN dissident,go programmer
+		http://www.jerf.org/iri/?page=4
+		https://github.com/thejerf
+		
+		Crazy alt-right guy
+		https://twitter.com/menaquinone4
+		
+		again
+		https://twitter.com/Logo_Daedalus
