@@ -3539,3 +3539,74 @@
 		
 		again
 		https://twitter.com/Logo_Daedalus
+		
+		
+		Old man take a look at my life, I'm a lot like you
+		https://news.ycombinator.com/threads?id=losteverything
+		
+		f# "Tour" - good basis for starting
+		https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour
+		
+		Taleb on Surgeons and the dog and the frisbee
+		https://medium.com/incerto/surgeons-should-notlook-like-surgeons-23b0e2cf6d52#.q14omi99e
+		
+		
+		2.27
+		
+		Joseph Campbell described believing in a literal, historical God as someone eating a menu believing that they were really eating the food. One clear component of the zombie meme is the spiritual starvation we are experiencing in the West. We are eating the menus so the speak- old, meaningless books written by foreign peoples from far off places thousands of years ago, and they give us no nourishment.
+		
+		DIYbio + CRISPR
+		https://www.wsj.com/articles/diy-gene-editing-fast-cheapand-worrisome-1488164820
+		
+		
+		I like Eco’s The Name of the Rose, but I love his Foucault’s Pendulum – I think of it as a life-changing book in my personal case,
+		There’s a hackneyed phrase “transcend the genre”. I just reread The Player of Games and I can’t help feeling that it exists somehow on a completely different level of vividness, depth of character, beauty of style, imagination and convincing world-building than just about any other contemporary SF author I may quite like and appreciate (Stephenson, Stross, Vinge, Swawick…)
+		
+		
+		WP on .NET
+		http://www.peachpie.io/2017/02/wordpress-announcement.html
+			
+			discussion
+			http://www.peachpie.io/benchmarks
+			
+			http://www.peachpie.io/benchmarks
+			https://github.com/iolevel/peachpie
+		
+		
+		Programmer Productivity from Redis Dev; great article
+		http://antirez.com/news/112
+		
+			https://news.ycombinator.com/user?id=antirez
+		
+		
+		https://en.wikipedia.org/wiki/Word_square
+		
+		
+			https://github.com/jonbcard/scrabble-bot/blob/master/src/dictionary.txt
+			
+		Real time Text to Speech, from Baidu	http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/
+		
+		
+		Developers! Developers!	https://channel9.msdn.com/events/Windows/Windows-Developer-Day-Creators-Update/Developer-tools-and-updates#time=17m30s
+		
+		
+		UDP in browsers
+		http://new.gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/
+		
+		Irridium Satellite Communication - Recommended by phil g
+		https://www.amazon.com/Eccentric-Orbits-Iridium-John-Bloom/dp/0802121683
+		
+		
+		Robot Reinforcement learning
+		https://www.technologyreview.com/s/603745/how-a-human-machine-mind-meld-could-make-robots-smarter/
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
