@@ -3432,7 +3432,7 @@
 	1.13
 	
 		cough sci-hub.cc cough
-		
+		https://sci-hub.ac/
 		
 		https://www.kaggle.com/c/data-science-bowl-2017
 		
@@ -3600,13 +3600,77 @@
 		Robot Reinforcement learning
 		https://www.technologyreview.com/s/603745/how-a-human-machine-mind-meld-could-make-robots-smarter/
 		
+		Goes against dang
+		https://news.ycombinator.com/threads?id=lnanek2
+		
+		Profile of a Maker Luke Iseman in 2008
+		http://austinpedicab.org/2008/10/06/austin-cronicle-interviews-luke-iseman/
+		
+		Whi invests in hardware, Bolt blog 2016
+		https://blog.bolt.io/who-invests-in-hardware-2016-3b8149769924#.b1ksudzcg
+		
+		
+		APL runtime environment
+		http://www.dyalog.com/
+		http://tryapl.org/w
+		
+		Historical Maps!
+		http://www.archdaily.com/797814/71-thousand-high-res-historical-maps-available-for-free-download
+		
+		
+		Geometry of the Universe
+		https://www.quantamagazine.org/20170223-bootstrap-geometry-theory-space/
+		
+		GregBrockman
+		https://blog.gregbrockman.com/my-path-to-openai
+
+		RoboBartender
+		http://vegas.eater.com/2017/3/6/14824690/first-robotic-bar-experience-in-the-world-to-las-vegas-strip
+		
+		Evan Sangaline, Poly-Programmer
+		http://sangaline.com/
+		
+		
+		Code review of Quake source code
+		http://fabiensanglard.net/quake2/
+		
+		
+	3.15
+	
+		"The six words “Do a huge volume of work” was the banner under which I marched."
+		https://billmei.net/blog/silicon-valley-job-search
+		
+		
+		Good example of unit testing
+		http://marcin-chwedczuk.github.io/zen-and-the-art-of-unit-testing
+		
+			But...
+			
+			http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html
 		
 		
 		
+		Industry Dive - CI for various industries?
+		http://www.industrydive.com/team/
+		
+		BeagelBone Blue - robotics computer
+		https://beagleboard.org/blue
 		
 		
+		Web scraping 
+		http://sangaline.com/post/advanced-web-scraping-tutorial/
+		
+		c# to Java infographic
+		http://www.harding.edu/fmccown/java_csharp_comparison.html#namespaces
+		
+		https://msdn.microsoft.com/en-us/library/sf0df423.aspx
 		
 		
+		VR ball catching!
+		https://www.disneyresearch.com/publication/catching-a-real-ball-in-virtual-reality/
+		
+		ML Journal
+		http://distill.pub/about/
 		
 		
-		
+	Motion Tracking Dartboard	http://sploid.gizmodo.com/brilliant-motion-tracking-dart-board-guarantees-a-bulls-1793481286?utm_content=51211188&utm_medium=social&utm_source=twitter
