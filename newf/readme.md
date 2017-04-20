@@ -3674,3 +3674,89 @@
 		
 		
 	Motion Tracking Dartboard	http://sploid.gizmodo.com/brilliant-motion-tracking-dart-board-guarantees-a-bulls-1793481286?utm_content=51211188&utm_medium=social&utm_source=twitter
+	
+	Photo style tranfer
+	https://github.com/luanfujun/deep-photo-styletransfer
+	
+	Visions of a Flying Machine by Jakab. About the Wright brothers. Basically emphasizes how they were consummate engineers, not scientists.
+	
+	"How Buildings Learn", by Stewart Brand. It's about architecture over time - how buildings change and evolve (and eventually die), to suit the needs of their owners and occupants, and how they deal with the three enemies of al buildings (time, money, and water).
+	
+	Good list of AI people
+	https://www.ibm.com/blogs/watson/2017/02/ai-influencers-2017-top-25-people-ai-follow-twitter/
+	
+	http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3805.html
+	
+	Right Hand robotics, seed round
+	http://bostinno.streetwise.co/2017/03/28/righthand-robotics-gets-8m-led-by-andy-rubin-warehouse-robots/
+	
+	Non-state actors + nukes
+	http://www.dod.mil/pubs/foi/Reading_Room/Other/Litigation%20Release%20-%20Deterring%20Non-Traditional%20Nuclear%20Actors%20200909.pdf
+	
+	4.4
+	
+	Python coding challenges
+	https://github.com/donnemartin/interactive-coding-challenges
+	
+	Chris Anderson
+	https://github.com/zlite
+	
+	4.5
+	
+	What we call the beginning is often the end
+	And to make an end is to make a beginning.
+	The end is where we start from.
+		- T.S. Eliot
+		
+	mini indoor drone
+	http://www.thedrive.com/aerial/8858/the-piko-owl-v2-is-a-micro-drone-that-feels-like-an-indoor-racer
+	
+	Shield-AI, micro drones for defense, Series A
+	http://finance.yahoo.com/news/shield-ai-raises-10-5-205600197.html?soc_src=social-sh&soc_trk=tw
+	
+	Awesome ML article on B - "momentum" with interactive viz
+	http://distill.pub/2017/momentum/
+	
+	Mass Robotics
+	https://www.massrobotics.org/2017/03/15/wgbh-visits-massrobotics/
+	
+	AI conference
+	http://www.massintelligenceai.org/
+	
+	Denny Luan 
+	https://github.com/tastycakeman?tab=repositories
+	
+	Python electron
+	https://github.com/fyears/electron-python-example
+	https://www.fyears.org/2017/02/electron-as-gui-of-python-apps-updated.html
+	
+	
+	https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug
+	
+	https://everythingstudies.wordpress.com/
+	
+	
+	The typical prestige drama, from “The Sopranos” onward, has been a portrait of patriarchy in extremis, featuring embattled male antiheroes struggling to maintain their authority in a changing world or a collapsing culture. 
+	
+	
+	Harvard Bio Ethics course
+	http://beck2.med.harvard.edu/micro213/Syllabus%202013.pdf
+	
+	Sailing Manual
+	https://arachnoid.com/sailbook/index.html
+	
+	
+	"The society which scorns excellence in plumbing as a humble activity and tolerates shoddiness in philosophy because it is an exalted activity will have neither good plumbing nor good philosophy: neither its pipes nor its theories will hold water." - John W. Gardner
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
