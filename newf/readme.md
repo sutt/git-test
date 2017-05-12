@@ -3748,15 +3748,101 @@
 	
 	"The society which scorns excellence in plumbing as a humble activity and tolerates shoddiness in philosophy because it is an exalted activity will have neither good plumbing nor good philosophy: neither its pipes nor its theories will hold water." - John W. Gardner
 	
+	http://www.lab41.org/
+	
+	AP scores	https://www.bostonglobe.com/metro/2016/09/14/exam-scores-for-each-mass-school-district/2GDkWpCCBrSiT1uiLOrwJJ/story.html
 	
 	
+	Best technical blogs
+	https://news.ycombinator.com/item?id=14163905
+	
+	Pirsig in memomorium
+	https://news.ycombinator.com/item?id=14189392
+	
+		Shop class as soulcraft
+		https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467
+		
+	Venerabilis Inceptor, or "Venerable Beginner" 
+	
+	HN for programmable drone
+	https://news.ycombinator.com/item?id=14201207
+	
+		https://news.ycombinator.com/item?id=10872233
+		https://news.ycombinator.com/item?id=8989411
+	
+	lex South Lancaster Ontario 16 minutes ago
+	One scientific proposition that has been advanced is that, from time to time, science gets it wrong.
+	Though of course, this proposition too could be wrong.
+	Being exposed to "wrong" ideas is not the problem, as the author suggests. It's being close-minded to the possibility that one's own position might be open to improvement.
+	It also closes the mind to the repercussions of "climate change" reaction - even if it is right. Do we restrict all human activity for its possible impact on the climate. Should only celebrities like Leonardo Decaprio be allowed to use yachts and private jets - due to their entitlement being higher than the average person? Should all NASCAR races be limited to 4-cylinder engines? Should college professors be required to work in non-air-conditioned offices, in order to save energy?
+	Should there be population control? Should electricity consumption be governed by a quota? 
+	Many restrictions can be justified by the concept of climate change. The author of this article does not address any of the real fundamental issues.
 	
 	
+	C# is booty?
+	https://news.ycombinator.com/item?id=14210418
+	
+	Overclass underclass as axis in political-space
+	http://www.waggish.org/2017/trump-diary-9-black-blocs-and-u-locks/
+	
+	Flask examples
+	https://github.com/anfederico/Flaskex
+	
+	Proverbs from Heinlein's fiction
+	http://www.angelfire.com/or/sociologyshop/lazlong.html
+	
+	Example of control knob product: physical UI
+	https://www.blackmagicdesign.com/uk/products/davinciresolve/control
+	
+	Brett Stephens on Climate
+	https://www.nytimes.com/2017/05/01/opinion/answering-your-climate-questions.html
+	
+	paleocon(?) blog
+	https://accordingtohoyt.com/2016/11/19/rolling-in-the-deep/
+	
+	Thought: Spreadsheet programming languages should be the 'V' and the 'C' in MVC. The Models still need to be written in code, but the manipulation of these models should be done by interactive spreadsheet or
+	drag n drop like a pivot table.
+	
+	http://citizenscience.org/
+	https://scistarter.com/citizen-science-day
+	
+	LA riot
+	https://www.youtube.com/watch?v=OCYT9Hew9ZU
+	
+	Kaggle for Lung cancer
+	https://github.com/juliandewit/kaggle_ndsb2017
+	
+	psutil for python
+	https://twitter.com/math_rachel/status/860265705597358080
+	
+	Best Action Movies
+	https://www.thrillist.com/entertainment/nation/best-new-action-movies-of-the-2000s
+	
+	Argument Mapper	https://www.rootclaim.com/claims/what-caused-the-chemical-calamity-in-khan-sheikhoun-on-april-4-2017-18448
 	
 	
+	Vanta Black	https://www.sciencealert.com/this-object-has-been-sprayed-with-the-world-s-blackest-pigment-and-it-s-freaking-us-out
+	
+	Left Forum CommieCon
+	http://thebaffler.com/latest/flakes-alive
 	
 	
+	"and the redemptive promise of people claiming control of their own lives."
 	
+	Robot learning MIT
+	https://techcrunch.com/2017/05/10/anyone-can-teach-this-mit-robot-how-to-teach-other-robots/
+	
+	
+	Robot conference at CSAIL 7.17.17	https://techcrunch.com/2017/04/27/techcrunch-sessions-robotics-to-feature-iconic-roboticists-from-mit-disney-and-irobot/
+	
+	Cancer paradox
+	https://www.ncbi.nlm.nih.gov/pubmed/25459141
+		http://www.medical-hypotheses.com/article/S0306-9877(14)00351-X/fulltext
+	
+	But if you want to know why people care so much, it’s because the media thinks it’s their job to portion out status, and use that to guide society. It’s their mission to make fun of rich people doing the things they don’t want, to try to encourage rich people to do the things they want.
+	
+	Old Scott Alexander
+	https://web.archive.org/web/20160318104428/http://www.raikoth.net/deadchild.html
 	
 	
 	
