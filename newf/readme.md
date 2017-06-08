@@ -3844,5 +3844,150 @@
 	Old Scott Alexander
 	https://web.archive.org/web/20160318104428/http://www.raikoth.net/deadchild.html
 	
+	Long tail of diy electronics
+	http://hackaday.com/2017/05/15/the-long-tail-of-diy-electronics/
+	
+		Online markets replace brick and mortar when there's a long tail of customer-wants*product-variation
+		That's why ebay over radio shack, but still an apple store
+		
+	Medical worry	http://www.spine-health.com/forum/discussion/55386/pain/upper-back-pain-thoracic/chest-pain-breathing-di
+	fficulty-bulging-disc
+	
+	Burnout, Sapir, anecdotes from HN
+	https://news.ycombinator.com/item?id=14320392
+	
+		Lost it b/c he couldn't create
+		https://kierantie.com/a/crisis/
+			
+		"but that their level of caring couldn’t be sustained in the absence of results."
+		http://nymag.com/news/features/24757/
+		
+	Robot deep learning, Boston July
+	http://juxi.net/workshop/deep-learning-rss-2017/
 	
 	
+	Understanding firmware
+	https://ultimaker.com/en/blog/37084-understanding-firmware
+	
+	
+	Arduino Lock picker
+	https://www.youtube.com/watch?v=tteG2hQaDeg
+	
+	
+	it's a meeeeee, marrrrrio!
+	https://github.com/kevinhughes27/TensorKart
+	
+	
+	Partners / GE AI division
+	http://www.wbur.org/commonhealth/2017/05/18/partners-ge-artificial-intelligence
+	
+	
+	K12 project based learning wiki
+	https://www.workbenchplatform.com/
+	
+	Just download c# unity and push a game
+	https://dev.to/moriczgergo/i-published-my-first-game
+	
+	HN discusses openAI's simulation -> physical robot experiment
+	https://news.ycombinator.com/item?id=14350705
+	
+	https://www.google.com/#q=google.ai
+	
+	Time magmt and building side projects
+	https://news.ycombinator.com/item?id=14386394
+	
+	
+	This Must be the Place (Naive Melody) by The Talking Heads 
+	 
+	Daryl Bem, ESP
+	https://redux.slate.com/cover-stories/2017/05/daryl-bem-proved-esp-is-real-showed-science-is-broken.html	
+	rationalist chick blog
+	https://apophany.wordpress.com/	
+	
+	QuantLab, position in Boston
+	https://www.quantlab.com/careers?p=search&j=o2VH3fwr&j=o6WE4fwu&j=op1E4fwS&j=ozVj5fwC&__jvst=Employee&__jvsd=s2s2Kgw1&__jvsc=email&bid=nGkdXAwf&nl=1
+	 
+ 
+	Hope Jahren on Climate Change
+	https://hopejahrensurecanwrite.com/2014/02/27/what-i-say-when-people-tell-me-that-they-feel-hopeless-about-climate-change/
+	 
+		Rebel
+		https://hopejahrensurecanwrite.com/2014/02/06/how-i-fell-in-love-with-becky-sharp/
+		
+	The lidar kid
+	http://spectrum.ieee.org/cars-that-think/transportation/sensors/22yearold-lidar-whiz-claims-breakthrough
+
+
+	Colleen lookalike
+	https://www.instagram.com/alexisren/
+	
+	DeepLearning in Bio
+	https://github.com/greenelab/deep-review
+	
+	Cindy Wu: Come Science
+	https://experiment.com/read/DZh2NQ
+	
+	C# intro course
+	https://www.codeschool.com/courses/try-c-sharp
+	
+	 
+	Balancing Robots
+	https://blog.adafruit.com/2017/05/29/build-your-own-balancing-robot-with-arduino/
+	
+	DiyBio summit Sep 22-24
+	https://www.media.mit.edu/events/biosummit2017/
+	
+	Datarobot acquires Nutonian
+	https://www.datarobot.com/news/datarobot-acquires-nutonian/
+	
+	
+	https://news.ycombinator.com/item?id=14460777
+	
+		Genomics platform in Boston
+		http://iobio.io/
+	
+		Brigham's data science
+		https://clindatsci.com/jobs
+	
+		Morse for robotics
+		http://morse-corp.com/jobs.html
+		
+		
+	Robocar
+	https://www.hackster.io/46886/android-robocar-553991
+	
+	Charisma on the red pill
+	https://www.reddit.com/r/TheRedPill/comments/6ek7in/the_charisma_blueprint/
+	
+	
+	Saku TensorFlow / NN Tutorial
+	https://www.indiegogo.com/projects/neural-networks-for-hackers-education#/
+	
+	Programming Books
+	https://news.ycombinator.com/item?id=14486657
+	
+		"Transaction Processing: Concepts and Techniques" by Gray and Reuter.
+	
+	dotnet core apps tutorial
+	http://blog.jonathanchannon.com/2017/06/07/debugging-netcore-docker/
+	
+	kids robot, pretty cool claw mode
+	http://www.spoon-tamago.com/2017/06/02/sony-toio-robotics-engineers/
+	
+	Reminder
+	https://twitter.com/DIYDrones
+	https://twitter.com/Dronecode
+	https://www.meetup.com/DIYRobocars/events/238295354/
+	
+	https://myfindadoctor.bluecrossma.com/professional/1000955272/310287572/home?network_id=311005011&ci=DFT&geo_location=gps&radius=25
+		Scott Perman
+	
+	TensorFlow 1.2 review	https://medium.com/basic-neural-networks-patterns-it-is-worth-for-a/the-wonders-of-the-new-version-of-tensorflow-1-2rc0-dc9fcb9974d7
+	
+	
+	
+	Heroku for dotnet core	https://cloudplatform.googleblog.com/2016/10/how-to-use-Docker-to-run-ASP.NET-Core-apps-on-Google-App-Engine.html
+	
+	dotnet core performance improvements
+	https://news.ycombinator.com/item?id=14507936
+	 
