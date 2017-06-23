@@ -3991,3 +3991,102 @@
 	dotnet core performance improvements
 	https://news.ycombinator.com/item?id=14507936
 	 
+	robot insider thread  on HN
+	https://news.ycombinator.com/item?id=14507936
+	
+	Openai blogs
+	https://blog.openai.com/learning-to-cooperate-compete-and-communicate
+	https://blog.openai.com/roboschool/
+	
+	
+	sodoku with neural nets
+	https://github.com/Kyubyong/sudoku
+	
+	
+	 Arthur Schopenhauer’s observation that “talent hits a target no one else can hit; genius hits a target no one else can see.”
+	 
+	 Hungry Hippo + Arduino
+	 https://giphy.com/gifs/7Xo4hf1X2SV5m
+	 
+	 Train a physical switch
+	 https://www.fastcodesign.com/90125136/if-youve-trained-a-dog-you-can-train-this-ai
+	 
+	 https://experiment.com/projects/viral-causes-of-lung-cancer
+	 
+	 
+	 California State Systems Software Specialist examination
+		"Consult with internal/external entities regarding services provided by systems software teams and answer questions/inquiries in technical areas such as connectivity with departmental systems, data exchange, security, etc."
+		For each of which, you must answer:
+		Recency
+		a. Performed the task within the last 2 years
+		b. Performed the task within the last 4 years
+		c. Performed the tasks more than 5 years ago
+		d. Not performed
+		
+	winforms with .net core
+	https://www.hanselman.com/blog/HowToReferenceANETCoreLibraryInWinFormsOrNETStandardExplained.aspx	
+	
+	
+	synbiohub, wow!	http://www.bostonglobe.com/metro/2017/06/20/boss-ridesharing-service-arrested-fugitive-from-justice/gaMex5OGlEmHlazdqGdTkO/story.html
+	
+		wokring on it for GSoC
+		https://zachzundel.com/
+		https://github.com/zachzundel
+		http://ico2s.org/
+	
+	Bruce Charlton, UK prof of politics / christianity
+	http://charltonteaching.blogspot.com/2017/06/why-are-there-no-modern-utopias.html
+	
+	
+	Book on raptors / birds of prey
+	http://www.sierraclub.org/sierra/2017-4-july-august/books/deep-dive-world-raptors
+	
+	
+	Insurance companies woo millenials	https://www.wsj.com/articles/insurance-is-a-fun-career-just-consider-the-zombies-and-bacon-1498228885?mod=e2fb
+	
+	Camera mounted on moveable desk lamp arm
+	https://twitter.com/coolcomponents/status/862252659398586368
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
