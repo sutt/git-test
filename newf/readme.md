@@ -4048,35 +4048,81 @@
 	https://twitter.com/coolcomponents/status/862252659398586368
 	
 	
+	NotHotDog	https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
+	
+	Saku's class
+	https://neuralnetsforhackers.teachable.com/p/neural-networks-for-hackers
+	
+	Cool NN sketching app
+	https://aiexperiments.withgoogle.com/sketch-rnn-demo
+	
+	They. keep. spinning. spinner with phone app
+	https://www.youtube.com/watch?v=kRJj4xgd7W4
+	
+	BU synbio tool
+	http://ugene.net/
+	
+		https://github.com/ugeneunipro/ugene
+	
+	Good web template of how to writeup a beginners hardware project
+	https://mtlynch.io/greenpithumb/
+	
+	Bio hackathon	http://www.xconomy.com/san-francisco/2017/06/23/startup-founders-quest-for-cure-leads-to-genomics-hackathon-at-google/#
+	
+	AForge.NET / Accord.NET: ML in C#
+	https://github.com/accord-net/base
+	
+	MIT Drones + Self-Driving
+	http://www.csail.mit.edu/drones_that_drive
 	
 	
+	Frustration in Hoffer’s lexicon, is never only frustration with “the system” or the status quo. It is always, always frustration with yourself. [...] There is a fundamental difference between the appeal of a mass movement and the appeal of a practical organization. The practical organization offers opportunities for self-advancement, and its appeal is mainly to self-interest. On the other hand, a mass movement, particularly in its active, revivalist phase, appeals not to those intent on bolstering and advancing a cherished self, but to those who crave to be rid of an unwanted self. A mass movement attracts and holds a following not because it can satisfy the desire for self-advancement, but because it can satisfy the passion for self-renunciation.
+
+		-https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/
+		
+	I’m of a bottom up, or an inside – out mind when it comes to enacting red pill ‘change. [...] That’s not meant to gloss myself, but rather to illustrate a point – the red pill (and Game) is doing something, it’s changing minds and lives. It’s not rallying men in the streets and waving banners, nor is it effecting legal or social policy (yet), but it’s making men aware of their condition and changing their beliefs.
+		-https://therationalmale.com/2014/10/09/game-works/
+	
+	Tyler Cowen on Freedom wax and wane
+	https://www.mercatus.org/system/files/cowen_freedom_wax_and_wane_5-31-17_final.pdf
+	
+	 
+	 Nothing so bolsters our self-confidence and reconciles us with ourselves as the continuous ability to 
+	 create; to see things grow and develop under our hand, day in, day out.
 	
 	
+	Aaron Harris at YC brainstorms on insurance
+	https://blog.ycombinator.com/thoughts-on-insurance/
+		
+		https://news.ycombinator.com/item?id=14664417
+		
+		P&C Insurance Analytics Start-up
+		https://tensorflight.com/
+		
+			Robert Kozikowski + Zbigniew Wojna: polish google superstars
+			https://news.ycombinator.com/user?id=kozikow
+			https://www.linkedin.com/in/kozikow
+			https://kozikow.com/
 	
+	Primers on Crypto currency
+	https://news.ycombinator.com/item?id=14659775
 	
+	Fidget Spinner Persistence of Vision
+	https://www.hackster.io/seanhodgins/pov-arduino-fidget-spinner-cd63e8
 	
+		https://hackaday.io/project/25538-pov-fidget-spinner
+		
+		https://github.com/IdleHandsProject/POV_Fidget
 	
+		Sean Hodgins
+		https://www.youtube.com/seanhodginsfilms
+		https://www.patreon.com/seanhodgins
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		https://www.kickstarter.com/projects/idlehandsdev/esp-everywhere-kickstarter-special-make-100
+		
+		http://www.piddybot.com/
+		http://www.idlehandsdevelopment.com
+		http://www.idlehandsproject.com/
 	
 	
 	
