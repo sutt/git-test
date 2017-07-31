@@ -4123,16 +4123,190 @@
 		http://www.piddybot.com/
 		http://www.idlehandsdevelopment.com
 		http://www.idlehandsproject.com/
+		https://www.kickstarter.com/profile/idlehandsdev/about
+	
+	WinDBG tutorial
+	http://labs.criteo.com/2017/06/clrmd-part-5-how-to-use-clrmd-to-extend-sos-in-windbg/
+	
+		SOS commands, SOS.dll
+		https://docs.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension
+		
+		Microsoft.Diagnostics.Runtime.dll (nicknamed "CLR MD")
+		https://github.com/microsoft/clrmd
+			"which can do thing similar to SOS and PSSCOR"
+			
+		dotnet framework tools
+		https://docs.microsoft.com/en-us/dotnet/framework/tools/index
+		
+		using dev cmd prompt
+		https://docs.microsoft.com/en-us/dotnet/framework/tools/developer-command-prompt-for-vs
+	
+	Jeremy Howard's AI company, theyre at U SanFran
+	http://www.fast.ai/about/
+	
+		A student's project on adversarial networks
+		https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8
 	
 	
+	GE doing the AI thing
+	TechReveiw
+	
+		Also, IBM Watson
+		https://www.technologyreview.com/s/607965/a-reality-check-for-ibms-ai-ambitions/
+	
+	Centrifuge Fidget Spinner
+	https://www.thingiverse.com/thing:2415507
 	
 	
+	Desk Projection of Windows	https://www.technologyreview.com/s/608198/augmented-reality-on-your-desk-all-you-need-is-a-lightbulb-socket/
+	
+	Retrocausal quantum effect
+	https://phys.org/news/2017-07-physicists-retrocausal-quantum-theory-future.html
+	
+		First, to clarify what retrocausality is and isn't: It does not mean that signals can be communicated from the future to the past—such signaling would be forbidden even in a retrocausal theory due to thermodynamic reasons.
+
+	Read more at: https://phys.org/news/2017-07-physicists-retrocausal-quantum-theory-future.html#jCp
+	
+	dotnet guy from HN
+	https://www.nuget.org/profiles/nicojuicy
+	
+	Google Apps has Scripts
+	https://developers.google.com/apps-script/
+
+
+	July Jobs
+	https://news.ycombinator.com/item?id=14688684
+	
+		Boston Robot
+		https://www.righthandrobotics.com/
+		
+		Want to work on AI + Robotics at Microsoft Research, Redmond, WA? Does Aerial robotics, Unreal engine, physics, building low level firmwares excites you? You will need to have demonstrable great C++ coding chops, passion for tinkering, ability to get into unknown areas fast and great CS algorithms design skills. Any experience with Unreal Engine, Unity, Physics engines, robotics, drones, firmwares, deep learning etc would be big plus as well. We have already shipped AirSim[1] and we are excited to take it to next level and advance state of the art in reinforcement learning among other things!
+		The position requires US work authorization and interviews would be in-person at Redmond, WA. Please send resumes at shitals@micro####.com.
+		[1] https://github.com/microsoft/airsim
+		
+	https://github.com/microsoft/airsim
+		AirSim is a simulator for drones (and soon other vehicles) built on Unreal Engine. It is open-source, cross platform and supports hardware-in-loop with popular flight controllers such as Pixhawk for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped in to any Unreal environment you want.
+		Our goal is to develop AirSim as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles. For this purpose, AirSim also exposes APIs to retrieve data and control vehicles in a platform independent way.
+		
+	DIYbio as told by Homeland Security	http://www.hstoday.us/industry-news/general/single-article/exclusive-diy-bio-separating-fact-from-fiction/b09ac48ace91043228ff25371d16df53.html
 	
 	
+	TensorFlow as part of Google Strategy
+	https://www.technologyreview.com/s/608094/google-stakes-its-future-on-a-piece-of-software/
+		
+		for cloud hosting of e-mail and websites. Customers like insurer AXA—which used TensorFlow to make a system that predicts expensive traffic accidents—al
+		
+		
+	USF class Makercourse
+	http://www.makecourse.com/
+	
+	Robo microscope by 14 year old	http://www.3ders.org/articles/20170703-14-year-old-invents-slidemap-cancer-detection-device-with-help-of-3d-printing.html
+	
+	Ball launcher by FIRST robotics
+	https://ultimaker.com/en/blog/49477-nautilus-cam-ball-launcher
+	
+	Lots of cool CV, OpenGL
+	https://www.youtube.com/watch?v=1-yR5ozxw4E
 	
 	
+	NVIDIA getting started with deep learning
+	https://developer.nvidia.com/deep-learning-getting-started
+	
+
+	Fidget Spinner counter arduino
+	https://www.hackster.io/andriy-baranov/fidget-spinner-rpm-counter-253ac0
+		
+		using Hall-effect sensor
+		
+	
+	https://www.counter-currents.com/2017/07/dangerous-an-alt-review/	
+	
+	arduino balancing
+	https://blog.hackster.io/balancing-a-ball-on-top-of-a-resistive-touch-surface-8a042ed79d26
+	
+	sell me this pen
+	https://www.linkedin.com/pulse/best-answer-sell-me-pen-i-have-ever-seen-prashant-dedhia
+	
+	How to ask for introductions
+	https://medium.com/essential-capital/a-tactical-guide-to-asking-for-an-introduction-fa98f14e4dc9
 	
 	
+	Ultra sonice sensor from Adafruit
+	https://www.adafruit.com/product/983
+	
+		can apparently sense 0.25" diameter dowel from 5 feet away
+		
+	McAteer recommended crypto currency primer video
+	https://www.youtube.com/watch?v=bBC-nXj3Ng4
+	
+	numpy vs regular python speed, np is 13x faster
+	http://machinelearningexp.com/data-science-performance-of-python-vs-pandas-vs-numpy/
+	
+		But HN does 700x speed up
+		https://news.ycombinator.com/item?id=14775395
+		
+	OpenAI's opensource physcis simulator
+	https://blog.openai.com/faster-robot-simulation-in-python/	
+	
+	Paywall eg WSJ thru Social Media
+	https://news.ycombinator.com/item?id=14794271
+	
+	Reinforcement Learning in TensorFlow, good resource for this stuff
+	https://reinforce.io/blog/introduction-to-tensorforce/
+	
+	Journal to MITMediaLab-type design/engineering stuff
+	http://www.creativeapplications.net/
+	
+	f# testimonials and why developers start using it
+	https://github.com/Microsoft/visualfsharp/issues/2766#issuecomment-291160401
+	
+		https://fsharpforfunandprofit.com/ddd/
+	
+	QR code comeback
+	https://www.wired.com/story/the-curious-comeback-of-the-dreaded-qr-code
+	
+		https://news.ycombinator.com/item?id=14804917
+	
+	IndieDev What I learned plus reading list	http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/
+	
+	The new Thoreau Biography is sooo hot right now
+	https://lareviewofbooks.org/article/wild-thing-a-new-biography-of-thoreau/
+	
+	Writes the time into sand; arduino robot
+	https://www.elektormagazine.com/news/arduino-controlled-sandclock-video
+	
+	My answer to why you should start a startup is simple: there is a certain type of person who only works at their peak capacity when there is no predictable path to follow, the odds of success are low, and they have to take personal responsibility for failure (the opposite of most jobs at a large company).
+	
+	Guardian vs Commerce archetypes similiar to bintchaos's Soldiers vs Explorers paradigm
+	https://www.ribbonfarm.com/2014/06/04/saints-and-traders-the-john-henry-fable-reconsidered/
+	
+	Deep Learning USB stick\
+	https://blog.hackster.io/deep-learning-on-a-usb-stick-29c117cf93e2
+	
+	Registration / Rotary encoding	https://create.arduino.cc/projecthub/ShawnHymel/quadrature-encoder-demo-dea334?ref=platform&ref_id=424_recent___&offset=8
+	
+	HN lists programming blogs
+	https://news.ycombinator.com/item?id=14842276
+	
+	Mr Sheehan
+	https://www.linkedin.com/in/billsheehanbfr
+	
+	Cool video game - Old Man's Life
+	https://twitter.com/brokenrules/status/865492699356446720
+	
+	Hosptial Cybersecurity article	http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20170726
+	
+	Azure Notebooks, Ipython and F#
+	https://notebooks.azure.com/n/sUoiUg9cmFU/notebooks/FSharp%20for%20Azure%20Notebooks.ipynb
+	
+	Discussing Jermey Howard's deep learning course
+	https://news.ycombinator.com/item?id=14887414
+	
+	Jeremy Howard is NOT OpenAI, he's democratizing it
+	https://news.ycombinator.com/item?id=14877920
+	
+	
+	Ipython Notebook collapseable headings	http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/collapsible_headings/readme.html
 	
 	
 	
