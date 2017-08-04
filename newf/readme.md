@@ -4308,5 +4308,32 @@
 	
 	Ipython Notebook collapseable headings	http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/collapsible_headings/readme.html
 	
+	Solo guy still working in his drone lab on figure-8 flying
+	https://www.youtube.com/watch?v=tv8MpU-NFZg
+	
+	SF Dev Power Couple
+	https://twitter.com/ChloeCondon
+	http://tysmith.me/tagged/musings#
+	
+		SF pedigreed devs, a collective or guild
+		https://specializedtypes.com/
 	
 	
+	ESR on social subversion of soviets
+	http://esr.ibiblio.org/?p=260
+	
+	Why DataScience has become mired in its progress
+	http://blog.richardweiss.org/2017/07/25/data-science-in-organizations.html
+		Data science is best viewed as a form of company culture, rather than a set of technologies. However, many firms will try to create that company culture by acquiring data-science technology, rather than working on their culture.
+	
+	Google + Fusion
+	https://www.theguardian.com/environment/2017/jul/25/google-enters-race-for-nuclear-fusion-technology
+	
+		SkunkWorks + Fusion	https://www.theguardian.com/environment/2014/oct/16/has-lockheed-martin-really-made-a-breakthrough-on-nuclear-fusion
+		
+	Citizen Sci paper
+	https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.77/
+	
+	
+	Pixy, auto-CV
+	http://charmedlabs.com/default/pixy-robot-vision-made-easy/
