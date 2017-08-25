@@ -4337,3 +4337,72 @@
 	
 	Pixy, auto-CV
 	http://charmedlabs.com/default/pixy-robot-vision-made-easy/
+	
+	Damore AMA
+	https://www.reddit.com/r/JamesDamore/comments/6thcy3/im_james_damore_ama/
+	
+	Compiler explained
+	https://nicoleorchard.com/blog/compilers
+	
+	https://srconstantin.wordpress.com/
+		As Robert Frost said, “Home is where, when you go there, they have to take you in.” But Tesla Motors and MIT don’t have to take you in. And they wouldn’t work if they did.
+	
+	DIY Levetator
+	https://blog.hackster.io/tinylev-is-an-acoustic-levitator-you-can-build-at-home-79b1b4f052bb
+	
+	Xamarin dev with a shop, in Germany
+	https://github.com/aspnetde
+	
+	Python executable
+	http://docs.python-guide.org/en/latest/shipping/freezing/
+	
+	SSC commentor, pro-sex at work
+	https://www.reddit.com/user/entropizer
+	
+	
+	https://www.sophiaellis.co/blog/the-world-belongs-to-those-who-create-vs-those-who-consume
+	
+	
+	https://ridewithgps.com/ride_reports
+	
+	https://www.google.com/search?q=vaught%27s+practical+character+reader
+	
+	Something between AWS and Azure for ML / DL boxes
+	https://www.paperspace.com/
+	
+	Ant Colony, robotic stage for photography
+	https://twitter.com/MakerTobey/status/900331831563866114
+	
+	Histograms Library in multiple languages
+	https://github.com/HdrHistogram/HdrHistogram
+	
+	Similar to Scott Adams view of different perceptions of realities, also makes me think why disadvantaged children don't do well in formal education.
+	https://samzdat.com/2017/08/12/thats-amore/#more-34227
+	
+	https://en.wikipedia.org/wiki/Stone_Soup
+	
+	Panel on HighPerf dotnet
+	https://www.infoq.com/articles/high-performance-dotnet
+	
+		Stannard's firm
+		https://petabridge.com/
+	
+		Maoni
+		https://github.com/Maoni0?tab=repositories
+	
+	nodeJS board SJW
+	https://github.com/mrhinkle
+	
+	
+	Mechanical Chess
+	https://www.youtube.com/watch?v=dX37LFv8jWY
+	
+	NVIDIA board for $199, can it use a camera?
+	http://www.nvidia.com/object/JetsonTX1DeveloperKitSE?ncid=pa-twi-nstrjntxssldv-20070
+	
+	Perpetual motion machine ala museum of science
+	never ending rolling ping pong ball
+	https://blog.adafruit.com/2017/08/25/mesmerizing-never-ending-meccano-ping-pong-ball-roller/
+	
+	C# v8
+	https://www.infoq.com/news/2017/08/CSharp-8
