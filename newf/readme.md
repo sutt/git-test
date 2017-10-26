@@ -4406,3 +4406,218 @@
 	
 	C# v8
 	https://www.infoq.com/news/2017/08/CSharp-8
+	
+	dotnet manual managed memory option to turn off GC, "project snowflake"
+	http://lambda-the-ultimate.org/node/5456
+	
+	Life hacks, but less click baitey
+	http://kk.org/cooltools/
+	
+	Mz on HN, http://micheleincalifornia.blogspot.com/p/hn-tools.html
+	
+	Robot fight!
+	https://giphy.com/gifs/GowID3a1UB62Q
+	
+	Rpi home monitoring	https://blog.hackster.io/monitor-your-house-with-an-automated-raspberry-pi-3-surveillance-camera-fee7b5ad25e8
+	
+	dotnet coreclr gc options flag
+	https://twitter.com/matthewwarren/status/902531631310921728
+	
+	In Athena's Camp, 1997 research paper on information age's impact on war and combat
+	https://www.rand.org/pubs/monograph_reports/MR880.html
+	
+	Prepping
+		the doc: http://lcamtuf.coredump.cx/prep/
+		the discussion: https://news.ycombinator.com/item?id=15110850
+		a startup catering: https://theprepared.com/
+		
+	c# Reddit Client simple app (for SSC)	https://www.reddit.com/r/slatestarcodex/comments/6w52d0/culture_war_roundup_for_the_week_following_august/dmaz06x/
+	
+	Nitrogen Revolution
+	https://synbiobeta.com/slaves-to-nitrogen/
+	
+	Two Worlds of Linda Fitzpatrick (Lukas)
+	http://www.nytimes.com/books/97/10/26/home/luckas-fitzpatrick.html
+	
+	Napolean Hill
+	http://paleofuture.gizmodo.com/the-untold-story-of-napoleon-hill-the-greatest-self-he-1789385645#
+	
+	SSC + Umass CS guy
+	https://github.com/gbear605/
+	
+	Ho Chi Minh and Macolm X at Parker House Hotel, Boston
+	http://newenglandfolklore.blogspot.com/2011/01/parker-house-boston-cream-pie-ho-chi.html
+	
+	Machiavelli wrote: “This is the way things are: whenever one tries to escape one danger one runs into another. Prudence consists in being able to assess the nature of a particular threat and in accepting the lesser evil.”
+	
+	Brad Dwyer, Indie Gav Dev in Silicon Prarie, Iowa
+	https://news.ycombinator.com/user?id=yeldarb
+		http://about.hatchlings.com/#!/the-company
+	
+	Navy scientist. Expert in remote sensing, wireless, computer-aided discovery. #HamSCI
+	https://twitter.com/sci_vision
+	
+	Navy Hackathon
+	https://twitter.com/TheSpaceGal/status/905996680008392710
+	
+	Reinforcemont learning	http://www.kdnuggets.com/2017/09/5-ways-get-started-reinforcement-learning.html?utm_content=bufferdc716&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+	
+	Physics with deep learning, UC Berk dexterity dataset	https://spectrum.ieee.org/automaton/robotics/robotics-software/uc-berkeley-releases-massive-dexnet-20-dataset
+	
+	21 Studios - dating advice
+	https://www.youtube.com/watch?v=Ar3EZjIs-HM
+	
+	
+	MS Conference 2017: Scott Hanselman describe .net core / standard / etc
+	https://channel9.msdn.com/Events/Build/2017/B8001
+	
+	Boston startups funded
+	https://www.americaninno.com/boston/boston-tech-startups-that-raised-money-in-may-2017/
+	
+	TensorFlow + Reinforcement learning, by Karpathy
+	https://github.com/karpathy/tf-agent
+	
+	Assymteric play as reinforcement learning
+	https://arxiv.org/pdf/1703.05407.pdf
+	
+	Vox day - SJWs
+	https://www.amazon.com/SJWs-Always-Double-Down-Anticipating-ebook/dp/B075BGGKLG
+	
+	WinchBot the inlab Webcam, by woman engineer, Micah MElizabethScott
+	https://www.youtube.com/watch?time_continue=9&v=s3O0jKvxUIM
+	
+		https://go.twitch.tv/scanlime
+		
+		https://twitter.com/scanlimelive
+	
+	ex-pat napolean hill
+	https://mavericktraveler.com/commoditization-american-dream/
+	
+	touch screen coffee table
+	https://hackaday.io/project/27155-touch-screen-coffee-table-diy-with-low-cost-sensor
+	
+	
+	https://www.youtube.com/watch?v=2aOYc_GKTHQ&feature=youtu.be
+	
+	Airbar - make a dumb screen into a touch screen
+	https://www.youtube.com/watch?v=QR5r1EfvheI
+	
+	
+	Wallaroo - python processing on streams
+	https://blog.wallaroolabs.com/2017/10/go-python-go-stream-processing-for-python/
+	
+	Zed camera - stereo vision at 2K, $500
+	https://www.stereolabs.com/
+	
+		http://ardupilot.org/copter/docs/common-zed.html
+	
+	Framework for newstory visualization + scolling text eg north korean missile range story
+	https://github.com/abcnews/odyssey-scrollyteller
+	
+	python graph gallery
+	https://python-graph-gallery.com/
+	
+	
+	AI weekly newletter?	https://www.getrevue.co/profile/wildml/issues/the-wild-week-in-ai-theano-development-ends-new-microsoft-ml-services-sketch-style-to-paints-75476
+	
+	Non-liner computation in NN	https://blog.openai.com/nonlinear-computation-in-linear-networks/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+	
+	RobotBlockParty	https://medium.com/silicon-valley-robotics/2017-silicon-valley-robot-block-party-attracts-over-1000-attendees-427a2f30f79a
+	
+		Companies at the Robot Block Party: Jabil, Radius Innovation, Intel, Fetch Robotics, EandM Robotics, SICK Sensors, Harmonic Drive, SRI International, Toyota Research Institute, Savioke, ABB Robotics, Olympus Controls, Universal Robots, Starship Technology, Zume Pizza, Silicon Segway, SAKE Robotics, MITSUI Chemicals, NorthEastern University, BEST Tensegrity Lab UC Berkeley, Catalia Health, Chime, Electric Movement, Augmented Pixels, Viking Team 6688, Central Park STEAM Robotics, RoboTerra, Dash Robotics, Techy Kids, USPTO, SF Drone School, sUAS News, GIGAmacro, Homebrew Robotics, Ubiquity Robotics, Point1 Seconds, EBSB, Emoshape, Carrender Robotics, Robot Garden, Tempo Automation, RMUS Dynamics, Beetl Robotics, krtkl, Greppy, and Let’s Robot.
+		
+	Bayesian Modelling PDF-book	https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=0&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI
+	
+	
+	Craig Venter satire
+	http://jamesvalcourt.com/jcraigvintner/chardonnay_genomics.html
+	
+	Neural Network in 11 lines of python
+	http://iamtrask.github.io/2015/07/12/basic-python-network/
+	
+	Babble and background noise to simulate coffee shop
+	https://coffitivity.com/premium
+	
+	
+	http://philip.greenspun.com/careers/women-in-science
+	
+	Block chain 101
+	https://unwttng.com/what-is-a-blockchain
+	
+	Good repo of docs
+	https://devdocs.io/python~2.7/
+	
+	Fermi Paradox slides	http://www.jodrellbank.manchester.ac.uk/media/eps/jodrell-bank-centre-for-astrophysics/news-and-events/2017/uksrn-slides/Anders-Sandberg---Dissolving-Fermi-Paradox-UKSRN.pdf
+	
+	 A State of Freedom by Neel Mukherjee due out January 2018
+	 
+	 "Amor Fati" by Ryan Holiday
+	 https://journal.thriveglobal.com/the-unfathomable-power-of-amor-fati-ed947f660ad9
+	 
+	 Hackaday conference
+	 https://www.eventbrite.com/e/hackaday-superconference-2017-tickets-35735832838?aff=hadtwitter
+	 
+	 Pythran a Cython like compiler for jupyter notebooks
+	 https://twitter.com/SylvainCorlay/status/922444177610338304
+	 
+		Make klein bottles and manipulatable 3d structures in ipynb
+		https://ipyvolume.readthedocs.io/en/latest/#changelog
+		
+		Also by French core dev, a c++ algebra library
+		http://quantstack.net/xtensor
+		
+	ETH Zurich AI conference
+	http://wrai.org/
+	
+	Python extension for VScode
+		
+		cv2 autocomplete problems
+		https://github.com/DonJayamanne/pythonVSCode/issues/858
+	
+			also an issue for jedi
+			https://github.com/DonJayamanne/pythonVSCode/issues/1182
+			
+			Troubleshooting
+			https://github.com/DonJayamanne/pythonVSCode/wiki/Troubleshooting-Intellisense-Autocompletion
+			
+			
+		find all references problem
+		https://github.com/DonJayamanne/pythonVSCode/issues/840
+		"As I also investigated this issue a lot, I found it is not the problem of jedi itself. It is vscode python extension does not use the jedi as correctly as it should. That`s why we have this problem haunting many of us python programmers who are using this extension right now."
+		https://github.com/DonJayamanne/pythonVSCode/issues/1182
+		https://github.com/DonJayamanne/pythonVSCode/issues/1265
+		https://github.com/DonJayamanne/pythonVSCode/issues/1045
+		
+		Code wont work
+			line 245: .. todo:: Implement additional_module_paths	https://github.com/DonJayamanne/pythonVSCode/blob/30e1ab8eab56d93950d2528a1204a66f24fefa8e/pythonFiles/preview/jedi/api/__init__.py
+				https://github.com/DonJayamanne/pythonVSCode/blob/30e1ab8eab56d93950d2528a1204a66f24fefa8e/pythonFiles/preview/jedi/api/usages.py
+				
+		
+		Ed K's company has a free residence program
+		http://f0cal.com/community
+		
+			https://github.com/f0cal
+	
+	
+		SSC users on DeepMind paper
+		https://www.reddit.com/r/slatestarcodex/comments/77w4r9/alphago_zero_and_the_foom_debate_machine/
+	
+		Comparison of imageJ and other software for cell counting
+		https://imagej.net/ImageJ
+		
+		
+		https://news.ycombinator.com/user?id=robotresearcher
+		
+		Roboticist at GoogleX
+		http://gabriellalevine.com/
+		
+		https://www.biomaker.org/microscopy
+			
+			a dev of this
+			https://twitter.com/Kyata_C
+			
+		HDMI to CSI board for RPI + GoPro CV
+		https://www.youtube.com/watch?v=Z2Hq4jDWunk
+		
+		How to help out in OSS
+		https://www.snoyman.com/blog/2017/10/manipulating-maintainers
