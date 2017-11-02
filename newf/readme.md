@@ -4621,3 +4621,24 @@
 		
 		How to help out in OSS
 		https://www.snoyman.com/blog/2017/10/manipulating-maintainers
+		
+		MA Robotics
+		http://www.masstlc.org/ten-robotics-start-ups-shine-at-massrobotics-demo-days/
+		
+			https://softroboticstoolkit.com/
+			
+		Synbio MOOC by Jake Wintermute
+		https://syntheticbiology1.com/
+		
+		Robotics, Mensh, Jr Dev: Wesley Cassels
+		http://blog.wesleyac.com/
+		
+			http://blog.wesleyac.com/posts/intro-to-control-part-zero-whats-this
+			
+			http://blog.wesleyac.com/posts/balancing-robot
+			
+		Robot job in Wilmington, MA
+		http://www.locusrobotics.com/about-us/careers/
+		
+		Millenials want real jobs motivation eMag
+		https://medium.com/the-mission
