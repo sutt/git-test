@@ -4642,3 +4642,58 @@
 		
 		Millenials want real jobs motivation eMag
 		https://medium.com/the-mission
+		
+		Threading models for HFT
+		https://lmax-exchange.github.io/disruptor/
+		
+		FlowBasedProgramming, explained, demoed
+		http://jpaulmorrison.com/fbp/software.html#C#FBP
+		
+		Edu hackahton
+		http://communities.techstars.com/usa/boston/startup-weekend/11251
+		
+		Mexican immmigrants build robot
+		https://www.wired.com/2014/12/4-mexican-immigrant-kids-cheap-robot-beat-mit/
+		
+		SDR for drone control
+		https://github.com/miek/gr-hubsan
+		
+		Dennis talks baseball pitch prediction from DataRobot
+		https://www.youtube.com/watch?v=gNR1DmWqBL0
+		
+		Geneva Mechanism, Great courses does Maker!
+		https://www.youtube.com/watch?v=Le-PVXUCl0M
+		
+		Great courses, Maker edition!
+		https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg
+		
+		https://www.meetup.com/Makers-of-HATCH-Makerspace/member/99244252/
+		
+		The gulag
+		http://thefederalist.com/2017/11/09/communists-family-soviet-gulags/#.WgRjCywflUc.twitter
+		
+		Zen of getting things done
+		https://blog.zenkit.com/a-beginners-guide-to-getting-things-done-3cc1a5123b98
+		
+		Nrx
+		https://bloodyshovel.wordpress.com/2017/11/14/biological-leninism/
+		
+		TechStars plus USAF anti-drone accelerator	https://www.americaninno.com/boston/inno-news-boston/exclusive-techstars-new-anti-drone-tech-accelerator-with-the-air-force-has-found-its-home/
+		
+		https://calmandcollected.com/lost-friends-love-and-money/
+		https://harpers.org/archive/2007/02/the-ecstasy-of-influence/
+		https://harpers.org/archive/2017/11/bad-dog/
+		https://twitter.com/AzureFunctions
+		
+		An iconoclast of a HN commenter
+		https://news.ycombinator.com/user?id=kls
+		
+		1-month challenge self-improvement guy
+		https://www.scotthyoung.com/blog/my-projects/
+		
+		
+		Building a little robot
+		http://www.instructables.com/id/Arduino-Neural-Network-Robot/
+		
+		c# memory span
+		https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md
