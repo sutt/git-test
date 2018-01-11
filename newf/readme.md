@@ -4697,3 +4697,53 @@
 		
 		c# memory span
 		https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md
+		
+		Human pilots are better than AI pilots, for now
+		https://dronelife.com/2017/11/27/nasa-shows-ai-cant-race-expert-drone-pilot-yet/
+		
+		?q=BF Skinner Pigenons ping pong
+		
+		Ken Burns civil war, letter to wife
+		https://www.youtube.com/watch?v=DNfBdzpG6L4
+		
+		How do I judge a woman’s character? I see how she treats people who can do nothing for her. 
+		
+		async in csharp, a written lecture
+		https://blogs.msdn.microsoft.com/seteplia/2017/11/30/dissecting-the-async-methods-in-c/
+		
+		
+		Restaurant with tech for kids
+		https://www.nymetroparents.com/article/sues-tech-kitchen-randi-zuckerberg-interview
+		
+		Ice Luge
+		https://gizmodo.com/5945245/how-to-make-the-perfect-ice-cube
+		
+		Lit / Fiction
+		http://fictionaut.com/stories/mary-gaitskill/something-better-than-this
+		http://lithub.com/against-the-attention-economy-short-stories-are-not-quick-literary-fixes/
+		
+		Chess Engine stuff
+		
+			https://github.com/official-stockfish/Stockfish
+			
+			https://chessprogramming.wikispaces.com/X-ray+Attacks+%28Bitboards%29
+			
+		Garage Shop youtuber
+		https://www.youtube.com/user/featony/videos
+			
+			
+		Random links found
+		https://medium.com/@Gargron/mastodon-2-0-e93d9d28dbb9
+		https://www.technologyreview.com/s/609168/the-secret-betting-strategy-that-beats-online-bookmakers/
+		
+		
+		In short, if you want to change something you need broad agreement on the following:
+		(1) That there is a problem;
+		(2) that certain specific objectives (however vague) should be accomplished; and
+		(3) that specific and effective actions should be COLLECTIVELY TAKEN to accomplish one or more of those objectives.
+		
+		conservative girl roboticist
+		https://www.youtube.com/channel/UCbjleT-kTGyvHAsXk-tS_8A/featured
+		https://twitter.com/AnnikaSkywalker
+		
+		
